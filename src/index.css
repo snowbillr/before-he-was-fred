@@ -1,1 +1,27 @@
 @import "tailwindcss";
+
+@theme {
+  /* Editorial Color System */
+  --color-parchment-base: #fdfbf7;
+  --color-parchment-card: #f4efe6;
+  --color-parchment-border: #e7dfd3;
+  
+  --color-ink-primary: #1c1917;
+  --color-ink-secondary: #57534e;
+  --color-ink-muted: #78716c;
+
+  /* Specs Highlights & Route Accents */
+  --color-route-red: #991b1b;
+  --color-route-red-hover: #7f1d1d;
+  --color-source-highlight: #fef3c7;
+  --color-source-border: #f59e0b;
+
+  /* Typography Hierarchy */
+  --font-serif: "Merriweather", "Georgia", serif;
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  /* Container & Structural Tokens */
+  --spacing-header-height: 4rem;
+  --shadow-parchment: 0 4px 20px -2px rgba(28, 25, 23, 0.05);
+}
