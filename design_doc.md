@@ -11,19 +11,14 @@
 
 * **Target Device:** Desktop-only display. (Designed specifically for widescreen layouts to support side-by-side editorial text and rich archival media widgets).
 
-
 * **Hosting:** Static HTML/CSS/JS hosted on GitHub Pages (zero backend dependencies).
-
 
 * **Styling & Layout:** Tailwind CSS for responsive split-screen grid layouts. Custom CSS variables for warm parchment editorial styling.
 
-
 * **Mapping Engine:** D3.js with TopoJSON (Orthographic globe projection).
 
-
 * **State Management:** URL hash-based routing (`/#chapter-1`, `/#chapter-2`, etc.) to support bookmarking, direct links, and browser back/forward navigation.
-
-
+    * **Data Layer:** Static JSON schema (/data/letters.json) mapping chapter section IDs to German transcriptions, English translations, and archival page indices.
 
 ---
 
@@ -33,9 +28,7 @@
 
 * **Top Bar Layout:** A fixed header bar containing the site title, a zoomed-in vector globe/map slice, and chapter navigation controls.
 
-
 * **Discrete Navigation:** The map does **not** drive the scrolling; instead, advancing to a new chapter pans the globe to the active coordinates and draws the red dashed route line incrementally from the previous location to the current destination.
-
 
 * **Header Controls:** Includes a discreet "Chapter Index" dropdown, along with "Previous" and "Next" arrow buttons to jump across sections.
 
@@ -45,15 +38,27 @@
 
 * **Page Layout:** Side-by-side desktop split layout.
 
-
 * **Left Column (Primary Story):** Clear, legible serif typography presenting the translated letter excerpt, contextual historical annotations, and inline blockquotes.
 
-
 * **Right Column (Archival & Media Panel):** High-resolution historic photos, map overlays, cultural context cards, and interactive widgets tied specifically to that chapter's location.
-
+    * **Source Alignment:** Direct link to German/English transcription snippet for [Chapter Event].
 
 * **Footer Controls:** Every chapter ends with a prominent, styled call-to-action button: **"Continue Journey to [Next Location] $\rightarrow$"**.
 
+
+### 3. Primary Source & Translation Engine
+
+* **JSON-Backed Archival Data (`/data/letters.json`):** 
+  * Stores section-by-section primary source data including raw German transcriptions, English translations, and physical page/letter references (e.g., `Letter 1, Page 4`).
+
+* **Inline Source Badges:**
+  * Interactive source badges (`[Letter 1, p. 4]`) embedded directly in the left-column narrative text.
+
+* **Dual-Tab Media/Source Panel:**
+  * The right-column container features a toggle bar: **[ Cultural & Archival Media ]** | **[ Original Letter Source ]**.
+
+* **Synchronized Deep-Linking & Highlighting:**
+  * Clicking an inline source badge automatically switches the right panel to the **Original Letter Source** tab, scrolls to the matching snippet, and applies a temporary soft parchment highlight (`#fef3c7`) behind both the German transcription and English translation simultaneously.
 
 
 ---
