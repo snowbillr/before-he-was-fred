@@ -1,9 +1,9 @@
 # Chapter 3: The Tahir Pass Blizzard
 **Route:** Kızıldize → Taşlıçay → Karaköse (Ağrı) → Eleşkirt → Türkali → Tahir Pass → Tahir → Delal
-**Dates:** Dec 28, 1939 – Jan 6, 1940
+**Dates:** Dec 23, 1939 – Jan 6, 1940
 **Mode of travel:** Windowless Ford truck, horse-drawn sleds, and on foot
 
-> **Date check:** The English translation gives "Dec 25th" for the morning in Taşlıçay and "Dec 27th" for the Ford's departure (Letter p. 6–7). Neither fits the rest of the letter: the Taşlıçay pages are dated 29 Dec, and the party left Karaköse by sled on Dec 31. The dates below follow the internally consistent sequence. Confirm them against the German transcription (`PLAN/letter/de/`).
+> **Dates:** The letter's German dateline reads "25. Dezember 1939, Taslicay" (the English translation had "29"), and Fritz writes that the farewell in Tehran was "heute vor 6 Tagen" (6 days ago). So they left Tehran on Dec 19, reached Bazargan on Dec 23 (matching the telegram "vom 23."), and woke in Taşlıçay on Dec 25. The Dec 25 and Dec 27 dates on letter pp. 6–7 are correct.
 
 ## Chapter Overview
 This is the emotional core of the letter. A night stranded in the snow at −35°C, an axle failure, an overturned truck, days of waiting in Karaköse, and New Year's Eve with only tea. Then a failed sled crossing of the Tahir Pass in a blizzard, five days trapped in a vermin-ridden hut in Türkali, and the successful crossing on January 6. Most of this chapter happens *between* towns, so the legs matter more than the stops.
@@ -11,7 +11,7 @@ This is the emotional core of the letter. A night stranded in the snow at −35�
 ---
 
 ## Stop: Kızıldize
-**Coordinates:** ~39.6300° N, 43.8300° E (approximate) | **Date:** Dec 28, 1939
+**Coordinates:** ~39.6300° N, 43.8300° E (approximate) | **Date:** Dec 23–24, 1939
 
 ### Narrative
 "Unwashed, frozen, and hungry" in a dark, bitterly cold inn, they waited because the chauffeurs saw no way through the snow [Letter p. 5 — "Unwashed, frozen, and hungry"]. They played the card game 66 "to hundred-thousand" and then started over [Letter p. 5 — "played 66 to hundred-thousand"]. Hunger drove them to eat an unappetizing chunk of meat swimming in fat, which they "pounced on like wolves" [Letter p. 5 — "pounced on it like wolves"]. Their chauffeur had to go back to Gürbulak about the confiscated tires, so they were transferred to another truck [Letter p. 5 — "go back to Gürbulak because of the tires"].
@@ -22,7 +22,7 @@ This is the emotional core of the letter. A night stranded in the snow at −35�
 ---
 
 ## Leg: Kızıldize → Taşlıçay (night drive in the snow)
-**Date:** Dec 28–29, 1939 (late afternoon through the night)
+**Date:** Dec 24–25, 1939 (late afternoon through the night)
 
 ### Narrative
 The replacement was a Ford with no side windows, "only sketchily covered with a tarpaulin". A Chevrolet followed with Strauss's large luggage [Letter p. 5 — "a Ford that had no side windows"]. Only two snowed-over ruts marked the road. After 20 km the Ford stuck, and from then on the men shoveled and pushed again and again, sinking above the knee. Fritz's nose froze shut, and he "would have gladly given a kingdom for a warm bed" [Letter p. 5 — "given a kingdom for a warm bed"]. Then the Chevrolet ran out of gasoline [Letter p. 6 — "The gasoline was at an end"]. Half asleep, Fritz felt the Ford rolling backward. Dogs barked at a lonely house 30 m from the road, where a stranger gave them the better of his two beds [Letter p. 6 — "a lonely house"].
@@ -34,19 +34,20 @@ The replacement was a Ford with no side windows, "only sketchily covered with a 
 ---
 
 ## Stop: Taşlıçay
-**Coordinates:** 39.6328° N, 43.3556° E | **Date:** ~Dec 29–30, 1939 (see date check)
+**Coordinates:** 39.6328° N, 43.3556° E | **Date:** Dec 25–27, 1939
 
 ### Narrative
 They woke to a brilliant sunny winter day. In the village elder's house they talked with their hands over tea. In the inn they learned that the night had brought "35 degrees of cold" and that they had to wait for gasoline from Karaköse, 35 km away [Letter p. 6 — "35 degrees of cold"]. Fritz learned the Turkish numbers, drew up a word list, and began this very letter. He told his father to trace the Euphrates north from Baghdad on the map to find the place [Letter p. 6 — "search in vain with your finger on the map"]. Looking back, Fritz realized the delay may have saved their lives: without it they would have arrived "right into the middle of the earthquake" [Letter p. 7 — "right into the middle of the earthquake"].
 
 ### Features & Media
-* **Primary Source Highlight:** The opening dateline of the letter, "Taslicay (Asia Minor), 29 December 1939" [Letter p. 1 — "Taslicay"].
+* **Primary Source Highlight:** The opening dateline of the letter, "Taslicay (Asia Minor), 25 December 1939" [Letter p. 1 — "Taslicay"].
 * **Map Inset:** Fritz's directions, traced along the Euphrates from Baghdad to Taşlıçay.
+* **Context Card — "Meanwhile":** The Erzincan earthquake struck at about 2 AM on Dec 27, the morning they left Taşlıçay, roughly 300 km to the west. The letter does not mention it until Erzurum (see Chapter 4).
 
 ---
 
 ## Leg: Taşlıçay → Karaköse (broken axle, overturned truck, first sled)
-**Date:** ~Dec 30, 1939 (see date check)
+**Date:** Dec 27, 1939
 
 ### Narrative
 The gasoline came, but in the haze the Ford drove into the Chevrolet's ruts and broke an axle straining to get free [Letter p. 7 — "an axle broke"]. They rented a sled in the village. Fritz's feet froze in his mountain boots, and Strauss had his invaluable ski cap but two left gloves [Letter p. 7 — "2 left gloves"]. A few kilometers on, they found the Chevrolet overturned off the road with Strauss's suitcases scattered in the snow [Letter p. 7 — "overturned"]. They reached Karaköse at dark.
@@ -54,7 +55,7 @@ The gasoline came, but in the haze the Ford drove into the Chevrolet's ruts and 
 ---
 
 ## Stop: Karaköse (today Ağrı)
-**Coordinates:** 39.7194° N, 43.0503° E | **Date:** ~Dec 30–31, 1939
+**Coordinates:** 39.7194° N, 43.0503° E | **Date:** Dec 27–31, 1939
 
 ### Narrative
 The road was "closed for cars for an indefinite time". Days passed with inquiries at the bus office, cards and backgammon, and writing. The Persian-speaking hotel keepers were their only interpreters [Letter p. 7 — "closed for cars for an indefinite time"]. The only way out was a 185 km sled ride to Erzurum. They made the chauffeur pay half of it, 9 Lira, because they had already paid through to Trabzon [Letter p. 8 — "9 Lira"].

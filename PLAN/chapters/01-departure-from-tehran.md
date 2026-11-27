@@ -1,6 +1,6 @@
 # Chapter 1: Departure from Tehran
 **Route:** Tehran → Qazvin → Zanjan → Taserkand → Mianeh → Tabriz
-**Dates:** Dec 23–24, 1939
+**Dates:** Dec 19–20, 1939
 **Mode of travel:** Hired car with chauffeur (Fritz, Strauss, an Armenian girl and a young man traveling with her)
 
 > Citation format: `[Letter p. N — "anchor"]` points to the sentence in letter scan N whose English contains the anchor phrase. Each one resolves to a sentence ID in `PLAN/letter/pages/page-NN.json` (see design doc, "Primary Source & Translation Engine").
@@ -11,7 +11,7 @@ Fritz leaves his parents and almost three years of refuge in Tehran. In two days
 ---
 
 ## Stop: Tehran
-**Coordinates:** 35.6892° N, 51.3890° E | **Date:** Dec 23, 1939, 5:00 PM
+**Coordinates:** 35.6892° N, 51.3890° E | **Date:** Dec 19, 1939, 5:00 PM
 
 ### Narrative
 The goodbye came suddenly. Everything Fritz had wanted to say "remained stuck in my throat" [Letter p. 1 — "remained stuck in my throat"]. He waited almost 2½ hours at the garage hoping his parents would come by once more, grateful for two years of friendships and for having escaped "the immediate danger zone" [Letter p. 1 — "escape the immediate danger zone"]. Around 4:30–5:00 the fourth traveler, an Armenian girl, arrived with an enormous amount of luggage and a crowd of relatives. After a noisy repacking they drove off at 5 o'clock, Fritz squeezed in the middle of the back seat, leaving Tehran in the twilight with hardly a word spoken [Letter p. 1 — "Finally, at 5 o'clock we drove off"].
@@ -32,7 +32,7 @@ Even before Qazvin they ran into light snowfall. The plain turned white under "a
 ---
 
 ## Stop: Qazvin
-**Coordinates:** 36.2688° N, 49.9981° E | **Date:** Dec 23, 1939, 8:30 PM
+**Coordinates:** 36.2688° N, 49.9981° E | **Date:** Dec 19, 1939, 8:30 PM
 
 ### Narrative
 They stopped at the "Grand Hotel" for a short rest. Strauss, who had spent four days there on his way to Tehran, rushed to the hotel's venerable radio set "without noteworthy success" [Letter p. 1 — "venerable radio set"]. Fritz ordered bread and tea, which cost 8 Toman for a meager snack [Letter p. 1 — "8 Toman"].
@@ -50,7 +50,7 @@ They drove on through the snowfall and reached Zanjan around midnight [Letter p.
 ---
 
 ## Stop: Zanjan
-**Coordinates:** 36.6736° N, 48.4963° E | **Date:** Dec 23–24, 1939 (midnight to 8:30 AM)
+**Coordinates:** 36.6736° N, 48.4963° E | **Date:** Dec 19–20, 1939 (midnight to 8:30 AM)
 
 ### Narrative
 The town's only hotel had most rooms locked and the keys lost. After the girl and the young man had rooms, a door was forced for Fritz and Strauss, revealing one bed. It was bitterly cold, so they shared it [Letter p. 1 — "we lay down together"]. The young man then burst in to complain that his window had no panes. In the morning Fritz worked out that shutters, not glass, were the local custom [Letter p. 2 — "came in again and swore"].
@@ -70,7 +70,7 @@ They left at 8:30–9:00. The hilly landscape was unexpectedly free of snow. The
 ---
 
 ## Stop: Taserkand (Tazeh Kand)
-**Coordinates:** ~37.3000° N, 47.7000° E (approximate) | **Date:** Dec 24, 1939, 10:00 AM
+**Coordinates:** ~37.3000° N, 47.7000° E (approximate) | **Date:** Dec 20, 1939, 10:00 AM
 
 ### Narrative
 A tea break in a village, with delicious hot milk [Letter p. 2 — "tea break in a village named Taserkand"].
@@ -87,7 +87,7 @@ The car crossed "a high, heavily snowed mountain range" where many other cars we
 ---
 
 ## Stop: Mianeh
-**Coordinates:** 37.4173° N, 47.7121° E | **Date:** Dec 24, 1939, noon
+**Coordinates:** 37.4173° N, 47.7121° E | **Date:** Dec 20, 1939, noon
 
 ### Narrative
 A good, cheap lunch of roast chicken with fried potatoes [Letter p. 2 — "roast chicken with fried potatoes"].
@@ -105,7 +105,7 @@ Fritz and Strauss suddenly stepped into the road at the same moment. In front of
 ---
 
 ## Stop: Tabriz
-**Coordinates:** 38.0962° N, 46.2738° E | **Date:** Dec 24, 1939, 5:30 PM (overnight)
+**Coordinates:** 38.0962° N, 46.2738° E | **Date:** Dec 20, 1939, 5:30 PM (overnight)
 
 ### Narrative
 Over tea, Hamid-Aga, a garage owner recommended by Mr. Fischer, said a truck would leave for Trebizond (Trabzon) on Thursday and would try to take them [Letter p. 2 — "Hamid-Aga, the garage owner"]. They took what was supposedly the last room at the Grand Hotel, went to the cinema (and slept there), and slept again at the hotel [Letter p. 2 — "decided to go to the cinema"].

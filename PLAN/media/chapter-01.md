@@ -1,6 +1,6 @@
 # Chapter 1 — Departure from Tehran: media & context research
 
-**Route:** Tehran → Qazvin → Zanjan → Taserkand → Mianeh → Tabriz (Dec 23–24, 1939)
+**Route:** Tehran → Qazvin → Zanjan → Taserkand → Mianeh → Tabriz (Dec 19–20, 1939)
 **Letter pages:** p. 1–2 (`### Page 1`, `### Page 2` in `PLAN/translation.md`)
 
 ## Notes on sources and licenses
@@ -13,7 +13,7 @@
 
 ---
 
-## 1. Tehran (departure, Dec 23, ~5:00 PM)
+## 1. Tehran (departure, Dec 19, ~5:00 PM)
 
 Letter p. 1: farewell from his parents; a 2½-hour wait at the garage; the Armenian girl arrives at 4:30–5:00 "with an enormous amount of luggage and provision baskets"; they leave "in the twilight."
 
@@ -30,7 +30,7 @@ Letter p. 1: farewell from his parents; a 2½-hour wait at the garage; the Armen
 
 ---
 
-## 2. Transit: Tehran → Qazvin (~150 km, evening of Dec 23)
+## 2. Transit: Tehran → Qazvin (~150 km, evening of Dec 19)
 
 Letter p. 1: "Even before Qazvin we ran into a light snowfall… The plain was white, even if covered with only a very delicate layer of snow." Fritz sits in the middle of the back seat; "Spoken was hardly a word."
 
@@ -45,7 +45,7 @@ Caveat: the archive marks the location of 2.1–2.3 as uncertain ("Lokalisierung
 
 ---
 
-## 3. Qazvin — Grand Hotel rest stop (8:30 PM, Dec 23)
+## 3. Qazvin — Grand Hotel rest stop (8:30 PM, Dec 19)
 
 Letter p. 1: "At 8:30 we stopped in front of the 'Grand Hotel' in Qazvin… Strauss… rushed… to the venerable radio set, without noteworthy success. Meanwhile, I ordered bread and tea… he took 8 Toman from us for the meager snack."
 
@@ -66,7 +66,7 @@ Possible extra (modern, CC BY-SA 4.0): photos of the hotel's ruins, e.g. https:/
 
 ---
 
-## 4. Transit: Qazvin → Zanjan (~180 km, night of Dec 23)
+## 4. Transit: Qazvin → Zanjan (~180 km, night of Dec 19)
 
 Letter p. 1: "Then we went on through the snowfall toward Zanjan, where we arrived around midnight."
 
@@ -79,7 +79,7 @@ No free night-driving or period Qazvin–Zanjan road photos exist. A route-map t
 
 ---
 
-## 5. Zanjan — overnight (midnight → 8:30/9:00 AM, Dec 24)
+## 5. Zanjan — overnight (midnight → 8:30/9:00 AM, Dec 20)
 
 Letter p. 1–2: only one hotel; rooms locked and keys lost; the two men share a single bed for warmth; the young man complains his window "had no panes." In the morning Fritz notices that wooden shutters, not glass, were the local custom.
 
@@ -92,7 +92,7 @@ Letter p. 1–2: only one hotel; rooms locked and keys lost; the two men share a
 
 ---
 
-## 6. Transit: Zanjan → Taserkand (morning of Dec 24)
+## 6. Transit: Zanjan → Taserkand (morning of Dec 20)
 
 Letter p. 2: "now the landscape suddenly became completely snowless… the region was hilly." The Armenian girl "had continuously vomited"; then "it began to snow again."
 
@@ -156,7 +156,7 @@ Letter p. 2: (a) "in front of a standalone teahouse, exactly 100 km before Tabri
 
 ---
 
-## 11. Tabriz — arrival (5:30 PM, Dec 24)
+## 11. Tabriz — arrival (5:30 PM, Dec 20)
 
 Letter p. 2: arrival at 5:30; tea with garage owner Hamid-Aga; "the allegedly last room" at the Grand Hotel; a cinema visit where "we slept quite well." (The Tabriz logistics on Dec 25 are covered in Chapter 2.)
 

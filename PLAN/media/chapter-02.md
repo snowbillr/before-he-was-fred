@@ -1,25 +1,25 @@
 # Chapter 2 — The Persian Frontier: media & context research
 
-**Route:** Tabriz → Khoy → Maku → Bazargan (Bazirgan) → Gürbulak (Dec 24/25–27, 1939)
+**Route:** Tabriz → Khoy → Maku → Bazargan (Bazirgan) → Gürbulak (Dec 20/21–27, 1939)
 **Letter pages:** p. 2 (second half) – p. 4 (`### Page 2`–`### Page 4` in `PLAN/translation.md`)
 
 The source and license notes from `chapter-01.md` apply here too: Schwarzenbach and Sevruguin images are public domain via the Swiss National Library and Museum Rietberg, and I could not reach the Library of Congress. Licenses were checked against the Commons file metadata.
 
-**Timeline from the letter (Dec 23, 1939 was a Saturday):**
+**Timeline from the letter (Dec 19, 1939 was a Tuesday; dates corrected from the German dateline "25. Dezember 1939"):**
 
 | When | What | Letter page |
 |---|---|---|
-| Sun Dec 24, 5:30 PM | Arrive in Tabriz | p. 2 |
-| Mon Dec 25 | Organize transport; bus leaves about 5:15 PM | p. 2 |
-| Tue Dec 26, 1 AM | Arrive in Khoy | p. 3 |
-| Tue Dec 26, 3 PM | Old bus leaves Khoy; Maku at 11 PM | p. 3 |
-| Wed Dec 27, 9 AM | Chevrolet to Bazirgan; customs, lunch; Gürbulak; Bayazit at dark | p. 3–4 |
+| Wed Dec 20, 5:30 PM | Arrive in Tabriz | p. 2 |
+| Thu Dec 21 | Organize transport; bus leaves about 5:15 PM | p. 2 |
+| Fri Dec 22, 1 AM | Arrive in Khoy | p. 3 |
+| Fri Dec 22, 3 PM | Old bus leaves Khoy; Maku at 11 PM | p. 3 |
+| Sat Dec 23, 9 AM | Chevrolet to Bazirgan; customs, lunch; Gürbulak; Bayazit at dark | p. 3–4 |
 
-Hamid-Aga's offer of a truck leaving on "Thursday" (Dec 28) was not the deal they took.
+Hamid-Aga's offer of a truck leaving on "Thursday" was not the deal they took.
 
 ---
 
-## 1. Tabriz — organizing the onward journey (Dec 25)
+## 1. Tabriz — organizing the onward journey (Dec 21)
 
 Letter p. 2: Fritz changes his pinching shoes at the garage. Hamid-Aga takes them to "a pharmacy opposite" where an older gentleman translates via French. He turns out to be a Lithuanian Jew, **Isaac Rabinowitsch**, who "was helpful to us in a touching way." He takes them to a transport specialist, and his clerk takes them into the bazaar, where they book the trip to Trebizond with a firm's manager for **130 toman**: "a 1.5-ton Chevrolet with space for 5 persons." Then roast chicken at the hotel. In the bazaar, Mr. Fischer's acquaintance ("crossed legs, a black-framed moon face") sends for his English-speaking son, who gets them bus seats to Bazirgan for 1 toman.
 
@@ -39,7 +39,7 @@ The Tabriz bazaar has no free period photos on Commons. Modern photos of the Moz
 
 ---
 
-## 2. Transit: Tabriz → Khoy by crowded bus (evening of Dec 25 → 1 AM Dec 26, ~170 km)
+## 2. Transit: Tabriz → Khoy by crowded bus (evening of Dec 21 → 1 AM Dec 22, ~170 km)
 
 Letter p. 2–3: the bus is "stuffed full. People were even sitting packed tightly in the aisle." They drive "initially along the railway line to Julfa, which we crossed many times." At an evening stop in a small courtyard they "drank tea in rough crowds and watched the men praying." They eat "a few hand towels of firmer quality and sheep's cheese," and pay 2 toman 10 shahi for 9 glasses of tea plus bread and cheese.
 
@@ -58,7 +58,7 @@ Letter p. 2–3: the bus is "stuffed full. People were even sitting packed tight
 
 ---
 
-## 3. Khoy (1 AM Dec 26 → 3 PM)
+## 3. Khoy (1 AM Dec 22 → 3 PM)
 
 Letter p. 3: their suitcases and the Chevrolet both arrive "and both made a huge noise." The hotel is closed, so a police officer helps them wake the receptionist. They get "the two-bed deluxe room" but sleep in one bed. Next morning in the bazaar they buy "thicker, colorful wool socks for 3 Toman each, which actually look more like slippers and are worn by almost all people there." Lunch is "excellent sour milk (*dough*)" and kebab.
 
@@ -78,7 +78,7 @@ Letter p. 3: their suitcases and the Chevrolet both arrive "and both made a huge
 
 ---
 
-## 4. Transit: Khoy → Maku — the ancient bus (3 PM → 11 PM, Dec 26, ~130 km)
+## 4. Transit: Khoy → Maku — the ancient bus (3 PM → 11 PM, Dec 22, ~130 km)
 
 Letter p. 3: "an ancient bus, which was mainly loaded with high piles of junk." There were 7 passengers. "Slower than a pedestrian, the bus chugged up the first slope, and every 2 km it was stopped to refill large amounts of carried water into the boiling radiator." Then the bus drove along a broader river. At dusk they drank tea "in a picturesque opium den" and dug some Iranian pistachios out of the floor of their bag. About 10 km before Maku they met the Chevrolet again and ate dinner in a "dive bar": "hand-towels of lesser quality, an excellent dish and a porridge made of flour, sugar, and mutton fat." Letter p. 3 (Karagossa section): "From Tabriz to Maku, one could only describe the paths in short sections as roads… the ride through the high mountain landscape was overall delightful… in the sharp moonlight."
 
@@ -100,7 +100,7 @@ Letter p. 3: "an ancient bus, which was mainly loaded with high piles of junk." 
 
 ---
 
-## 5. Maku (11 PM Dec 26 → 9 AM Dec 27)
+## 5. Maku (11 PM Dec 22 → 9 AM Dec 23)
 
 Letter p. 3: "In Maku there was no hotel, not even a teahouse." They sleep on two benches with a mattress in the bus waiting room. Next morning: "the village, which sits in a narrow valley under a mighty, vertical rock wall… houses up to 100m height like birds' nests, and then came the wall, which threatened to crush everything below it." There was no water for washing.
 
@@ -116,7 +116,7 @@ Letter p. 3: "In Maku there was no hotel, not even a teahouse." They sleep on tw
 
 ---
 
-## 6. Transit: Maku → Bazirgan (9 AM Dec 27, ~4 km per the letter)
+## 6. Transit: Maku → Bazirgan (9 AM Dec 23, ~4 km per the letter)
 
 Letter p. 3: "now for the first time in the Chevrolet. As there were only 3 seats, the chauffeur had to sit on the mudguard and the manager drove a short distance together. Luckily it was only 4 km to Bazirgan."
 
@@ -124,7 +124,7 @@ Letter p. 3: "now for the first time in the Chevrolet. As there were only 3 seat
 
 ---
 
-## 7. Bazirgan (Bazargan) — Iranian customs (morning–midday, Dec 27)
+## 7. Bazirgan (Bazargan) — Iranian customs (morning–midday, Dec 23)
 
 Letter p. 3–4:
 - **Setting:** "two massive buildings at the outermost northwest tip of Iran, in which the police and customs are housed," with sheds and the village tucked into the mountains.
@@ -138,7 +138,7 @@ Letter p. 3–4:
 
 | # | Title | Direct image URL | Source page | Creator / date | License | Suggested caption |
 |---|---|---|---|---|---|---|
-| 7.1 | Mt. Ararat from near the frontier | https://upload.wikimedia.org/wikipedia/commons/e/e5/Twin_Peaks_of_Mt._Ararat_-_Near_Turkish-Iranian_Frontier_at_Gurbulak_-_Turkey_%285804195511%29.jpg | https://commons.wikimedia.org/wiki/File:Twin_Peaks_of_Mt._Ararat_-_Near_Turkish-Iranian_Frontier_at_Gurbulak_-_Turkey_(5804195511).jpg | Adam Jones, 2011 | CC BY-SA 2.0 | Greater and Little Ararat from the frontier. On Dec 27, 1939 the summit was hidden in "black, impenetrable fog." |
+| 7.1 | Mt. Ararat from near the frontier | https://upload.wikimedia.org/wikipedia/commons/e/e5/Twin_Peaks_of_Mt._Ararat_-_Near_Turkish-Iranian_Frontier_at_Gurbulak_-_Turkey_%285804195511%29.jpg | https://commons.wikimedia.org/wiki/File:Twin_Peaks_of_Mt._Ararat_-_Near_Turkish-Iranian_Frontier_at_Gurbulak_-_Turkey_(5804195511).jpg | Adam Jones, 2011 | CC BY-SA 2.0 | Greater and Little Ararat from the frontier. On Dec 23, 1939 the summit was hidden in "black, impenetrable fog." |
 | 7.2 | Mt. Ararat with a cap of cloud | https://upload.wikimedia.org/wikipedia/commons/5/5f/Mt._Ararat_with_Cupola_of_Cloud_-_Near_Turkish-Iranian_Frontier_at_Gurbulak_-_Turkey_%285804760810%29.jpg | https://commons.wikimedia.org/wiki/File:Mt._Ararat_with_Cupola_of_Cloud_-_Near_Turkish-Iranian_Frontier_at_Gurbulak_-_Turkey_(5804760810).jpg | Adam Jones, 2011 | CC BY-SA 2.0 | Ararat's summit is often wrapped in cloud. |
 | 7.3 | Ararat from the Iranian side, 1976 | https://upload.wikimedia.org/wikipedia/commons/9/93/Ararat_od_strony_ira%C5%84skiej_-_Iran_-_002528n.jpg | https://commons.wikimedia.org/wiki/File:Ararat_od_strony_ira%C5%84skiej_-_Iran_-_002528n.jpg | Marek Bero, 1976 | CC BY-SA 3.0 PL | The mountain as seen from Iran. |
 | 7.4 | Bazargan border, modern | https://upload.wikimedia.org/wikipedia/commons/4/40/BazarganBorder.JPG | https://commons.wikimedia.org/wiki/File:BazarganBorder.JPG | M_karzarj, 2007 | CC BY-SA 3.0 | The Iran–Turkey frontier above the Bazargan customs complex. |
@@ -164,7 +164,7 @@ Letter p. 3–4:
 
 ---
 
-## 8. Transit: Bazirgan → Gürbulak (afternoon, Dec 27, ~4 km)
+## 8. Transit: Bazirgan → Gürbulak (afternoon, Dec 23, ~4 km)
 
 Letter p. 4: "Then we drove further between a few hills through the 4 km distant Turkish border village of Gürbulak."
 
@@ -175,7 +175,7 @@ Letter p. 4: "Then we drove further between a few hills through the 4 km distant
 
 ---
 
-## 9. Gürbulak — Turkish customs (Dec 27, until dark)
+## 9. Gürbulak — Turkish customs (Dec 23, until dark)
 
 Letter p. 4: "Nobody spoke Persian there." Their driver Ismael interprets. Money, silverware and Fritz's (stamp) collection are recorded in their passports "because there were no seals there." Customs "took 2 new tires off the driver and searched the car down to the smallest detail." Meanwhile "we strolled around on the hills and painted unseemly words in the fresh snow." At dark they continue to Bayazit (Chapter 3).
 
@@ -192,7 +192,7 @@ No free 1930s photos of Gürbulak found. It is a village of about 2,200 people t
 
 ## Flags: possible errors in the plan docs (Chapter 2)
 
-1. **Telegram date (`translation.md` p. 1 / `route.md`).** Letter p. 1 says the telegram was sent "from Bazirgan on the 23rd," but by the letter's own timeline they reached Bazirgan on **Dec 27** (Letter p. 3–4), and Dec 23 was the departure from Tehran. This is probably a transcription or translation slip; check the German typescript.
+1. **Telegram date (resolved).** The German dateline is "25. Dezember 1939" (the English had "29"), so they left Tehran on Dec 19 and reached Bazirgan on Dec 23, which matches the telegram. Original flag: Letter p. 1 says the telegram was sent "from Bazirgan on the 23rd," but by the letter's own timeline they reached Bazirgan on **Dec 27** (Letter p. 3–4), and Dec 23 was the departure from Tehran. This is probably a transcription or translation slip; check the German typescript.
 2. **`pages/12.md` (Tabriz → Khoy)** describes the boiling radiator, the opium den, meeting the Chevrolet 10 km before Maku, and the flatbread dinner. All of these happen on the **Khoy → Maku** leg (Letter p. 3). The Tabriz → Khoy leg was the overcrowded evening bus along the Julfa railway, with a courtyard tea stop, men praying, and "hand towels" with sheep's cheese (Letter p. 2). The plan also dates this page "Dec 25 (Evening)," which is right for Tabriz → Khoy.
 3. **`pages/13.md` (Khoy)** says only "overnight rest." It misses the night police episode, the wool socks bought in the bazaar, and *dugh* with kebab (Letter p. 3). "After driving through dark mountain roads" is not in the letter for this leg.
 4. **`pages/11.md` (Tabriz)** says the pharmacist helped secure "bus tickets to Bazargan." The pharmacist (Isaac Rabinowitsch) arranged the **truck** (130 toman to Trebizond). The **bus** seat (1 toman) was arranged by Mr. Fischer's acquaintance's English-speaking son (Letter p. 2). Hamid-Aga's Thursday truck to Trebizond was an offer, not the booking they made.

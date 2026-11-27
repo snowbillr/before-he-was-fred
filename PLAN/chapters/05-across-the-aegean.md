@@ -1,7 +1,7 @@
 # Chapter 5: Across the Aegean
-**Route:** Istanbul → (Orient Express) → Pythion → Alexandroupolis → Salonika → Thebes → Piraeus → (SS *Egitto*) → Corinth Canal → Brindisi → Foggia → Naples
+**Route:** Istanbul → (Orient Express) → Pythion → Alexandroupolis → Salonika → Thebes → Piraeus → (*Egitto*) → Corinth Canal → Brindisi → Foggia → Naples
 **Dates:** Jan 16–24, 1940
-**Mode of travel:** Ferry, tram, taxis, the Orient Express under police escort, a diesel railcar, Greek trains, the Italian steamer *Egitto*, a bus, and an overnight train
+**Mode of travel:** Ferry, tram, taxis, the Orient Express under police escort, a diesel railcar, Greek trains, the Italian motor ship *Egitto* (the letter calls it a "luxury steamer"), a bus, and an overnight train
 
 ## Chapter Overview
 The calm of the Marmara gives way to a bureaucratic ordeal. Istanbul police charge them with overstaying, a court sentences them (the sentence is remitted), they are expelled the same day, and they miss the ship meant to carry them to their transatlantic liner. What follows is a frantic race across Thrace, Macedonia and the Ionian Sea, train to railcar to train to ship to bus. The suspense is whether they will reach Naples before the *Conte di Savoia* sails.
@@ -78,15 +78,15 @@ Past Thebes the line descended toward Athens, with "the truly blue Mediterranean
 A ship for Brindisi was leaving at 12. They rushed by an "antediluvian cab" and a motorboat paid in US dollars and reached the 3,500-ton *Egitto* "at the very last second" [Letter p. 20 — "at the very last second"].
 
 ### Features & Media
-* **Ship Card:** SS *Egitto* (Adriatica line), with photos and specs (see `PLAN/media/chapter-05.md`).
+* **Ship Card:** *Egitto*, a 1928 Adriatica motor ship and sister of the *Città di Bari* (per media research; verify), with photos and specs (see `PLAN/media/chapter-05.md`).
 
 ---
 
-## Leg: Piraeus → Corinth Canal → Brindisi (SS *Egitto*)
+## Leg: Piraeus → Corinth Canal → Brindisi (*Egitto*)
 **Date:** Jan 22–23, 1940
 
 ### Narrative
-In the late afternoon a small tug towed the ship through the roughly 3 km Corinth Canal, "a marvel of engineering" [Letter p. 20 — "towed by a small tugboat"]. Hope returned: the *Conte di Savoia* would sail on the 24th [Letter p. 20 — "The Conte di Savoia was set to sail on the 24th"].
+In the late afternoon a small tug towed the ship through the Corinth Canal (Fritz says 3 km; it is about 6.4 km), "a marvel of engineering" [Letter p. 20 — "towed by a small tugboat"]. Hope returned: the *Conte di Savoia* would sail on the 24th [Letter p. 20 — "The Conte di Savoia was set to sail on the 24th"].
 
 ### Features & Media
 * **Visual Highlight:** The canal's sheer 80 m limestone walls, with an archival photo comparison.

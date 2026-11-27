@@ -1,7 +1,7 @@
 # Design Document: Before He Was Fred
 ## From Tehran to Times Square: The 1939–1940 Journey of Fritz Riesenfeld
 
-**Project Goal:** An editorial documentary web experience on GitHub Pages that lets family members follow Fritz Riesenfeld's overland and sea journey from Tehran to New York City (Dec 23, 1939 – early Feb 1940), told through his own letter.
+**Project Goal:** An editorial documentary web experience on GitHub Pages that lets family members follow Fritz Riesenfeld's overland and sea journey from Tehran to New York City (Dec 19, 1939 – early Feb 1940), told through his own letter.
 
 **Design Philosophy:** Desktop-first editorial documentary with a usable single-column layout on phones. Six chapters, each a scrolling sequence of **stops and the travel legs between them**, with clean typography, a vector globe that advances step by step, and curated free-to-use archival media.
 
@@ -18,9 +18,9 @@ Legs are first-class content, not filler. Much of the letter's drama happens bet
 
 | # | Chapter | Route | Dates | File |
 |---|---------|-------|-------|------|
-| 1 | Departure from Tehran | Tehran → Qazvin → Zanjan → Taserkand → Mianeh → Tabriz | Dec 23–24, 1939 | [`chapters/01-departure-from-tehran.md`](chapters/01-departure-from-tehran.md) |
-| 2 | The Persian Frontier | Tabriz → Khoy → Maku → Bazargan → Gürbulak → Doğubayazıt → Kızıldize | Dec 25–27, 1939 | [`chapters/02-the-persian-frontier.md`](chapters/02-the-persian-frontier.md) |
-| 3 | The Tahir Pass Blizzard | Kızıldize → Taşlıçay → Karaköse → Eleşkirt → Türkali → Tahir Pass → Delal | Dec 28, 1939 – Jan 6, 1940 | [`chapters/03-the-tahir-pass-blizzard.md`](chapters/03-the-tahir-pass-blizzard.md) |
+| 1 | Departure from Tehran | Tehran → Qazvin → Zanjan → Taserkand → Mianeh → Tabriz | Dec 19–20, 1939 | [`chapters/01-departure-from-tehran.md`](chapters/01-departure-from-tehran.md) |
+| 2 | The Persian Frontier | Tabriz → Khoy → Maku → Bazargan → Gürbulak → Doğubayazıt → Kızıldize | Dec 21–23, 1939 | [`chapters/02-the-persian-frontier.md`](chapters/02-the-persian-frontier.md) |
+| 3 | The Tahir Pass Blizzard | Kızıldize → Taşlıçay → Karaköse → Eleşkirt → Türkali → Tahir Pass → Delal | Dec 23, 1939 – Jan 6, 1940 | [`chapters/03-the-tahir-pass-blizzard.md`](chapters/03-the-tahir-pass-blizzard.md) |
 | 4 | Through Earthquake Ruins | Delal → Hasankale → Erzurum → Erzincan → Çetinkaya → Sivas → Ankara → Istanbul | Jan 7–16, 1940 | [`chapters/04-through-earthquake-ruins.md`](chapters/04-through-earthquake-ruins.md) |
 | 5 | Across the Aegean | Istanbul → Pythion → Salonika → Piraeus → Corinth Canal → Brindisi → Foggia → Naples | Jan 16–24, 1940 | [`chapters/05-across-the-aegean.md`](chapters/05-across-the-aegean.md) |
 | 6 | The Atlantic Crossing | Naples → Gibraltar → Atlantic → New York City | Jan 24 – ~early Feb 1940 | [`chapters/06-the-atlantic-crossing.md`](chapters/06-the-atlantic-crossing.md) |

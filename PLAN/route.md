@@ -1,78 +1,78 @@
 # Chronological Travel Route
 
-Below is the step-by-step route of the whole journey from Tehran, Iran to New York City (December 23, 1939 – early February 1940). Each entry lists the stop, then (in *italics*) how they traveled to the next stop. The chapter files in `chapters/` carry the narrative and letter citations for both stops and legs.
+Below is the step-by-step route of the whole journey from Tehran, Iran to New York City (December 19, 1939 – early February 1940). Each entry lists the stop, then (in *italics*) how they traveled to the next stop. The chapter files in `chapters/` carry the narrative and letter citations for both stops and legs.
 
-> **Date check (Dec 28–31):** The English translation's "Dec 25th" (Taşlıçay) and "Dec 27th" (Ford departure) on letter pp. 6–7 conflict with the Taşlıçay dateline (29 Dec) and the sled departure from Karaköse on Dec 31. The dates below follow the most consistent sequence. Verify them against the German transcription in `letter/de/`.
+> **Dates:** The letter's German dateline reads "25. Dezember 1939, Taslicay" (the English translation had "29"), and Fritz writes that the farewell in Tehran was "heute vor 6 Tagen" (6 days ago). So they left Tehran on Dec 19, reached Bazargan on Dec 23 (matching the telegram "vom 23."), and woke in Taşlıçay on Dec 25. The Dec 25 and Dec 27 dates on letter pp. 6–7 are correct.
 
 ## Tehran, Iran 35.6892° N, 51.3890° E
 
-Departure: Dec 23, 1939, 5:00 PM (twilight), in a hired car with chauffeur.
+Departure: Dec 19, 1939, 5:00 PM (twilight), in a hired car with chauffeur.
 
 *Leg: hired car through light snowfall.*
 
 ## Qazvin, Iran 36.2688° N, 49.9981° E
 
-Arrival: Dec 23, 1939 (8:30 PM). Stopped for a quick rest at the Grand Hotel.
+Arrival: Dec 19, 1939 (8:30 PM). Stopped for a quick rest at the Grand Hotel.
 
 ## Zanjan, Iran 36.6736° N, 48.4963° E
 
-Arrival: Dec 23/24, 1939 (Midnight). Overnight stay.
+Arrival: Dec 19/20, 1939 (Midnight). Overnight stay.
 
 ## Taserkand (Tazeh Kand), Iran ~37.3000° N, 47.7000° E
 
-Arrival: Dec 24, 1939 (10:00 AM). Brief tea break.
+Arrival: Dec 20, 1939 (10:00 AM). Brief tea break.
 
 ## Mianeh, Iran 37.4173° N, 47.7121° E
 
-Arrival: Dec 24, 1939 (Noon). Lunch stop.
+Arrival: Dec 20, 1939 (Noon). Lunch stop.
 
 ## Tabriz, Iran 38.0962° N, 46.2738° E
 
-Arrival: Dec 24, 1939 (5:30 PM). Stayed at the Grand Hotel. On Dec 25, with help from the pharmacist Isaac Rabinowitsch, booked a 1.5-ton Chevrolet truck to Trabzon (130 Toman). The truck carried the luggage; they took the bus.
+Arrival: Dec 20, 1939 (5:30 PM). Stayed at the Grand Hotel. On Dec 21, with help from the pharmacist Isaac Rabinowitsch, booked a 1.5-ton Chevrolet truck to Trabzon (130 Toman). The truck carried the luggage; they took the bus.
 
-*Leg: overcrowded night bus along the Tabriz–Julfa railway, departing ~5:15 PM Dec 25.*
+*Leg: overcrowded night bus along the Tabriz–Julfa railway, departing ~5:15 PM Dec 21.*
 
 ## Khoi (Khoy), Iran 38.5524° N, 44.9521° E
 
-Arrival: Dec 26, 1939 (1:00 AM). Overnight stay; bought wool socks in the bazaar.
+Arrival: Dec 22, 1939 (1:00 AM). Overnight stay; bought wool socks in the bazaar.
 
 *Leg: ancient junk-laden bus departing 3:00 PM, stopping every 2 km to refill the radiator; tea in an opium den at dusk.*
 
 ## Maku, Iran 39.2931° N, 44.4533° E
 
-Arrival: Dec 26, 1939 (11:00 PM). Slept on two benches in the bus waiting room.
+Arrival: Dec 22, 1939 (11:00 PM). Slept on two benches in the bus waiting room.
 
-*Leg: first ride in the three-seat Chevrolet, departing 9:00 AM Dec 27.*
+*Leg: first ride in the three-seat Chevrolet, departing 9:00 AM Dec 23.*
 
 ## Bazirgan (Bazargan), Iran 39.3891° N, 44.3855° E
 
-Arrival: Dec 27, 1939 (Morning). Iranian customs and police. The two dentists advised the customs director on his two bad teeth. Ararat was hidden in fog. Sent a telegram home and ate lunch in Abdil's mud hut.
+Arrival: Dec 23, 1939 (Morning). Iranian customs and police. The two dentists advised the customs director on his two bad teeth. Ararat was hidden in fog. Sent a telegram home and ate lunch in Abdil's mud hut.
 
 ## Gürbulak, Turkey 39.3950° N, 44.3800° E
 
-Arrival: Dec 27, 1939 (afternoon). Turkish customs, about 4 km from Bazargan. Two new tires were confiscated from the driver.
+Arrival: Dec 23, 1939 (afternoon). Turkish customs, about 4 km from Bazargan. Two new tires were confiscated from the driver.
 
 ## Bayazit (Doğubayazıt), Turkey 39.5461° N, 44.0839° E
 
-Arrival: Dec 27, 1939 (after dark). Dinner chosen by pointing at the pots in the kitchen.
+Arrival: Dec 23, 1939 (after dark). Dinner chosen by pointing at the pots in the kitchen.
 
 *Leg: Chevrolet, 25 km through thickening snow.*
 
 ## Kizildice (Kızıldiz / Kızıldizce), Turkey ~39.6300° N, 43.8300° E
 
-Arrival: Dec 27, 1939 (Night). Snowbound all day Dec 28 in a room with ten cots, playing 66. Transferred to a windowless Ford truck, with a Chevrolet carrying Strauss's large luggage.
+Arrival: Dec 23, 1939 (Night). Snowbound all day Dec 24 in a room with ten cots, playing 66. Transferred to a windowless Ford truck, with a Chevrolet carrying Strauss's large luggage.
 
 *Leg: night drive in deep snow, shoveling and pushing; the Chevrolet ran out of gasoline and they sheltered in a lonely house.*
 
 ## Taşlıçay, Turkey 39.6328° N, 43.3556° E
 
-Arrival: Dec 29, 1939 (pre-dawn; see date check). −35° overnight. Waited for gasoline from Karaköse; Fritz began the letter here (dateline 29 Dec).
+Arrival: Dec 25, 1939 (pre-dawn). −35° overnight. Waited about two days for gasoline from Karaköse; Fritz began the letter here (dateline 25 Dec).
 
 *Leg: the Ford broke an axle leaving town; rented a horse sled; passed the overturned Chevrolet.*
 
 ## Karaköse (Ağrı), Turkey 39.7194° N, 43.0503° E
 
-Arrival: ~Dec 30, 1939 (at dark; see date check). Arrived by sled. The road was closed to cars, so they stayed until the morning of Dec 31 and then hired sleds toward Erzurum (185 km).
+Arrival: Dec 27, 1939 (at dark). Arrived by sled. The road was closed to cars, so they stayed until the morning of Dec 31 and then hired sleds toward Erzurum (185 km).
 
 *Leg: horse sled, 35 km.*
 
@@ -196,8 +196,8 @@ Arrival: Jan 26, 1940.
 
 Details: Anchored for 6 hours while British authorities inspected the vessel before entering the Atlantic Ocean.
 
-## New York City (Brooklyn), USA 40.6782° N, 73.9442° W
+## New York City, USA 40.6782° N, 73.9442° W
 
-Arrival: ~early February 1940 (not stated in the letter; estimated from Jan 24 departure + typical 7–9-day crossing; confirm via passenger manifest). The final section of the letter is dated Brooklyn, Feb 21, 1940.
+Arrival: ~early February 1940 (not stated in the letter; estimated from Jan 24 departure + typical 7–9-day crossing; confirm via passenger manifest). The final section of the letter is dated Brooklyn, Feb 21, 1940. Italian Line ships docked at the Manhattan West Side piers; the coordinates mark Brooklyn, where the letter was finished.
 
 Details: Seasick for most of the Atlantic crossing. Manhattan's skyscrapers rose out of the haze as they arrived. The letter does not mention the Statue of Liberty.

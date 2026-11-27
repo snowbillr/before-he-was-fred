@@ -1,6 +1,6 @@
 # Chapter 2: The Persian Frontier
 **Route:** Tabriz → Khoy → Maku → Bazargan → Gürbulak → Doğubayazıt → Kızıldize
-**Dates:** Dec 25–27, 1939
+**Dates:** Dec 21–23, 1939
 **Mode of travel:** Crowded bus, ancient junk-laden bus, then a 1.5-ton Chevrolet truck
 
 ## Chapter Overview
@@ -9,7 +9,7 @@ In Tabriz a chance meeting with a Lithuanian-Jewish pharmacist secures a truck t
 ---
 
 ## Stop: Tabriz (second day)
-**Coordinates:** 38.0962° N, 46.2738° E | **Date:** Dec 25, 1939
+**Coordinates:** 38.0962° N, 46.2738° E | **Date:** Dec 21, 1939
 
 ### Narrative
 The luggage arrived and Fritz finally changed out of shoes that had pinched him badly [Letter p. 2 — "changed my shoes in the garage"]. Talks with Hamid-Aga went nowhere until a sympathetic older pharmacist opposite translated via French. When Strauss mentioned they were Jewish emigrants, the man revealed he was a Lithuanian Jew, Isaac Rabinowitsch, and helped them "in a touching way" [Letter p. 2 — "proved to be a Lithuanian Jew"]. In the bazaar they booked seats on a 1.5-ton Chevrolet truck to Trabzon for 130 Toman. They would go by bus as far as Bazargan while the firm's manager rode in the truck [Letter p. 2 — "1.5-ton Chevrolet with space for 5 persons"].
@@ -21,7 +21,7 @@ The luggage arrived and Fritz finally changed out of shoes that had pinched him 
 ---
 
 ## Leg: Tabriz → Khoy (night bus along the Julfa railway)
-**Date:** Dec 25, 1939, ~5:15 PM → Dec 26, 1:00 AM
+**Date:** Dec 21, 1939, ~5:15 PM → Dec 22, 1:00 AM
 
 ### Narrative
 The 3 o'clock bus left after 5 PM, "stuffed full", with passengers packed even in the aisle [Letter p. 2 — "The bus was stuffed full"]. It drove into the night beside the railway line to Julfa, crossing it many times. At an evening stop in a small courtyard they drank tea among rough crowds and watched the men praying. Their provisions had gone bad, so they ate sheep's cheese and several sheets of firm flatbread that Fritz called "hand towels" [Letter p. 2 — "a few hand towels of firmer quality"]. Nine glasses of tea and mountains of bread and cheese cost 2 Toman 10 Shahi, to the innkeeper's visible surprise when they did not haggle [Letter p. 3 — "2 Toman and 10 Chahi"].
@@ -33,7 +33,7 @@ The 3 o'clock bus left after 5 PM, "stuffed full", with passengers packed even i
 ---
 
 ## Stop: Khoy
-**Coordinates:** 38.5524° N, 44.9521° E | **Date:** Dec 26, 1939, 1:00 AM to 3:00 PM
+**Coordinates:** 38.5524° N, 44.9521° E | **Date:** Dec 22, 1939, 1:00 AM to 3:00 PM
 
 ### Narrative
 Arriving at 1 AM, they hauled their luggage through the streets and woke a policeman, who helped them rouse the hotel clerk. Given the deluxe two-bed room, they "crept back together into one bed" [Letter p. 3 — "crept back together into one bed"]. In the bazaar they bought thick, colorful wool socks for 3 Toman a pair, "worn by almost all people there", and lunched on *dough* (sour yogurt drink) and kebab [Letter p. 3 — "colorful wool socks for 3 Toman each"].
@@ -44,7 +44,7 @@ Arriving at 1 AM, they hauled their luggage through the streets and woke a polic
 ---
 
 ## Leg: Khoy → Maku (ancient bus over the mountains)
-**Date:** Dec 26, 1939, 3:00 PM → 11:00 PM
+**Date:** Dec 22, 1939, 3:00 PM → 11:00 PM
 
 ### Narrative
 An "ancient bus" piled high with junk carried just seven passengers. Uphill it was "slower than a pedestrian" and stopped every 2 km to pour water into the boiling radiator [Letter p. 3 — "every 2 km it was stopped"]. At dusk they stopped in a village and drank tea in "a picturesque opium den" [Letter p. 3 — "picturesque opium den"]. Ten kilometers before Maku their Chevrolet was waiting. The two drivers dragged them into a dive where they ate "hand-towels" rolled up "like a giant cigarette" around cheese, fat, or a flour-sugar-mutton-fat porridge [Letter p. 3 — "rolled it up like a giant cigarette"]. Fritz found the moonlit mountain drive "overall delightful", even though the roads were mostly "below the level of a German dirt road" [Letter p. 3 — "below the level of a German dirt road"].
@@ -56,7 +56,7 @@ An "ancient bus" piled high with junk carried just seven passengers. Uphill it w
 ---
 
 ## Stop: Maku
-**Coordinates:** 39.2931° N, 44.4533° E | **Date:** Dec 26–27, 1939 (overnight)
+**Coordinates:** 39.2931° N, 44.4533° E | **Date:** Dec 22–23, 1939 (overnight)
 
 ### Narrative
 Maku had no hotel, not even a teahouse. The two slept on benches pushed together in the bus waiting room [Letter p. 3 — "2 benches were placed next to each other"]. In the morning they saw the village of red-tinted houses clinging "like birds' nests" under a vertical rock wall that "threatened to crush everything below it" [Letter p. 3 — "like birds' nests"].
@@ -67,7 +67,7 @@ Maku had no hotel, not even a teahouse. The two slept on benches pushed together
 ---
 
 ## Leg: Maku → Bazargan (first ride in the Chevrolet)
-**Date:** Dec 27, 1939, 9:00 AM
+**Date:** Dec 23, 1939, 9:00 AM
 
 ### Narrative
 For the first time they rode in the Chevrolet. It had only three seats, so the chauffeur sat on the mudguard for the short drive [Letter p. 3 — "the chauffeur had to sit on the mudguard"].
@@ -75,7 +75,7 @@ For the first time they rode in the Chevrolet. It had only three seats, so the c
 ---
 
 ## Stop: Bazargan (Iranian customs)
-**Coordinates:** 39.3891° N, 44.3855° E | **Date:** Dec 27, 1939
+**Coordinates:** 39.3891° N, 44.3855° E | **Date:** Dec 23, 1939
 
 ### Narrative
 The customs director, who suffered from "2 bad teeth", received them in good French. While his assistant searched the luggage, the two dentists examined the director's aching teeth [Letter p. 4 — "consulted the director about his teeth"]. Strauss's photo album smoothed the inspection, and the director exchanged money with them [Letter p. 4 — "Iraqi 5-note"]. Mount Ararat stayed hidden in "black, impenetrable fog", so they could not look for Noah's Ark [Letter p. 4 — "black, impenetrable fog"]. They saw the wrecked Turkish airplanes awaiting pickup, sent a telegram to Fritz's parents, and ate a last real Iranian chicken lunch in Abdil's two-room mud hut [Letter p. 4 — "sent the telegram to you"].
@@ -87,7 +87,7 @@ The customs director, who suffered from "2 bad teeth", received them in good Fre
 ---
 
 ## Stop: Gürbulak (Turkish customs)
-**Coordinates:** 39.3950° N, 44.3800° E | **Date:** Dec 27, 1939
+**Coordinates:** 39.3950° N, 44.3800° E | **Date:** Dec 23, 1939
 
 ### Narrative
 Nobody spoke Persian or any language they knew, so Ismael the chauffeur interpreted. Customs confiscated two new tires from the driver and searched the car "down to the smallest detail", while the two travelers wrote rude words in the fresh snow [Letter p. 4 — "They took 2 new tires off the driver"].
@@ -95,7 +95,7 @@ Nobody spoke Persian or any language they knew, so Ismael the chauffeur interpre
 ---
 
 ## Leg: Gürbulak → Doğubayazıt (Bayazit) → Kızıldize (into the snow)
-**Date:** Dec 27, 1939, after dark
+**Date:** Dec 23, 1939, after dark
 
 ### Narrative
 In Bayazit (today Doğubayazıt), about 20 km from the border, they skipped the menu, walked into the kitchen and pointed at the twenty pots on the hearth [Letter p. 4 — "pointed at the pots"]. Snow began to fall and thickened as they drove 25 km more to the snowed-in village of Kızıldize. It had only a miserable inn with a side room of ten cots [Letter p. 4 — "10 cots were accommodated"].
