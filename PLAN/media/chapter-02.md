@@ -9,7 +9,7 @@ The source and license notes from `chapter-01.md` apply here too: Schwarzenbach 
 
 | When | What | Letter page |
 |---|---|---|
-| Wed Dec 20, 5:30 PM | Arrive in Tabriz | p. 2 |
+| Wed Dec 20, 6:30 PM | Arrive in Tabriz | p. 2 |
 | Thu Dec 21 | Organize transport; bus leaves about 5:15 PM | p. 2 |
 | Fri Dec 22, 1 AM | Arrive in Khoy | p. 3 |
 | Fri Dec 22, 3 PM | Old bus leaves Khoy; Maku at 11 PM | p. 3 |
@@ -130,7 +130,7 @@ Letter p. 3–4:
 - **Setting:** "two massive buildings at the outermost northwest tip of Iran, in which the police and customs are housed," with sheds and the village tucked into the mountains.
 - **Customs director:** a "stocky, graying gentleman in uniform" who speaks good French and "had 2 bad teeth that plagued him terribly." Fritz examines them "with important expressions" without instruments.
 - **The search:** Strauss's photo album "seemed suspicious," but it ends with "These are only your personal effects in there!?"
-- **Currency:** the director sells Fritz "an Iraqi 5-note" for 10 toman, and his assistant sells 7 Turkish lira for 14 toman.
+- **Currency:** the director sells Fritz "an Iraqi [1?] note" (German transcription; denomination unclear) for 10 toman, and his assistant sells 7 Turkish lira for 14 toman.
 - **Mount Ararat** is wrapped in "black, impenetrable fog," so no glimpse of "the ruins of Noah's Ark."
 - **The Turkish airplane:** they visit "the ruins of the already mentioned Turkish airplane that wait there for pickup by the Turks."
 - **Telegram** home from the village.

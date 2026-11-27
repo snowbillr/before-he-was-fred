@@ -1,6 +1,6 @@
 # Chronological Travel Route
 
-Below is the step-by-step route of the whole journey from Tehran, Iran to New York City (December 19, 1939 – early February 1940). Each entry lists the stop, then (in *italics*) how they traveled to the next stop. The chapter files in `chapters/` carry the narrative and letter citations for both stops and legs.
+Below is the step-by-step route of the whole journey from Tehran, Iran to New York City (December 19, 1939 – about January 31, 1940). Each entry lists the stop, then (in *italics*) how they traveled to the next stop. The chapter files in `chapters/` carry the narrative and letter citations for both stops and legs.
 
 > **Dates:** The letter's German dateline reads "25. Dezember 1939, Taslicay" (the English translation had "29"), and Fritz writes that the farewell in Tehran was "heute vor 6 Tagen" (6 days ago). So they left Tehran on Dec 19, reached Bazargan on Dec 23 (matching the telegram "vom 23."), and woke in Taşlıçay on Dec 25. The Dec 25 and Dec 27 dates on letter pp. 6–7 are correct.
 
@@ -12,7 +12,7 @@ Departure: Dec 19, 1939, 5:00 PM (twilight), in a hired car with chauffeur.
 
 ## Qazvin, Iran 36.2688° N, 49.9981° E
 
-Arrival: Dec 19, 1939 (8:30 PM). Stopped for a quick rest at the Grand Hotel.
+Arrival: Dec 19, 1939 (7:30 PM). Stopped for a quick rest at the Grand Hotel.
 
 ## Zanjan, Iran 36.6736° N, 48.4963° E
 
@@ -28,7 +28,7 @@ Arrival: Dec 20, 1939 (Noon). Lunch stop.
 
 ## Tabriz, Iran 38.0962° N, 46.2738° E
 
-Arrival: Dec 20, 1939 (5:30 PM). Stayed at the Grand Hotel. On Dec 21, with help from the pharmacist Isaac Rabinowitsch, booked a 1.5-ton Chevrolet truck to Trabzon (130 Toman). The truck carried the luggage; they took the bus.
+Arrival: Dec 20, 1939 (6:30 PM). Stayed at the Grand Hotel. On Dec 21, with help from the pharmacist Isaac Rabinowitsch, booked a 1.5-ton Chevrolet truck to Trabzon (130 Toman). The truck carried the luggage; they took the bus.
 
 *Leg: overcrowded night bus along the Tabriz–Julfa railway, departing ~5:15 PM Dec 21.*
 
@@ -142,11 +142,11 @@ Arrival: Jan 15, 1940 (Evening; the 11 PM entry was written after leaving).
 
 Details: 2-hour layover to get tea and bread.
 
-## Istanbul (Haydarpaşa & Pera), Turkey 41.0082° N, 28.9784° E
+## Istanbul (Haydarpaşa & Galata), Turkey 41.0082° N, 28.9784° E
 
 Arrival: Jan 16, 1940 (7:00 AM).
 
-Details: Arrived at Haydarpaşa terminal on the Asian side, took the ferry across to Pera (European side). Delayed by police processing, fines, and emergency medical treatment for a foot abscess.
+Details: Arrived at Haydarpaşa terminal on the Asian side, took the ferry across to Galata (European side; the typescript says "Pera", corrected by hand to "Galata"). Delayed by police processing, fines, and emergency medical treatment for a foot abscess.
 
 ## Pythion, Greece 41.3783° N, 26.6119° E
 
@@ -182,7 +182,7 @@ Details: Maritime transit; towed by a tugboat through the narrow Corinth Canal i
 
 Arrival: Jan 23, 1940 (11:00 AM).
 
-Details: Port of entry into Italy. Fritz missed the 1:00 PM train to Naples because of baggage delays (Strauss caught it). He took a 3:00 PM bus to Foggia and a train around midnight.
+Details: Port of entry into Italy. Fritz missed the 1:00 PM train to Naples because of baggage delays (Strauss caught it). He took a 3:00 PM train to Foggia and another train after midnight.
 
 ## Naples (Napoli), Italy 40.8518° N, 14.2681° E
 
@@ -198,6 +198,6 @@ Details: Anchored for 6 hours while British authorities inspected the vessel bef
 
 ## New York City, USA 40.6782° N, 73.9442° W
 
-Arrival: ~early February 1940 (not stated in the letter; estimated from Jan 24 departure + typical 7–9-day crossing; confirm via passenger manifest). The final section of the letter is dated Brooklyn, Feb 21, 1940. Italian Line ships docked at the Manhattan West Side piers; the coordinates mark Brooklyn, where the letter was finished.
+Arrival: ~Jan 31, 1940 (the Feb 21 Brooklyn section says they arrived "3 weeks ago"; consistent with a Jan 24 departure; confirm via passenger manifest). The final section of the letter is dated Brooklyn, Feb 21, 1940. Italian Line ships docked at the Manhattan West Side piers; the coordinates mark Brooklyn, where the letter was finished.
 
 Details: Seasick for most of the Atlantic crossing. Manhattan's skyscrapers rose out of the haze as they arrived. The letter does not mention the Statue of Liberty.

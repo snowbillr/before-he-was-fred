@@ -39,11 +39,11 @@ The police kept their passports until a long palaver ended. Fritz rode in a sled
 **Coordinates:** 39.9043° N, 41.2679° E | **Date:** Jan 8–11, 1940
 
 ### Narrative
-After a cold, overpriced room at the "Palast Hotel", a charming German-speaking police officer phoned the station: a train for Istanbul would leave that evening [Letter p. 11 — "Palast Hotel"]. It was cancelled for heavy snow, and people spoke of 12 days. Fritz telegraphed his parents, who would have heard of the earthquake, and failed to sell his mountain boots for more than 5 Lira [Letter p. 12 — "the train did not go today due to heavy snowfalls"]. A police inspector who knew about their Japanese visas questioned them for an hour in their hotel room [Letter p. 12 — "what we had done in Japan"]. When hotel guests pressed them for dental help, Strauss showed a few impression trays (*Abdrucklöffel*) to prove they had no instruments. A guest bought four for 4.50 Lira, perhaps "as cookie molds" for his wife [Letter p. 12 — "4.50 Lira"]. An abscess formed on Fritz's right heel, and Strauss lanced it with a pocketknife sterilized over a match [Letter p. 13 — "sterilized his pocket knife over a match flame"].
+After a cold, overpriced room at the "Palast Hotel", a charming German-speaking police officer phoned the station: a train for Istanbul would leave that evening [Letter p. 11 — "Palast Hotel"]. It was cancelled for heavy snow, and people spoke of 12 days. Fritz telegraphed his parents, who would have heard of the earthquake, and failed to sell his mountain boots for more than 5 Lira [Letter p. 12 — "the train did not go today due to heavy snowfalls"]. A police inspector who knew about their Japanese visas questioned them for an hour in their hotel room [Letter p. 12 — "what we had done in Japan"]. When hotel guests pressed them for dental help, Strauss showed a few impression trays (*Abdrucklöffel*) to prove they had no instruments. A guest bought four for 4.50 Lira, perhaps "as cookie molds" for his wife [Letter p. 12 — "4.50 Lira"]. An abscess formed on Fritz's right heel, and Strauss lanced it with a pocketknife sterilized over a match [Letter p. 13 — "sterilized his pocket knife over a match flame"](#p13-s03).
 
 ### Features & Media
 * **Object Card:** A 1930s dental impression tray, with an explanation of what it is and why a stranger might buy one.
-* **Character Card:** The French-speaking detective ("our shadow").
+* **Character Card:** The French-speaking factotum ("our shadow").
 
 ---
 
@@ -51,13 +51,13 @@ After a cold, overpriced room at the "Palast Hotel", a charming German-speaking 
 **Date:** Jan 11–12, 1940
 
 ### Narrative
-The train stuck in snowdrifts again and again and had to be shoveled free [Letter p. 13 — "until the train was shoveled free"]. They spent a night without food or water at a small station. At dawn Fritz found a red, syrupy tea and hard tallow sausages in a village hut [Letter p. 13 — "tasted like syrup"]. On Jan 12 at 13:15, "since 30 hours in the III class compartment", they stood at the landslide, about 150 km from Erzurum, where 30 workers were blasting away rock from a 50 m buried stretch [Letter p. 12 — "since 30 hours in the III class compartment"].
+The train stuck in snowdrifts again and again and had to be shoveled free [Letter p. 13 — "until the train was shoveled free"](#p13-s29). They spent a night without food or water at a small station. At dawn Fritz found a red drink that tasted of cinnamon and sausages that seemed made of felt in a village hut [Letter p. 13 — "tasted of cinnamon"](#p13-s36). On Jan 12 at 13:15, "since 30 hours in the III class compartment", they stood at the landslide, about 150 km from Erzurum, where 30 workers were blasting away rock from a 50 m buried stretch [Letter p. 12 — "since 30 hours in the III class compartment"].
 
 ---
 
 ## Leg: Landslide → Erzincan (transfer on foot)
 ### Narrative
-A train came out of the tunnel beyond the slide. They dragged their bags 200 m through the frost. Soldiers lent by an officer they had played 66 with carried the trunks [Letter p. 14 — "dragged the 5 small pieces ourselves the 200m"]. The 50 km to Erzincan took four hours [Letter p. 14 — "for which we needed 4 hours"].
+A train came out of the tunnel beyond the slide. They dragged their bags 200 m through the frost. Soldiers lent by an officer they had played 66 with carried the trunks [Letter p. 14 — "dragged the 5 small pieces ourselves the 200m"](#p14-s06). The 50 km to Erzincan took four hours [Letter p. 14 — "for which we needed 4 hours"](#p14-s11).
 
 ---
 
@@ -65,7 +65,7 @@ A train came out of the tunnel beyond the slide. They dragged their bags 200 m t
 **Coordinates:** 39.7500° N, 39.5000° E | **Date:** ~Jan 12–13, 1940 (4-hour stop)
 
 ### Narrative
-They walked through "the ruins of the completely destroyed city". Fritz wrote that of 18,000 inhabitants over 13,000 were dead, and that nothing had been cleared because of the bitter cold. The injured waited in tents "where the cold penetrated". "Worse it can look on a battlefield also not." [Letter p. 14 — "Of 18,000 inhabitants, over 13,000 were dead"].
+They walked through "the ruins of the completely destroyed city". Fritz wrote that of 18,000 inhabitants over 13,000 were dead, and that nothing had been cleared because of the bitter cold. The injured waited in tents "where the cold penetrated". "Worse it can look on a battlefield also not." [Letter p. 14 — "Of 18,000 inhabitants, over 13,000 were dead"](#p14-s14).
 
 ### Features & Media
 * **Historical Card:** The 27 December 1939 Erzincan earthquake (M 7.8), Turkey's deadliest of the 20th century, with about 32,000–33,000 deaths region-wide. Present Fritz's 13,000-of-18,000 figure as his eyewitness estimate for the city.
@@ -77,7 +77,7 @@ They walked through "the ruins of the completely destroyed city". Fritz wrote th
 **Date:** Jan 13, 1940
 
 ### Narrative
-They played poker and 66 with officers until sunrise [Letter p. 14 — "poker and 66 until sunrise"]. At Çetinkaya at 5 PM, where the line splits toward Malatya, they bought their first bread since Erzurum, plus smoked meat, peanuts and figs. They said goodbye to the young Turk and his family, who had traveled with them since Karaköse; he was going to Hatay as a mayor [Letter p. 14 — "transferred as mayor"].
+They played poker and 66 with officers until sunrise [Letter p. 14 — "poker and 66 until sunrise"](#p14-s22). At Çetinkaya at 5 PM, where the line splits toward Malatya, they bought their first bread since Erzurum, plus smoked meat, peanuts and figs. They said goodbye to the young Turk and his family, who had traveled with them since Karaköse; he was going to Hatay as a mayor [Letter p. 14 — "transferred as mayor"](#p14-s29).
 
 ---
 
@@ -85,7 +85,7 @@ They played poker and 66 with officers until sunrise [Letter p. 14 — "poker an
 **Coordinates:** 39.7477° N, 37.0179° E | **Date:** Jan 13–14, 1940 (9 PM to 2 PM next day)
 
 ### Narrative
-At −28°C the station police invited them to stay in their warm office. There they met a 14-year-old boy from Erzincan who had lost his parents and three brothers [Letter p. 14 — "14-year-old boy from Erzincan"]. The tracks were full of freight trains turned into field hospitals for the injured [Letter p. 14 — "freight trains roughly set up as field hospitals"].
+At −28°C the station police invited them to stay in their warm office. There they met a 14-year-old boy from Erzincan who had lost his parents and three brothers [Letter p. 14 — "14-year-old boy from Erzincan"](#p14-s35). The tracks were full of freight trains turned into field hospitals for the injured [Letter p. 14 — "field hospitals"](#p14-s36).
 
 ---
 
@@ -93,7 +93,7 @@ At −28°C the station police invited them to stay in their warm office. There 
 **Date:** Jan 14–16, 1940
 
 ### Narrative
-In Ankara, "the new capital of Turkey", they ate their first warm meal in four days at white-covered tables in the station restaurant, with a bottle of Ankara beer [Letter p. 15 — "excellent Ankara beer"]. After two hours in Eskişehir, Fritz read *Wandlungen der Liebe* through the night because his foot hurt [Letter p. 15 — "2 hours stay in Eskişehir"]. At dawn he opened the window to "mild draft" and the foam-crowned Sea of Marmara instead of snowfields [Letter p. 15 — "the Marmara Sea"]. They reached Haydarpaşa at 7 AM.
+In Ankara, "the new capital of Turkey", they ate their first warm meal in four days at white-covered tables in the station restaurant, with a bottle of Ankara beer [Letter p. 15 — "excellent Ankara beer"](#p15-s02). After two hours in Eskişehir, Fritz read *Wandlungen der Liebe* through the night because his foot hurt [Letter p. 15 — "a 2-hour stop in Eskişehir"](#p15-s04). At dawn he opened the window to "mild draft" and the foam-crowned Sea of Marmara instead of snowfields [Letter p. 15 — "the Sea of Marmara"](#p15-s15). They reached Haydarpaşa at 7 AM.
 
 ### Features & Media
 * **Visual Transition:** The palette shifts from frost-white to Marmara blue.

@@ -1,7 +1,7 @@
 # Design Document: Before He Was Fred
 ## From Tehran to Times Square: The 1939–1940 Journey of Fritz Riesenfeld
 
-**Project Goal:** An editorial documentary web experience on GitHub Pages that lets family members follow Fritz Riesenfeld's overland and sea journey from Tehran to New York City (Dec 19, 1939 – early Feb 1940), told through his own letter.
+**Project Goal:** An editorial documentary web experience on GitHub Pages that lets family members follow Fritz Riesenfeld's overland and sea journey from Tehran to New York City (Dec 19, 1939 – ~Jan 31, 1940), told through his own letter.
 
 **Design Philosophy:** Desktop-first editorial documentary with a usable single-column layout on phones. Six chapters, each a scrolling sequence of **stops and the travel legs between them**, with clean typography, a vector globe that advances step by step, and curated free-to-use archival media.
 
@@ -12,7 +12,7 @@
 The journey has six chapters. Each chapter is an ordered list of **steps**, and each step is either:
 
 * **Stop**: a place where they stayed or paused (Tabriz, Türkali, Istanbul…).
-* **Leg**: the travel between two stops (the bus that stopped every 2 km to refill the radiator, the night stuck in the snow, the Orient Express under police escort, the bus to Foggia…).
+* **Leg**: the travel between two stops (the bus that stopped every 2 km to refill the radiator, the night stuck in the snow, the Orient Express under police escort, the late train to Foggia…).
 
 Legs are first-class content, not filler. Much of the letter's drama happens between towns, and legs get the same narrative + media treatment as stops. Every leg records the **mode of transport** (hired car, bus, Chevrolet/Ford truck, horse sled, on foot, train, ferry, steamer, liner), which drives a small transport icon on the route line.
 
@@ -23,7 +23,7 @@ Legs are first-class content, not filler. Much of the letter's drama happens bet
 | 3 | The Tahir Pass Blizzard | Kızıldize → Taşlıçay → Karaköse → Eleşkirt → Türkali → Tahir Pass → Delal | Dec 23, 1939 – Jan 6, 1940 | [`chapters/03-the-tahir-pass-blizzard.md`](chapters/03-the-tahir-pass-blizzard.md) |
 | 4 | Through Earthquake Ruins | Delal → Hasankale → Erzurum → Erzincan → Çetinkaya → Sivas → Ankara → Istanbul | Jan 7–16, 1940 | [`chapters/04-through-earthquake-ruins.md`](chapters/04-through-earthquake-ruins.md) |
 | 5 | Across the Aegean | Istanbul → Pythion → Salonika → Piraeus → Corinth Canal → Brindisi → Foggia → Naples | Jan 16–24, 1940 | [`chapters/05-across-the-aegean.md`](chapters/05-across-the-aegean.md) |
-| 6 | The Atlantic Crossing | Naples → Gibraltar → Atlantic → New York City | Jan 24 – ~early Feb 1940 | [`chapters/06-the-atlantic-crossing.md`](chapters/06-the-atlantic-crossing.md) |
+| 6 | The Atlantic Crossing | Naples → Gibraltar → Atlantic → New York City | Jan 24 – ~Jan 31, 1940 | [`chapters/06-the-atlantic-crossing.md`](chapters/06-the-atlantic-crossing.md) |
 
 The chapter files hold the narrative, citations and feature ideas for every step. `route.md` holds the coordinates and timeline. `additional_info.md` holds background research. `media/chapter-NN.md` lists candidate free-to-use images per step.
 
@@ -58,7 +58,7 @@ The chapter files hold the narrative, citations and feature ideas for every step
 
 ### 3. Primary Source & Citation Viewer
 
-**Citation badges.** Narrative text cites the letter at the sentence level. In the plan docs a citation is written `[Letter p. N — "anchor phrase"]`, where the anchor is a phrase from the English of that sentence. At build time each citation resolves to a sentence ID (`p08-s14`) in the letter data. On screen it renders as a small badge, `[p. 8]`.
+**Citation badges.** Narrative text cites the letter at the sentence level. In the plan docs a citation is written `[Letter p. N — "anchor phrase"](#p08-s14)`: the anchor is a phrase from the English of that sentence, and the fragment is the sentence ID in the letter data. Citations to pages whose JSON does not exist yet carry no fragment until the transcription lands. On screen it renders as a small badge, `[p. 8]`.
 
 **Clicking a badge** opens the **Original Letter** tab (or a sheet on mobile) and shows:
 1. The **scan of the letter page**, zoomed and scrolled to the cited sentence, with the sentence's lines highlighted (`source-highlight` #fef3c7, multiply blend).
@@ -66,6 +66,8 @@ The chapter files hold the narrative, citations and feature ideas for every step
 3. Prev/Next sentence controls and "View full page" (scan + full German + full English, with any sentence clickable to highlight it on the scan).
 
 **Highlight geometry.** The letter is typewritten (monospaced), so each sentence is stored as a start/end position (line, column) in the page's transcribed lines. Highlight rectangles are computed per line from a per-page **calibration**: the text block's left/top margin, line pitch and character pitch, in image pixels. These are measured once per scan and stored in the page JSON. Where a typed line is skewed on the photo, an optional per-line `bbox` overrides the computed rectangle.
+
+**Calibration status.** The page JSONs do not have `calibration` or `lineBoxes` yet. Tesseract finds only about half of the typed lines on the 750×1000 scans, and the photos have some perspective skew, so automatic values were unreliable. Measure each page by hand in a small calibration tool (click the first and last character of two lines; store per-page left/top, line pitch, char pitch, and a skew angle), or redo it automatically if higher-resolution photos become available. Sentence text, IDs and line/column ranges do not depend on the image and stay valid if scans are replaced.
 
 **Letter data schema** (`PLAN/letter/pages/page-NN.json`):
 ```json

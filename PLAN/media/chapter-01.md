@@ -45,7 +45,7 @@ Caveat: the archive marks the location of 2.1–2.3 as uncertain ("Lokalisierung
 
 ---
 
-## 3. Qazvin — Grand Hotel rest stop (8:30 PM, Dec 19)
+## 3. Qazvin — Grand Hotel rest stop (7:30 PM, Dec 19)
 
 Letter p. 1: "At 8:30 we stopped in front of the 'Grand Hotel' in Qazvin… Strauss… rushed… to the venerable radio set, without noteworthy success. Meanwhile, I ordered bread and tea… he took 8 Toman from us for the meager snack."
 
@@ -156,7 +156,7 @@ Letter p. 2: (a) "in front of a standalone teahouse, exactly 100 km before Tabri
 
 ---
 
-## 11. Tabriz — arrival (5:30 PM, Dec 20)
+## 11. Tabriz — arrival (6:30 PM, Dec 20)
 
 Letter p. 2: arrival at 5:30; tea with garage owner Hamid-Aga; "the allegedly last room" at the Grand Hotel; a cinema visit where "we slept quite well." (The Tabriz logistics on Dec 25 are covered in Chapter 2.)
 
