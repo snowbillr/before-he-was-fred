@@ -1,0 +1,543 @@
+{
+  "page": 1,
+  "image": "PLAN/images/pages/page_1.jpeg",
+  "lines": [
+    "                                                       25. Dezember 1939",
+    "                                                   Taslicay (Klein-Asien)",
+    "Meine geliebten Eltern!",
+    "     Ich alter Dussel habe natürlich mal wieder vergessen, Euch zum 28.",
+    "Hochzeitstage zu gratulieren, was ich so schön mit dem Telegramm aus",
+    "Bazirgand vom 23. cr. hätte tun können. Nun beginne ich meinen Reiseberic[ht?]",
+    "in herzlichem Gedenken an Euch beide mit dem innigen Wunsche, dass wir de[n?]",
+    "heutigen Tag im nächsten Jahr gemeinsam mit allen unseren Lieben feiern",
+    "mögen und dass Ihr beide eine sorglose angenehme Zeit bei bester Gesundhe[it?]",
+    "in Teheran verleben möget bis zu Eurer hoffentlich baldigen Überfahrt!",
+    "     Unser Abschied heute vor 6 Tagen kam so plötzlich und alles, was ich",
+    "Euch noch hatte sagen wollen, blieb mir in der Brust stecken. Bei all den",
+    "überwundenen und bevorstehenden Schwierigkeiten hatten wir keine Zeit ge-",
+    "habt, an den Abschied zu denken und das war gut so. Gut war es auch, dass",
+    "dann alles so schnell ging; denn als das Auto uns abholte und die Trennung",
+    "damit zur Gewissheit wurde, kam es uns besonders hart an. Es war ein Glück,",
+    "dass ich in dem Gefühl an so viele wirklich wärtvolle Freundschaft, die",
+    "mir entgegen gebracht wird, fahren konnte, was mir in den letzten Tagen",
+    "vor dem Abschied besonders stark bewusst wurde. Wenn es auch sehr dazu bei-",
+    "getragen hat, mir den Abschied so schwer zu machen, so weiss ich doch",
+    "bestimmt, dass Ihr, geliebte Eltern, nicht allein seid! Während fast 2 Stun-",
+    "den, die wir noch in der Garage auf die Abfahrt des Wagens warten mussten,",
+    "wo ich hoffte, dass Ihr vielleicht noch einmal hinkommen würdet, dachte ich",
+    "über die letzten 2 Jahre nach mit dem Ergebnis dankbarer Zufriedenheit da-",
+    "rüber, dass ich viele lebenswichtigen Erfahrungen gesammelt, treue Freunde",
+    "gefunden habe und nicht zuletzt Euch aus der unmittelbaren Gefahrenzone",
+    "holen konnte.",
+    "     Um 3/4 5 kam endlich der vierte Mitreisende, ein armenisches Mädchen,",
+    "mit einer Unmenge Gepäck und Proviantkörben, die für unsere Reise ausrei-",
+    "chend gewesen wären, ferner einem Heer von Schwestern, Brüdern und Freun-",
+    "dinnen. Der dritte Mitreisende war ein junger Mann, der irgendwie zu diesem",
+    "Mädchen gehörte und voller Ungeduld gewartet hatte. Nun musste das Gepäck",
+    "verstaut werden, was auch nicht ohne lärmende Meinungsverschiedenheiten",
+    "vonstatten ging und wozu unsere Sachen erst wieder rausgeworfen wurden.",
+    "Endlich um 5 Uhr fuhren wir ab; das Mädchen neben dem Chauffeur, wir drei",
+    "Männer, ich in der Mitte, hinten. Wagen und Fahrer waren ausgezeichnet.",
+    "Wir verliessen Teheran in der Dämmerung, ich mit meinen rückblickenden",
+    "Gedanken beschäftigt. Gesprochen wurde kaum.",
+    "     Schon vor Kasvin kamen wir in ein leichtes Schneetreiben, was bei uns",
+    "leichte Besorgnis auslöste. Die Wüste war weiss, wenn auch nur mit einer",
+    "ganz zarten Schneeschicht bedeckt. Um 1/2 8 hielten wir vorm \"Grand Hotel\"",
+    "in Kasvin zu einer kurzen Rast. Strauss hatte auf seiner Reise nach Teheran",
+    "dort 4 Tage verbracht und stürzte sich in aufwallender Wiedersehensfreude",
+    "auf den ehrwürdigen Radio-Apparat, ohne nennenswerten Erfolg. Ich bestellte",
+    "derweil Borscht und Tee. Unsere Brote wollten wir noch schonen. Auf Grund",
+    "des wohlhabenden Eindrucks, den wir erweckten, nahm man uns 8 Kran für die-",
+    "sen dürftigen Imbiss ab. Dann ging es weiter durchs Schneetreiben nach",
+    "Zendjan, wo wir gegen Mitternacht ankamen. Wir waren sehr müde und verlang-",
+    "ten im einzigen Hotel des Ortes ein Zimmer. Die meisten Zimmer waren ab-",
+    "geschlossen und der Schlüssel nicht auffindbar. Nachdem das Mädchen und der",
+    "Knabe untergebracht waren, liess sich dann mit Gewalt auch für uns ein",
+    "Zimmer öffnen, allerdings mit nur einem Bett. Da es bitterkalt war, schien",
+    "uns das ganz günstig und wir legten uns hin. Ich lag schon, als der Knabe"
+  ],
+  "sentences": [
+    {
+      "id": "p01-s01",
+      "de": "25. Dezember 1939",
+      "en": "25. December 1939",
+      "start": {
+        "line": 0,
+        "col": 55
+      },
+      "end": {
+        "line": 0,
+        "col": 72
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s02",
+      "de": "Taslicay (Klein-Asien)",
+      "en": "Taslicay (Asia Minor)",
+      "start": {
+        "line": 1,
+        "col": 51
+      },
+      "end": {
+        "line": 1,
+        "col": 73
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s03",
+      "de": "Meine geliebten Eltern!",
+      "en": "My beloved parents!",
+      "start": {
+        "line": 2,
+        "col": 0
+      },
+      "end": {
+        "line": 2,
+        "col": 23
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s04",
+      "de": "Ich alter Dussel habe natürlich mal wieder vergessen, Euch zum 28. Hochzeitstage zu gratulieren, was ich so schön mit dem Telegramm aus Bazirgand vom 23. cr. hätte tun können.",
+      "en": "I, old butter-fingers, have of course forgotten once again to congratulate you on your 28th wedding anniversary, which I could have done so nicely with the telegram from Bazirgan on the 23rd of this month.",
+      "start": {
+        "line": 3,
+        "col": 5
+      },
+      "end": {
+        "line": 5,
+        "col": 39
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s05",
+      "de": "Nun beginne ich meinen Reiseberic[ht?] in herzlichem Gedenken an Euch beide mit dem innigen Wunsche, dass wir de[n?] heutigen Tag im nächsten Jahr gemeinsam mit allen unseren Lieben feiern mögen und dass Ihr beide eine sorglose angenehme Zeit bei bester Gesundhe[it?] in Teheran verleben möget bis zu Eurer hoffentlich baldigen Überfahrt!",
+      "en": "Now I begin my travel report thinking of you both with heartfelt thoughts, with the earnest wish that we may celebrate today's day next year together with all our loved ones, and that you both may spend a carefree, pleasant time in best health in Tehran until your hopefully soon crossing!",
+      "start": {
+        "line": 5,
+        "col": 40
+      },
+      "end": {
+        "line": 9,
+        "col": 70
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s06",
+      "de": "Unser Abschied heute vor 6 Tagen kam so plötzlich und alles, was ich Euch noch hatte sagen wollen, blieb mir in der Brust stecken.",
+      "en": "Our farewell today 6 days ago came so suddenly, and everything I had still wanted to tell you remained stuck in my chest.",
+      "start": {
+        "line": 10,
+        "col": 5
+      },
+      "end": {
+        "line": 11,
+        "col": 61
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s07",
+      "de": "Bei all den überwundenen und bevorstehenden Schwierigkeiten hatten wir keine Zeit gehabt, an den Abschied zu denken und das war gut so.",
+      "en": "With all the overcome and upcoming difficulties, we had had no time to think of the farewell, and that was good so.",
+      "start": {
+        "line": 11,
+        "col": 62
+      },
+      "end": {
+        "line": 13,
+        "col": 51
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s08",
+      "de": "Gut war es auch, dass dann alles so schnell ging; denn als das Auto uns abholte und die Trennung damit zur Gewissheit wurde, kam es uns besonders hart an.",
+      "en": "It was also good that everything then went so fast; for when the car picked us up and the separation thereby became a certainty, it hit us especially hard.",
+      "start": {
+        "line": 13,
+        "col": 52
+      },
+      "end": {
+        "line": 15,
+        "col": 57
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s09",
+      "de": "Es war ein Glück, dass ich in dem Gefühl an so viele wirklich wärtvolle Freundschaft, die mir entgegen gebracht wird, fahren konnte, was mir in den letzten Tagen vor dem Abschied besonders stark bewusst wurde.",
+      "en": "It was a blessing that I could leave with the feeling of so many truly valuable friendships shown to me, of which I became particularly strongly aware in the last days before the departure.",
+      "start": {
+        "line": 15,
+        "col": 58
+      },
+      "end": {
+        "line": 18,
+        "col": 47
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s10",
+      "de": "Wenn es auch sehr dazu beigetragen hat, mir den Abschied so schwer zu machen, so weiss ich doch bestimmt, dass Ihr, geliebte Eltern, nicht allein seid!",
+      "en": "Even though this contributed a great deal to making the farewell so hard for me, I know for certain that you, beloved parents, are not alone!",
+      "start": {
+        "line": 18,
+        "col": 48
+      },
+      "end": {
+        "line": 20,
+        "col": 55
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s11",
+      "de": "Während fast 2 Stunden, die wir noch in der Garage auf die Abfahrt des Wagens warten mussten, wo ich hoffte, dass Ihr vielleicht noch einmal hinkommen würdet, dachte ich über die letzten 2 Jahre nach mit dem Ergebnis dankbarer Zufriedenheit darüber, dass ich viele lebenswichtigen Erfahrungen gesammelt, treue Freunde gefunden habe und nicht zuletzt Euch aus der unmittelbaren Gefahrenzone holen konnte.",
+      "en": "During the almost 2 hours that we still had to wait in the garage for the departure of the vehicle, where I hoped you might perhaps come by once more, I thought about the last 2 years, with the result of grateful contentment that I have gathered many vital experiences, found loyal friends, and not least was able to get you out of the immediate danger zone.",
+      "start": {
+        "line": 20,
+        "col": 56
+      },
+      "end": {
+        "line": 26,
+        "col": 13
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s12",
+      "de": "Um 3/4 5 kam endlich der vierte Mitreisende, ein armenisches Mädchen, mit einer Unmenge Gepäck und Proviantkörben, die für unsere Reise ausreichend gewesen wären, ferner einem Heer von Schwestern, Brüdern und Freundinnen.",
+      "en": "At a quarter to five the fourth fellow traveler finally arrived, an Armenian girl, with an enormous amount of luggage and provision baskets that would have been sufficient for our whole trip, and furthermore a host of sisters, brothers, and female friends.",
+      "start": {
+        "line": 27,
+        "col": 5
+      },
+      "end": {
+        "line": 30,
+        "col": 7
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s13",
+      "de": "Der dritte Mitreisende war ein junger Mann, der irgendwie zu diesem Mädchen gehörte und voller Ungeduld gewartet hatte.",
+      "en": "The third fellow traveler was a young man who somehow belonged to this girl and had waited full of impatience.",
+      "start": {
+        "line": 30,
+        "col": 8
+      },
+      "end": {
+        "line": 31,
+        "col": 51
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s14",
+      "de": "Nun musste das Gepäck verstaut werden, was auch nicht ohne lärmende Meinungsverschiedenheiten vonstatten ging und wozu unsere Sachen erst wieder rausgeworfen wurden.",
+      "en": "Now the luggage had to be stowed, which did not happen without noisy differences of opinion and for which our things were first thrown out again.",
+      "start": {
+        "line": 31,
+        "col": 52
+      },
+      "end": {
+        "line": 33,
+        "col": 71
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s15",
+      "de": "Endlich um 5 Uhr fuhren wir ab; das Mädchen neben dem Chauffeur, wir drei Männer, ich in der Mitte, hinten.",
+      "en": "Finally, at 5 o'clock we drove off; the girl next to the chauffeur, we three men in the back, I in the middle.",
+      "start": {
+        "line": 34,
+        "col": 0
+      },
+      "end": {
+        "line": 35,
+        "col": 33
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s16",
+      "de": "Wagen und Fahrer waren ausgezeichnet.",
+      "en": "Vehicle and driver were excellent.",
+      "start": {
+        "line": 35,
+        "col": 34
+      },
+      "end": {
+        "line": 35,
+        "col": 71
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s17",
+      "de": "Wir verliessen Teheran in der Dämmerung, ich mit meinen rückblickenden Gedanken beschäftigt.",
+      "en": "We left Tehran in the twilight, I occupied with my retrospective thoughts.",
+      "start": {
+        "line": 36,
+        "col": 0
+      },
+      "end": {
+        "line": 37,
+        "col": 21
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s18",
+      "de": "Gesprochen wurde kaum.",
+      "en": "Hardly a word was spoken.",
+      "start": {
+        "line": 37,
+        "col": 22
+      },
+      "end": {
+        "line": 37,
+        "col": 44
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s19",
+      "de": "Schon vor Kasvin kamen wir in ein leichtes Schneetreiben, was bei uns leichte Besorgnis auslöste.",
+      "en": "Even before Qazvin we ran into a light snowfall, which caused us mild concern.",
+      "start": {
+        "line": 38,
+        "col": 5
+      },
+      "end": {
+        "line": 39,
+        "col": 27
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s20",
+      "de": "Die Wüste war weiss, wenn auch nur mit einer ganz zarten Schneeschicht bedeckt.",
+      "en": "The desert was white, even if covered with only a very delicate layer of snow.",
+      "start": {
+        "line": 39,
+        "col": 28
+      },
+      "end": {
+        "line": 40,
+        "col": 34
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s21",
+      "de": "Um 1/2 8 hielten wir vorm \"Grand Hotel\" in Kasvin zu einer kurzen Rast.",
+      "en": "At 7:30 we stopped in front of the \"Grand Hotel\" in Qazvin for a short rest.",
+      "start": {
+        "line": 40,
+        "col": 35
+      },
+      "end": {
+        "line": 41,
+        "col": 31
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s22",
+      "de": "Strauss hatte auf seiner Reise nach Teheran dort 4 Tage verbracht und stürzte sich in aufwallender Wiedersehensfreude auf den ehrwürdigen Radio-Apparat, ohne nennenswerten Erfolg.",
+      "en": "Strauss had spent 4 days there on his journey to Tehran and, in a surge of joy at the reunion, rushed to the venerable radio set, without noteworthy success.",
+      "start": {
+        "line": 41,
+        "col": 32
+      },
+      "end": {
+        "line": 43,
+        "col": 61
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s23",
+      "de": "Ich bestellte derweil Borscht und Tee.",
+      "en": "Meanwhile, I ordered borscht and tea.",
+      "start": {
+        "line": 43,
+        "col": 62
+      },
+      "end": {
+        "line": 44,
+        "col": 24
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s24",
+      "de": "Unsere Brote wollten wir noch schonen.",
+      "en": "We still wanted to save our sandwiches.",
+      "start": {
+        "line": 44,
+        "col": 25
+      },
+      "end": {
+        "line": 44,
+        "col": 63
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s25",
+      "de": "Auf Grund des wohlhabenden Eindrucks, den wir erweckten, nahm man uns 8 Kran für diesen dürftigen Imbiss ab.",
+      "en": "On account of the affluent impression we made, they took 8 Kran from us for this meager snack.",
+      "start": {
+        "line": 44,
+        "col": 64
+      },
+      "end": {
+        "line": 46,
+        "col": 24
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s26",
+      "de": "Dann ging es weiter durchs Schneetreiben nach Zendjan, wo wir gegen Mitternacht ankamen.",
+      "en": "Then we went on through the snowfall to Zanjan, where we arrived around midnight.",
+      "start": {
+        "line": 46,
+        "col": 25
+      },
+      "end": {
+        "line": 47,
+        "col": 42
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s27",
+      "de": "Wir waren sehr müde und verlangten im einzigen Hotel des Ortes ein Zimmer.",
+      "en": "We were very tired and requested a room in the only hotel of the place.",
+      "start": {
+        "line": 47,
+        "col": 43
+      },
+      "end": {
+        "line": 48,
+        "col": 43
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s28",
+      "de": "Die meisten Zimmer waren abgeschlossen und der Schlüssel nicht auffindbar.",
+      "en": "Most rooms were locked and the key could not be found.",
+      "start": {
+        "line": 48,
+        "col": 44
+      },
+      "end": {
+        "line": 49,
+        "col": 47
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s29",
+      "de": "Nachdem das Mädchen und der Knabe untergebracht waren, liess sich dann mit Gewalt auch für uns ein Zimmer öffnen, allerdings mit nur einem Bett.",
+      "en": "After the girl and the boy were accommodated, a room could then be forced open for us as well, though with only one bed.",
+      "start": {
+        "line": 49,
+        "col": 48
+      },
+      "end": {
+        "line": 51,
+        "col": 45
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s30",
+      "de": "Da es bitterkalt war, schien uns das ganz günstig und wir legten uns hin.",
+      "en": "As it was bitterly cold, that seemed quite favorable to us, and we lay down.",
+      "start": {
+        "line": 51,
+        "col": 46
+      },
+      "end": {
+        "line": 52,
+        "col": 44
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p01-s31",
+      "de": "Ich lag schon, als der Knabe",
+      "en": "I was already lying down when the boy...",
+      "start": {
+        "line": 52,
+        "col": 45
+      },
+      "end": {
+        "line": 52,
+        "col": 73
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": true
+    }
+  ],
+  "notes": [
+    "Dateline: the German reads \"25. Dezember 1939\"; the earlier translation's \"29. December 1939\" was wrong. 25 December is consistent with the text: it is the parents' wedding anniversary (\"today's day\"), the telegram from Bazirgan two days earlier was \"vom 23.\", and page 6 says the report was begun on the 25th in Taslicay.",
+    "On this typewriter/photo the digits 3 and 5 are nearly indistinguishable (\"1939\" looks like \"1959\"); 25 (dateline) and 23 (Bazirgan) are read from context.",
+    "\"23. cr.\" = currentis, i.e. the 23rd of this month.",
+    "\"Um 3/4 5\" = 4:45 (a quarter to five); the earlier translation had \"Around 4:30 / 5:00\".",
+    "\"fast 2 Stunden\" = almost 2 hours; the earlier translation said \"almost 2 ½ hours\".",
+    "\"Euch aus der unmittelbaren Gefahrenzone holen konnte\" = was able to get YOU (the parents) out of the immediate danger zone; the earlier translation had him escaping it himself.",
+    "Paragraph about leaving re-translated: \"Es war ein Glück, dass ich in dem Gefühl ... fahren konnte\" = it was a blessing that I could leave with the feeling of so many friendships; \"Wenn es auch ... so weiss ich doch bestimmt\" = even though it made the farewell harder, I know for certain you are not alone.",
+    "Seating: \"das Mädchen neben dem Chauffeur, wir drei Männer, ich in der Mitte, hinten\" - the girl sat next to the driver; the earlier translation omitted her.",
+    "\"ich mit meinen rückblickenden Gedanken beschäftigt\" = I was occupied with my retrospective thoughts (earlier: \"barely occupied\").",
+    "\"Die Wüste war weiss\" = the desert was white (earlier: \"plain\").",
+    "\"Um 1/2 8\" = 7:30; the earlier translation said 8:30.",
+    "\"Ich bestellte derweil Borscht und Tee\" = borscht and tea (earlier: bread and tea). \"Unsere Brote wollten wir noch schonen. Auf Grund des wohlhabenden Eindrucks ... nahm man uns 8 Kran ... ab\" = we wanted to save our sandwiches; because we looked well-off they charged us 8 Kran (earlier: \"8 Toman\" and a nonexistent person \"Landrock\").",
+    "\"schien uns das ganz günstig\" = that seemed quite favorable to us (earlier: \"two rooms seemed unsuitable\"); \"Ich lag schon\" = I was already lying down (earlier: asleep).",
+    "\"wärtvolle\" is typed with ä (typo for \"wertvolle\"); kept as typed.",
+    "The right edge of the sheet is torn: \"Reiseberic[ht?]\", \"de[n?]\", \"Gesundhe[it?]\" are completed from context."
+  ]
+}
