@@ -1,0 +1,60 @@
+# Chapter 6: The Atlantic Crossing
+**Route:** Naples → (SS *Conte di Savoia*) → Gibraltar → Atlantic Ocean → New York City
+**Dates:** Jan 24 – ~early Feb 1940 (the letter itself is dated Brooklyn, Feb 21, 1940)
+**Mode of travel:** Italian Line ocean liner
+
+## Chapter Overview
+After two months of overland hardship the last leg is almost anticlimactic: a poor outer cabin, emigrant passengers, Skat with Hungarians, a British contraband stop at Gibraltar, seasickness, and finally Manhattan rising out of the haze.
+
+> **Arrival date:** The letter does not give the arrival date. A Jan 24 departure from Naples, Gibraltar two days later, and a typical 7–9-day crossing put arrival around Feb 1–3, 1940. The Brooklyn dateline says they reached their goal "3 weeks ago" (the translation's "Ankara" there is almost certainly *Amerika*; confirm in the German). Confirm the arrival date against the Ellis Island / NARA passenger manifest for the *Conte di Savoia*.
+
+---
+
+## Leg: Naples → Gibraltar (SS *Conte di Savoia*)
+**Date:** Jan 24–26, 1940
+
+### Narrative
+"Exactly at noon, it sailed away with us and our belongings." [Letter p. 20 — "Exactly at noon"]. Their "terribly poor outer cabin" boomed as the water slammed against it. Most passengers were emigrants from Germany [Letter p. 20 — "emigrants coming out of Germany"]. They shared a dining table with some Hungarians and "soon put together our long-awaited game of Skat" [Letter p. 20 — "long-awaited game of Skat"].
+
+### Features & Media
+* **Ship Card:** SS *Conte di Savoia* (Italian Line, 1932): Blue Riband contender, gyroscopic stabilizers, and its 1940 neutral-flag crossings (see `PLAN/media/chapter-06.md`).
+* **Context Card:** Jewish emigration through Italian ports in 1939–1940.
+
+---
+
+## Stop: Gibraltar (British contraband control)
+**Coordinates:** 36.1408° N, 5.3536° W | **Date:** Jan 26, 1940
+
+### Narrative
+Gibraltar lay "so peacefully and harmless-looking", with southern Spain on one side and "the blue mountains of Africa" on the other. The ship anchored for six hours while British officials came aboard [Letter p. 20 — "anchored there for 6 hours"].
+
+### Features & Media
+* **Historical Card:** The British blockade's contraband control at Gibraltar in the Phoney War. Neutral ships were stopped and searched.
+
+---
+
+## Leg: The Atlantic
+**Date:** ~Jan 27 – early Feb 1940
+
+### Narrative
+Fritz spent most of the crossing in the cabin "right on the verge of seasickness", then recovered the day before arrival and ate "my way up and down the menus" [Letter p. 20 — "up and down the menus"].
+
+### Features & Media
+* **Archival Media:** *Conte di Savoia* menus, deck plans and ocean views.
+
+---
+
+## Stop: New York City
+**Coordinates:** 40.7128° N, 74.0060° W | **Date:** ~early Feb 1940
+
+### Narrative
+"The skyscrapers of Manhattan rose out of the haze, and we glided past those giant colossi… a truly impressive end to our remarkable journey!" [Letter p. 20 — "skyscrapers of Manhattan rose out of the haze"]. The letter does not mention the Statue of Liberty, so the site should not claim it.
+
+### Features & Media
+* **Visual Reveal:** Lower Manhattan skyline, c. 1940, fading in from haze.
+* **Epilogue:** The letter's Brooklyn dateline (Feb 21, 1940), and the transition from Fritz to "Fred".
+
+---
+
+## Final Interaction
+**"Restart the Journey ↺"** / **"Read the Full Letter"** (opens the page-by-page scan + German + English reader)
