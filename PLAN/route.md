@@ -1,6 +1,6 @@
 # Chronological Travel Route
 
-Below is the step-by-step route of the whole journey from Tehran, Iran to New York City (December 19, 1939 – early February 1940). Each entry lists the stop, then (in *italics*) how they traveled to the next stop. The chapter files in `chapters/` carry the narrative and letter citations for both stops and legs.
+Below is the step-by-step route of the whole journey from Tehran, Iran to New York City (December 19, 1939 – about January 31, 1940). Each entry lists the stop, then (in *italics*) how they traveled to the next stop. The chapter files in `chapters/` carry the narrative and letter citations for both stops and legs.
 
 > **Dates:** The letter's German dateline reads "25. Dezember 1939, Taslicay" (the English translation had "29"), and Fritz writes that the farewell in Tehran was "heute vor 6 Tagen" (6 days ago). So they left Tehran on Dec 19, reached Bazargan on Dec 23 (matching the telegram "vom 23."), and woke in Taşlıçay on Dec 25. The Dec 25 and Dec 27 dates on letter pp. 6–7 are correct.
 
@@ -142,11 +142,11 @@ Arrival: Jan 15, 1940 (Evening; the 11 PM entry was written after leaving).
 
 Details: 2-hour layover to get tea and bread.
 
-## Istanbul (Haydarpaşa & Pera), Turkey 41.0082° N, 28.9784° E
+## Istanbul (Haydarpaşa & Galata), Turkey 41.0082° N, 28.9784° E
 
 Arrival: Jan 16, 1940 (7:00 AM).
 
-Details: Arrived at Haydarpaşa terminal on the Asian side, took the ferry across to Pera (European side). Delayed by police processing, fines, and emergency medical treatment for a foot abscess.
+Details: Arrived at Haydarpaşa terminal on the Asian side, took the ferry across to Galata (European side; the typescript says "Pera", corrected by hand to "Galata"). Delayed by police processing, fines, and emergency medical treatment for a foot abscess.
 
 ## Pythion, Greece 41.3783° N, 26.6119° E
 
@@ -198,6 +198,6 @@ Details: Anchored for 6 hours while British authorities inspected the vessel bef
 
 ## New York City, USA 40.6782° N, 73.9442° W
 
-Arrival: ~early February 1940 (not stated in the letter; estimated from Jan 24 departure + typical 7–9-day crossing; confirm via passenger manifest). The final section of the letter is dated Brooklyn, Feb 21, 1940. Italian Line ships docked at the Manhattan West Side piers; the coordinates mark Brooklyn, where the letter was finished.
+Arrival: ~Jan 31, 1940 (the Feb 21 Brooklyn section says they arrived "3 weeks ago"; consistent with a Jan 24 departure; confirm via passenger manifest). The final section of the letter is dated Brooklyn, Feb 21, 1940. Italian Line ships docked at the Manhattan West Side piers; the coordinates mark Brooklyn, where the letter was finished.
 
 Details: Seasick for most of the Atlantic crossing. Manhattan's skyscrapers rose out of the haze as they arrived. The letter does not mention the Statue of Liberty.

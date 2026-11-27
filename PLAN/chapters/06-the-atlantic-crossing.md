@@ -1,12 +1,12 @@
 # Chapter 6: The Atlantic Crossing
 **Route:** Naples → (SS *Conte di Savoia*) → Gibraltar → Atlantic Ocean → New York City
-**Dates:** Jan 24 – ~early Feb 1940 (the letter itself is dated Brooklyn, Feb 21, 1940)
+**Dates:** Jan 24 – ~Jan 31, 1940 (the letter itself is dated Brooklyn, Feb 21, 1940)
 **Mode of travel:** Italian Line ocean liner
 
 ## Chapter Overview
 After two months of overland hardship the last leg is almost anticlimactic: a poor outer cabin, emigrant passengers, Skat with Hungarians, a British contraband stop at Gibraltar, seasickness, and finally Manhattan rising out of the haze.
 
-> **Arrival date:** The letter does not give the arrival date. A Jan 24 departure from Naples, Gibraltar two days later, and a typical 7–9-day crossing put arrival around Feb 1–3, 1940. The Brooklyn dateline says they reached their goal "3 weeks ago" (the translation's "Ankara" there is almost certainly *Amerika*; confirm in the German). Confirm the arrival date against the Ellis Island / NARA passenger manifest for the *Conte di Savoia*.
+> **Arrival date:** The letter does not name the day. The Brooklyn section, dated 21.2.40, says they "reached our goal safe and sound 3 weeks ago" [Letter p. 15 — "3 weeks ago"]. With a Jan 24 departure from Naples and Gibraltar on Jan 26, that puts arrival at about Jan 31, 1940. Confirm the exact date against the Ellis Island / NARA passenger manifest for the *Conte di Savoia*.
 
 ---
 
@@ -34,7 +34,7 @@ Gibraltar lay "so peacefully and harmless-looking", with southern Spain on one s
 ---
 
 ## Leg: The Atlantic
-**Date:** ~Jan 27 – early Feb 1940
+**Date:** ~Jan 27–31, 1940
 
 ### Narrative
 Fritz spent most of the crossing in the cabin "right on the verge of seasickness", then recovered the day before arrival and ate "my way up and down the menus" [Letter p. 20 — "up and down the menus"].
@@ -45,10 +45,10 @@ Fritz spent most of the crossing in the cabin "right on the verge of seasickness
 ---
 
 ## Stop: New York City
-**Coordinates:** 40.7128° N, 74.0060° W | **Date:** ~early Feb 1940
+**Coordinates:** 40.7128° N, 74.0060° W | **Date:** ~Jan 31, 1940
 
 ### Narrative
-"The skyscrapers of Manhattan rose out of the haze, and we glided past those giant colossi… a truly impressive end to our remarkable journey!" [Letter p. 20 — "skyscrapers of Manhattan rose out of the haze"]. The letter does not mention the Statue of Liberty, so the site should not claim it.
+"The skyscrapers of Manhattan rose out of the haze, and we glided past the huge bridges… a truly impressive end to our remarkable journey!" [Letter p. 20 — "skyscrapers of Manhattan rose out of the haze"]. The letter does not mention the Statue of Liberty, so the site should not claim it.
 
 ### Features & Media
 * **Visual Reveal:** Lower Manhattan skyline, c. 1940, fading in from haze.

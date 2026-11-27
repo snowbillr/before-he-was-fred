@@ -10,11 +10,11 @@ The calm of the Marmara gives way to a bureaucratic ordeal. Istanbul police char
 
 ---
 
-## Leg: Haydarpaşa → Pera (ferry from Asia to Europe)
+## Leg: Haydarpaşa → Galata (ferry from Asia to Europe)
 **Date:** Jan 16, 1940, 7:00 AM
 
 ### Narrative
-The ferry was barely 20 m from the station. "Over there in the rain lay Europe." They took leave of the continent that had hosted them for almost three years and landed in Pera after 20 minutes [Letter p. 15 — "Over there in the rain lay Europe"].
+The ferry was barely 20 m from the station. "Over there in the rain lay Europe." They took leave of the continent that had hosted them for almost three years and landed in Galata after 20 minutes (the typescript's "Pera" is corrected by hand) [Letter p. 15 — "Over there in the rain lay Europe"].
 
 ### Features & Media
 * **Archival Photography:** Bosphorus ferries and Galata Bridge, 1930s (see `PLAN/media/chapter-05.md`).
@@ -56,7 +56,7 @@ The express was late and the Athens connection had gone. The next train was 24 h
 **Date:** Jan 21, 1940
 
 ### Narrative
-A diesel railcar crossed Thrace along a flooded river plain full of cranes [Letter p. 17 — "diesel railcar"]. After Alexandroupolis came padded window seats through green Macedonian hills with snow peaks behind. There was no tobacco in sight, and none of the famous sun [Letter p. 17 — "the ride through Macedonia was beautiful"]. They reached Salonika at 10 PM and spent a cramped night in a full compartment.
+A diesel railcar crossed Thrace along a flooded river plain full of cranes [Letter p. 17 — "diesel railcar"]. After Alexandroupolis came window seats in an express-train compartment through green Macedonian hills with snow peaks behind. There was no tobacco in sight, and none of the famous sun [Letter p. 17 — "the ride through Macedonia was beautiful"]. They reached Salonika at 10 PM and spent a cramped night in a full compartment.
 
 ### Features & Media
 * **Nature Card:** Cranes and wetlands of the Evros (Maritsa) delta.

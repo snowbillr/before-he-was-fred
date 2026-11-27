@@ -43,7 +43,7 @@ After a cold, overpriced room at the "Palast Hotel", a charming German-speaking 
 
 ### Features & Media
 * **Object Card:** A 1930s dental impression tray, with an explanation of what it is and why a stranger might buy one.
-* **Character Card:** The French-speaking detective ("our shadow").
+* **Character Card:** The French-speaking factotum ("our shadow").
 
 ---
 
@@ -51,7 +51,7 @@ After a cold, overpriced room at the "Palast Hotel", a charming German-speaking 
 **Date:** Jan 11–12, 1940
 
 ### Narrative
-The train stuck in snowdrifts again and again and had to be shoveled free [Letter p. 13 — "until the train was shoveled free"]. They spent a night without food or water at a small station. At dawn Fritz found a red, syrupy tea and hard tallow sausages in a village hut [Letter p. 13 — "tasted like syrup"]. On Jan 12 at 13:15, "since 30 hours in the III class compartment", they stood at the landslide, about 150 km from Erzurum, where 30 workers were blasting away rock from a 50 m buried stretch [Letter p. 12 — "since 30 hours in the III class compartment"].
+The train stuck in snowdrifts again and again and had to be shoveled free [Letter p. 13 — "until the train was shoveled free"]. They spent a night without food or water at a small station. At dawn Fritz found a red drink that tasted of cinnamon and sausages that seemed made of felt in a village hut [Letter p. 13 — "tasted like syrup"]. On Jan 12 at 13:15, "since 30 hours in the III class compartment", they stood at the landslide, about 150 km from Erzurum, where 30 workers were blasting away rock from a 50 m buried stretch [Letter p. 12 — "since 30 hours in the III class compartment"].
 
 ---
 
