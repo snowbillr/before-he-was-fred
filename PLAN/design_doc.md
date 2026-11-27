@@ -58,7 +58,7 @@ The chapter files hold the narrative, citations and feature ideas for every step
 
 ### 3. Primary Source & Citation Viewer
 
-**Citation badges.** Narrative text cites the letter at the sentence level. In the plan docs a citation is written `[Letter p. N — "anchor phrase"]`, where the anchor is a phrase from the English of that sentence. At build time each citation resolves to a sentence ID (`p08-s14`) in the letter data. On screen it renders as a small badge, `[p. 8]`.
+**Citation badges.** Narrative text cites the letter at the sentence level. In the plan docs a citation is written `[Letter p. N — "anchor phrase"](#p08-s14)`: the anchor is a phrase from the English of that sentence, and the fragment is the sentence ID in the letter data. Citations to pages whose JSON does not exist yet carry no fragment until the transcription lands. On screen it renders as a small badge, `[p. 8]`.
 
 **Clicking a badge** opens the **Original Letter** tab (or a sheet on mobile) and shows:
 1. The **scan of the letter page**, zoomed and scrolled to the cited sentence, with the sentence's lines highlighted (`source-highlight` #fef3c7, multiply blend).
@@ -66,6 +66,8 @@ The chapter files hold the narrative, citations and feature ideas for every step
 3. Prev/Next sentence controls and "View full page" (scan + full German + full English, with any sentence clickable to highlight it on the scan).
 
 **Highlight geometry.** The letter is typewritten (monospaced), so each sentence is stored as a start/end position (line, column) in the page's transcribed lines. Highlight rectangles are computed per line from a per-page **calibration**: the text block's left/top margin, line pitch and character pitch, in image pixels. These are measured once per scan and stored in the page JSON. Where a typed line is skewed on the photo, an optional per-line `bbox` overrides the computed rectangle.
+
+**Calibration status.** The page JSONs do not have `calibration` or `lineBoxes` yet. Tesseract finds only about half of the typed lines on the 750×1000 scans, and the photos have some perspective skew, so automatic values were unreliable. Measure each page by hand in a small calibration tool (click the first and last character of two lines; store per-page left/top, line pitch, char pitch, and a skew angle), or redo it automatically if higher-resolution photos become available. Sentence text, IDs and line/column ranges do not depend on the image and stay valid if scans are replaced.
 
 **Letter data schema** (`PLAN/letter/pages/page-NN.json`):
 ```json
