@@ -40,7 +40,7 @@ Letter p. 4: after the Gürbulak crossing they drive on to Bayazit, where they e
 - Gap: no free 1920s–40s photograph of Bayazit town itself was found.
 
 ### Context card — Mount Ararat on the frontier
-Mount Ararat (Ağrı Dağı, 5,137 m) stands just inside Turkey near the 1939 Iran and Soviet borders; it was the backdrop for the whole drive from Bazargan to Taşlıçay (Letter p. 4–5). The 1930–31 Ararat rebellion led to a Turkish–Iranian border adjustment in 1932 that placed the whole massif on the Turkish side. Sources: [Mount Ararat](https://en.wikipedia.org/wiki/Mount_Ararat), [Ararat rebellion](https://en.wikipedia.org/wiki/Ararat_rebellion).
+Mount Ararat (Ağrı Dağı, 5,137 m) stands just inside Turkey near the 1939 Iran and Soviet borders; it was the backdrop for the whole drive from Bazargan to Taşlıçay (Letter p. 4–5). Sources: [Mount Ararat](https://en.wikipedia.org/wiki/Mount_Ararat).
 
 ---
 
@@ -61,7 +61,7 @@ Letter p. 5: the travellers wait out snow in a primitive inn, play the card game
 - **Card game 66 (Sechsundsechzig)** — no free photograph of a 1930s 66 deck was found on Commons. Suggest a simple illustration or a public-domain card image (e.g., any PD German-/French-suited 32-card pack) — gap.
 
 ### Context card — "66" (Sechsundsechzig)
-Sechsundsechzig ("66") is a trick-taking card game for two played with 24 or 20 cards (A, 10, K, Q, J, 9), popular in German-speaking Central Europe; the aim is to reach 66 card points first, with "marriages" of king and queen scoring bonuses. It was a natural way for German-speaking travellers to pass snowbound hours (Letter p. 5; again on the train, Letter p. 14). Source: [Sixty-six (card game)](https://en.wikipedia.org/wiki/Sixty-six_(card_game)).
+Sechsundsechzig ("66") is a fast point-trick game of the "marriage" type for 2–4 players with 24 cards (A, 10, K, Q, J, 9), popular in German-speaking Central Europe; the aim is to reach 66 card points first, with king–queen "marriages" scoring bonuses. It was a natural way for German-speaking travellers to pass snowbound hours (Letter p. 5; again on the train, Letter p. 14). Source: [Sixty-six (card game)](https://en.wikipedia.org/wiki/Sixty-six_(card_game)).
 
 ---
 
