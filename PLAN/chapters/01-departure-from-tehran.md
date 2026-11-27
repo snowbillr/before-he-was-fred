@@ -14,7 +14,7 @@ Fritz leaves his parents and almost three years of refuge in Tehran. In two days
 **Coordinates:** 35.6892° N, 51.3890° E | **Date:** Dec 19, 1939, 5:00 PM
 
 ### Narrative
-The goodbye came suddenly. Everything Fritz had wanted to say "remained stuck in my throat" [Letter p. 1 — "remained stuck in my throat"]. He waited almost 2½ hours at the garage hoping his parents would come by once more, grateful for two years of friendships and for having escaped "the immediate danger zone" [Letter p. 1 — "escape the immediate danger zone"]. Around 4:30–5:00 the fourth traveler, an Armenian girl, arrived with an enormous amount of luggage and a crowd of relatives. After a noisy repacking they drove off at 5 o'clock, Fritz squeezed in the middle of the back seat, leaving Tehran in the twilight with hardly a word spoken [Letter p. 1 — "Finally, at 5 o'clock we drove off"].
+The goodbye came suddenly. Everything Fritz had wanted to say "remained stuck in my chest" [Letter p. 1 — "remained stuck in my chest"]. He waited almost 2 hours at the garage hoping his parents would come by once more, grateful for two years of friendships and, not least, for having got his parents out of "the immediate danger zone" [Letter p. 1 — "the immediate danger zone"]. At a quarter to five the fourth traveler, an Armenian girl, arrived with an enormous amount of luggage and a crowd of relatives. After a noisy repacking they drove off at 5 o'clock, Fritz squeezed in the middle of the back seat, leaving Tehran in the twilight with hardly a word spoken [Letter p. 1 — "Finally, at 5 o'clock we drove off"].
 
 ### Features & Media
 * **Context Card:** Tehran in 1939: Reza Shah's modernizing capital and a refuge for Central European Jewish emigrants (Fritz and Strauss were Jewish dentists bound for America).
@@ -32,10 +32,10 @@ Even before Qazvin they ran into light snowfall. The plain turned white under "a
 ---
 
 ## Stop: Qazvin
-**Coordinates:** 36.2688° N, 49.9981° E | **Date:** Dec 19, 1939, 8:30 PM
+**Coordinates:** 36.2688° N, 49.9981° E | **Date:** Dec 19, 1939, 7:30 PM
 
 ### Narrative
-They stopped at the "Grand Hotel" for a short rest. Strauss, who had spent four days there on his way to Tehran, rushed to the hotel's venerable radio set "without noteworthy success" [Letter p. 1 — "venerable radio set"]. Fritz ordered bread and tea, which cost 8 Toman for a meager snack [Letter p. 1 — "8 Toman"].
+They stopped at the "Grand Hotel" for a short rest. Strauss, who had spent four days there on his way to Tehran, rushed to the hotel's venerable radio set "without noteworthy success" [Letter p. 1 — "venerable radio set"]. Fritz ordered borscht and tea. Because they looked affluent, they were charged 8 Kran for the meager snack [Letter p. 1 — "they took 8 Kran from us"].
 
 ### Features & Media
 * **Archival Photography:** Qazvin in the 1930s (see `PLAN/media/chapter-01.md`).
@@ -105,7 +105,7 @@ Fritz and Strauss suddenly stepped into the road at the same moment. In front of
 ---
 
 ## Stop: Tabriz
-**Coordinates:** 38.0962° N, 46.2738° E | **Date:** Dec 20, 1939, 5:30 PM (overnight)
+**Coordinates:** 38.0962° N, 46.2738° E | **Date:** Dec 20, 1939, 6:30 PM (overnight)
 
 ### Narrative
 Over tea, Hamid-Aga, a garage owner recommended by Mr. Fischer, said a truck would leave for Trebizond (Trabzon) on Thursday and would try to take them [Letter p. 2 — "Hamid-Aga, the garage owner"]. They took what was supposedly the last room at the Grand Hotel, went to the cinema (and slept there), and slept again at the hotel [Letter p. 2 — "decided to go to the cinema"].

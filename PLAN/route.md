@@ -12,7 +12,7 @@ Departure: Dec 19, 1939, 5:00 PM (twilight), in a hired car with chauffeur.
 
 ## Qazvin, Iran 36.2688° N, 49.9981° E
 
-Arrival: Dec 19, 1939 (8:30 PM). Stopped for a quick rest at the Grand Hotel.
+Arrival: Dec 19, 1939 (7:30 PM). Stopped for a quick rest at the Grand Hotel.
 
 ## Zanjan, Iran 36.6736° N, 48.4963° E
 
@@ -28,7 +28,7 @@ Arrival: Dec 20, 1939 (Noon). Lunch stop.
 
 ## Tabriz, Iran 38.0962° N, 46.2738° E
 
-Arrival: Dec 20, 1939 (5:30 PM). Stayed at the Grand Hotel. On Dec 21, with help from the pharmacist Isaac Rabinowitsch, booked a 1.5-ton Chevrolet truck to Trabzon (130 Toman). The truck carried the luggage; they took the bus.
+Arrival: Dec 20, 1939 (6:30 PM). Stayed at the Grand Hotel. On Dec 21, with help from the pharmacist Isaac Rabinowitsch, booked a 1.5-ton Chevrolet truck to Trabzon (130 Toman). The truck carried the luggage; they took the bus.
 
 *Leg: overcrowded night bus along the Tabriz–Julfa railway, departing ~5:15 PM Dec 21.*
 

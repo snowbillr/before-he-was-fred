@@ -12,7 +12,7 @@ In Tabriz a chance meeting with a Lithuanian-Jewish pharmacist secures a truck t
 **Coordinates:** 38.0962° N, 46.2738° E | **Date:** Dec 21, 1939
 
 ### Narrative
-The luggage arrived and Fritz finally changed out of shoes that had pinched him badly [Letter p. 2 — "changed my shoes in the garage"]. Talks with Hamid-Aga went nowhere until a sympathetic older pharmacist opposite translated via French. When Strauss mentioned they were Jewish emigrants, the man revealed he was a Lithuanian Jew, Isaac Rabinowitsch, and helped them "in a touching way" [Letter p. 2 — "proved to be a Lithuanian Jew"]. In the bazaar they booked seats on a 1.5-ton Chevrolet truck to Trabzon for 130 Toman. They would go by bus as far as Bazargan while the firm's manager rode in the truck [Letter p. 2 — "1.5-ton Chevrolet with space for 5 persons"].
+The luggage arrived and Fritz finally changed out of shoes that had pinched him badly [Letter p. 2 — "changed my shoes in the garage"]. Talks with Hamid-Aga went nowhere until a sympathetic older pharmacist opposite translated via French. When Strauss mentioned they were Jewish emigrants, the man revealed he was a Lithuanian Jew, Isaac Rabinowitsch, and helped them "in a touching way" [Letter p. 2 — "proved to be a Lithuanian Jew"]. In the bazaar they booked seats on a 1.5-ton Chevrolet truck, with room for 3 passengers, to Trabzon for 130 Toman. They would go by bus as far as Bazargan while the firm's manager rode in the truck [Letter p. 2 — "1.5-ton Chevrolet with room for 3 persons"].
 
 ### Features & Media
 * **Character Card:** Isaac Rabinowitsch, pharmacist of Tabriz.
@@ -24,7 +24,7 @@ The luggage arrived and Fritz finally changed out of shoes that had pinched him 
 **Date:** Dec 21, 1939, ~5:15 PM → Dec 22, 1:00 AM
 
 ### Narrative
-The 3 o'clock bus left after 5 PM, "stuffed full", with passengers packed even in the aisle [Letter p. 2 — "The bus was stuffed full"]. It drove into the night beside the railway line to Julfa, crossing it many times. At an evening stop in a small courtyard they drank tea among rough crowds and watched the men praying. Their provisions had gone bad, so they ate sheep's cheese and several sheets of firm flatbread that Fritz called "hand towels" [Letter p. 2 — "a few hand towels of firmer quality"]. Nine glasses of tea and mountains of bread and cheese cost 2 Toman 10 Shahi, to the innkeeper's visible surprise when they did not haggle [Letter p. 3 — "2 Toman and 10 Chahi"].
+The 3 o'clock bus left after 5 PM, "stuffed full", with passengers packed even in the aisle [Letter p. 2 — "The bus was stuffed full"]. It drove into the night beside the railway line to Julfa, crossing it many times. At a supper stop in a small village they drank tea in vast quantities and watched the men praying. Their provisions had run out, so they ate sheep's cheese and sheets of flatbread "of the best quality" that Fritz called "hand towels" [Letter p. 2 — "of the best quality"]. The innkeeper asked 2 Kran for nine glasses of tea and mountains of bread and cheese, and was visibly moved when they paid 10 Shahi on top [Letter p. 3 — "10 Shahi on top of the 2 Kran"].
 
 ### Features & Media
 * **Cultural Card:** *Lavash* and *sangak*: thin Iranian flatbreads, the likely "hand towels" (*Handtücher*).
@@ -36,7 +36,7 @@ The 3 o'clock bus left after 5 PM, "stuffed full", with passengers packed even i
 **Coordinates:** 38.5524° N, 44.9521° E | **Date:** Dec 22, 1939, 1:00 AM to 3:00 PM
 
 ### Narrative
-Arriving at 1 AM, they hauled their luggage through the streets and woke a policeman, who helped them rouse the hotel clerk. Given the deluxe two-bed room, they "crept back together into one bed" [Letter p. 3 — "crept back together into one bed"]. In the bazaar they bought thick, colorful wool socks for 3 Toman a pair, "worn by almost all people there", and lunched on *dough* (sour yogurt drink) and kebab [Letter p. 3 — "colorful wool socks for 3 Toman each"].
+Arriving at 1 AM, they hauled their luggage through the streets and pounded on the door of the Esplanade hotel, with a policeman helping them make noise. Given the deluxe two-bed room, they "crept back together into one bed" [Letter p. 3 — "crept back together into one bed"]. In the bazaar they bought thick, colorful wool socks for 3 Kran a pair, "worn by almost all people there", and lunched on *dough* (sour yogurt drink) and kebab [Letter p. 3 — "colorful wool socks for 3 Kran"].
 
 ### Features & Media
 * **Cultural Card:** Hand-knitted Azerbaijani/Kurdish wool socks (*jurab*) and *doogh*.
@@ -78,7 +78,7 @@ For the first time they rode in the Chevrolet. It had only three seats, so the c
 **Coordinates:** 39.3891° N, 44.3855° E | **Date:** Dec 23, 1939
 
 ### Narrative
-The customs director, who suffered from "2 bad teeth", received them in good French. While his assistant searched the luggage, the two dentists examined the director's aching teeth [Letter p. 4 — "consulted the director about his teeth"]. Strauss's photo album smoothed the inspection, and the director exchanged money with them [Letter p. 4 — "Iraqi 5-note"]. Mount Ararat stayed hidden in "black, impenetrable fog", so they could not look for Noah's Ark [Letter p. 4 — "black, impenetrable fog"]. They saw the wrecked Turkish airplanes awaiting pickup, sent a telegram to Fritz's parents, and ate a last real Iranian chicken lunch in Abdil's two-room mud hut [Letter p. 4 — "sent the telegram to you"].
+The customs director, who suffered from "2 bad teeth", received them in good French. While his assistant searched the luggage, the director consulted the two dentists about his teeth, and they gave home-remedy advice [Letter p. 4 — "the director consulted us about his teeth"]. Strauss's photo album smoothed the inspection, and the director sold Fritz an Iraqi banknote (denomination unclear in the scan) for 10 Toman [Letter p. 4 — "which I acquired for 10 Toman"]. Mount Ararat stayed hidden in "black, impenetrable fog", so they could not look for Noah's Ark [Letter p. 4 — "black, impenetrable fog"]. They saw the wrecked Turkish airplanes awaiting pickup, sent a telegram to Fritz's parents, and ate a last real Iranian chicken lunch in Abdil's two-room mud hut [Letter p. 4 — "sent the telegram to you"].
 
 ### Features & Media
 * **Visual Reveal:** A fog layer over a photograph of Mount Ararat. A mouseover clears the fog.

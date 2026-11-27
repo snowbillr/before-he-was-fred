@@ -14,7 +14,7 @@ This is the emotional core of the letter. A night stranded in the snow at −35�
 **Coordinates:** ~39.6300° N, 43.8300° E (approximate) | **Date:** Dec 23–24, 1939
 
 ### Narrative
-"Unwashed, frozen, and hungry" in a dark, bitterly cold inn, they waited because the chauffeurs saw no way through the snow [Letter p. 5 — "Unwashed, frozen, and hungry"]. They played the card game 66 "to hundred-thousand" and then started over [Letter p. 5 — "played 66 to hundred-thousand"]. Hunger drove them to eat an unappetizing chunk of meat swimming in fat, which they "pounced on like wolves" [Letter p. 5 — "pounced on it like wolves"]. Their chauffeur had to go back to Gürbulak about the confiscated tires, so they were transferred to another truck [Letter p. 5 — "go back to Gürbulak because of the tires"].
+"Unwashed, frozen, and hungry" in a dark, bitterly cold inn, they waited because the chauffeurs saw no way through the snow [Letter p. 5 — "Unwashed, frozen, and hungry"]. They played the card game 66 "to hundred-thousand" and then started over [Letter p. 5 — "played 66 to hundred-thousand"]. Hunger drove them to eat unappetizing chunks of meat with "even more unappetizing egg" over them, which they "pounced on like wolves" [Letter p. 5 — "pounced on it like wolves"]. Their chauffeur had to go back to Gürbulak about the confiscated tires, so they were transferred to another truck [Letter p. 5 — "go back to Gürbulak because of the tires"].
 
 ### Features & Media
 * **Interactive Element:** Sechsundsechzig (66) rules card. A playable version is deferred to v2 (see design doc).
