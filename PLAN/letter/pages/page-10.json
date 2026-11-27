@@ -1,0 +1,801 @@
+{
+  "page": 10,
+  "image": "PLAN/images/pages/page_10.jpeg",
+  "lines": [
+    "10) stiegen bei unseren Gendarmen ab. Der eine sprach etwas deutsch. Es war der",
+    "erste Mensch in der Türkei, mit dem wir zusammenhängend sprechen konnten.",
+    "In der Nacht um 1 Uhr bin ich dann aufgewacht und konnte kein Auge mehr",
+    "schliessen. Ständig lauschte ich auf Geräusche von draussen. Ein aufkommen-",
+    "der Wind hätte unser Verderben bedeutet. Um 1/2 5 war ich draussen und sah",
+    "die Sterne verblassen. Dann ging ich ins Dorf, um den Kutscher zu wecken,",
+    "der bald darauf mit dem Schlitten vorfuhr. Um 6 Uhr fuhren wir ab, nach herz-",
+    "lichem Abschied von den Gendarmen, die uns so freundliche Gastfreundschaft",
+    "gewährt hatten. Eigentlich fuhr nur unser Gepäck ab; wir stapften durch den",
+    "hohen Schnee hinterher. Es waren Wolken am Himmel, aber die Sonne ging klar",
+    "und warm auf. Es wurde uns bald so warm, dass wir Mantel, Shawl und Handschuh",
+    "auf den Schlitten legten. Unsere Stimmung war gut, da der Himmel keinen An-",
+    "lass zu Besorgnis bot. Wir kamen an der Stelle unseres Desasters vor 6 Tagen",
+    "vorbei nach 2 Stunden auf die Passhöhe des Tahir Gebirges und gingen 2 Stun-",
+    "den auf der Höhe entlang. Dasselbe Gebirge, das uns so grausam zurückgeschla-",
+    "gen hatte, war jetzt ein volles Erlebnis für uns. Dann ging es bergab und",
+    "wir konnten streckenweise auf unserem Gepäck zu Tal gleiten, bis der Schlitten",
+    "plötzlich nach meiner Seite rutschte und ich verhältnismässig sanft im Schnee",
+    "lag, der Schlitten auf mir. Wenige Minuten später erzählte Strauss wieder",
+    "einen seiner berüchtigten Schwänke aus der Jugendzeit und merkte nicht, dass",
+    "sein Auditorium inzwischen 50m hinter dem Schlitten aus dem Schnee krabbelte.",
+    "Erst mein Geschrei machte den Kutscher aufmerksam. Sowas kann also auch ande-",
+    "ren Leuten als Dr. Grossmann passieren. Um 10 Uhr hatten wir die 18km bis",
+    "Tahir zurückgelegt und waren in Freiheit. Auch die dortigen Gendarmen empfin-",
+    "gen uns sehr nett und telefonierten die Nachricht von unserer Rettung zurück.",
+    "Als wir dann im Wirtshaus sassen, lief auch hier wieder das ganze Dorf auf",
+    "die Nachricht von unserer Anwesenheit hin zusammen. Mit aufgesperrten Mündern",
+    "und reingesteckten Fingern drangen sie auf uns ein und auch Magen- und son-",
+    "stige Leiden wollten sie auf das Wort \"Doktor\" hin kuriert haben. Strauss zog",
+    "dann umständlich sein Taschenmesser, klappte es auf und deutete den Leuten",
+    "an, sich auszuziehen. Dann zogen sie es vor, sich in der Menge zu  verdrücken.",
+    "Hätten wir Instrumente bei uns, wir könnten reich und glücklich hier werden.",
+    "Um 11 Uhr ging es weiter, zunächst durch schwieriges Gelände zu Fuss. Der",
+    "Mangel an gesundem Schlaf seit Wochen und die ungewohnten Anstrengungen mach-",
+    "ten sich verdammt bemerkbar. Auf einer Weghöhe kamen wir an ein Strassenhaus",
+    "und wurden von den Arbeitern hineingebeten. Man brachte uns Tee, Fladenbrot",
+    "und Honig, woran wir uns delektierten. Dann mussten wir uns in ein Gästebuch",
+    "an erster Stelle eintragen und wurden noch auf den Weg geleitet. Beim Ab-",
+    "schied schenkte ihnen Strauss ein Universalwerkzeug, das er in der Tasche",
+    "trug. Diese urwüchsige Gastfreundschaft treffen wir hier ständig. Man sollte",
+    "sich in anderen Ländern, wo bei jeder möglichen und unmöglichen Gelegenheit",
+    "die Hände aufgehalten werden, ein Beispiel nehmen. -- Dann ging es auf dem",
+    "Schlitten bergab, ca 20km bis zu diesem Nest am Ausgang des Gebirges. Eben",
+    "ist auch der junge Türke mit seiner Familie auf den beiden Schlitten einge-",
+    "troffen und morgen hoffen wir gemeinsam nach Erzurum weiterzufahren, evtl.",
+    "im Omnibus, falls einer hierher verschlagen wird.    Hasankale, 7.1.40.",
+    "",
+    "    Natürlich kam kein Omnibus und so fuhren wir um 6 Uhr mit dem Schlitten",
+    "weiter. Es war eine Karawane von 4 Schlitten, die über die weiten Schneefel-",
+    "der zwischen den Hochgebirgen hinzog. Der Postschlitten mit 4 Passagieren",
+    "die beiden Schlitten unseres neuen Bekannten und unserer mit den schlechte-",
+    "sten Pferden. Wir zottelten deshalb auch bald in grösserem Abstand hinterher.",
+    "Der Himmel hing voll zerfetzter dunkler Wolken; das Wetter war kalt und",
+    "stürmisch und wir fühlten uns denkbar ungemütlich. Nach 16 km erreichten wir",
+    "die Schmalspurbahn bei Horassan, die Kleinasie von Erzurum bis zur russi-",
+    "schen Grenze durchzieht. Der nächste Zug nach Erzurum sollte in 5 Tagen gehen.",
+    "Das schien uns zu lange und deshalb fuhren wir weiter. Es war eine grosse",
+    "Strapaze, denn ein heftiger Wind kam uns entgegen und durchdrang Decken und",
+    "Kleidung. Trotzdem unser Kutscher ständig auf die armen Pferde einschlug war",
+    "das Tempo kläglich.. Nach weiteren 30km machten wir am frühen Nachmittag"
+  ],
+  "sentences": [
+    {
+      "id": "p10-s01",
+      "de": "stiegen bei unseren Gendarmen ab.",
+      "en": "...dismounted at our gendarmes'.",
+      "start": {
+        "line": 0,
+        "col": 4
+      },
+      "end": {
+        "line": 0,
+        "col": 37
+      },
+      "continued_from_previous_page": true,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s02",
+      "de": "Der eine sprach etwas deutsch.",
+      "en": "One of them spoke some German.",
+      "start": {
+        "line": 0,
+        "col": 38
+      },
+      "end": {
+        "line": 0,
+        "col": 68
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s03",
+      "de": "Es war der erste Mensch in der Türkei, mit dem wir zusammenhängend sprechen konnten.",
+      "en": "He was the first person in Turkey with whom we could talk coherently.",
+      "start": {
+        "line": 0,
+        "col": 69
+      },
+      "end": {
+        "line": 1,
+        "col": 73
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s04",
+      "de": "In der Nacht um 1 Uhr bin ich dann aufgewacht und konnte kein Auge mehr schliessen.",
+      "en": "In the night at 1 o'clock I woke up and could not close an eye again.",
+      "start": {
+        "line": 2,
+        "col": 0
+      },
+      "end": {
+        "line": 3,
+        "col": 11
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s05",
+      "de": "Ständig lauschte ich auf Geräusche von draussen.",
+      "en": "I listened constantly for noises from outside.",
+      "start": {
+        "line": 3,
+        "col": 12
+      },
+      "end": {
+        "line": 3,
+        "col": 60
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s06",
+      "de": "Ein aufkommender Wind hätte unser Verderben bedeutet.",
+      "en": "A rising wind would have meant our ruin.",
+      "start": {
+        "line": 3,
+        "col": 61
+      },
+      "end": {
+        "line": 4,
+        "col": 40
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s07",
+      "de": "Um 1/2 5 war ich draussen und sah die Sterne verblassen.",
+      "en": "At half past 4 I was outside and watched the stars fade.",
+      "start": {
+        "line": 4,
+        "col": 41
+      },
+      "end": {
+        "line": 5,
+        "col": 22
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s08",
+      "de": "Dann ging ich ins Dorf, um den Kutscher zu wecken, der bald darauf mit dem Schlitten vorfuhr.",
+      "en": "Then I went into the village to wake the driver, who soon afterwards drove up with the sled.",
+      "start": {
+        "line": 5,
+        "col": 23
+      },
+      "end": {
+        "line": 6,
+        "col": 42
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s09",
+      "de": "Um 6 Uhr fuhren wir ab, nach herzlichem Abschied von den Gendarmen, die uns so freundliche Gastfreundschaft gewährt hatten.",
+      "en": "At 6 o'clock we set off, after a warm farewell from the gendarmes, who had shown us such friendly hospitality.",
+      "start": {
+        "line": 6,
+        "col": 43
+      },
+      "end": {
+        "line": 8,
+        "col": 15
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s10",
+      "de": "Eigentlich fuhr nur unser Gepäck ab; wir stapften durch den hohen Schnee hinterher.",
+      "en": "Actually only our luggage drove off; we stomped along behind through the deep snow.",
+      "start": {
+        "line": 8,
+        "col": 16
+      },
+      "end": {
+        "line": 9,
+        "col": 23
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s11",
+      "de": "Es waren Wolken am Himmel, aber die Sonne ging klar und warm auf.",
+      "en": "There were clouds in the sky, but the sun rose clear and warm.",
+      "start": {
+        "line": 9,
+        "col": 24
+      },
+      "end": {
+        "line": 10,
+        "col": 13
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s12",
+      "de": "Es wurde uns bald so warm, dass wir Mantel, Shawl und Handschuh auf den Schlitten legten.",
+      "en": "We soon became so warm that we put our coats, shawls, and gloves on the sled.",
+      "start": {
+        "line": 10,
+        "col": 14
+      },
+      "end": {
+        "line": 11,
+        "col": 25
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s13",
+      "de": "Unsere Stimmung war gut, da der Himmel keinen Anlass zu Besorgnis bot.",
+      "en": "Our mood was good, as the sky gave no cause for concern.",
+      "start": {
+        "line": 11,
+        "col": 26
+      },
+      "end": {
+        "line": 12,
+        "col": 22
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s14",
+      "de": "Wir kamen an der Stelle unseres Desasters vor 6 Tagen vorbei nach 2 Stunden auf die Passhöhe des Tahir Gebirges und gingen 2 Stunden auf der Höhe entlang.",
+      "en": "We passed the spot of our disaster of 6 days ago, after 2 hours reached the pass of the Tahir mountains, and walked along the heights for 2 hours.",
+      "start": {
+        "line": 12,
+        "col": 23
+      },
+      "end": {
+        "line": 14,
+        "col": 25
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s15",
+      "de": "Dasselbe Gebirge, das uns so grausam zurückgeschlagen hatte, war jetzt ein volles Erlebnis für uns.",
+      "en": "The same mountains that had beaten us back so cruelly were now a thrilling experience for us.",
+      "start": {
+        "line": 14,
+        "col": 26
+      },
+      "end": {
+        "line": 15,
+        "col": 49
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s16",
+      "de": "Dann ging es bergab und wir konnten streckenweise auf unserem Gepäck zu Tal gleiten, bis der Schlitten plötzlich nach meiner Seite rutschte und ich verhältnismässig sanft im Schnee lag, der Schlitten auf mir.",
+      "en": "Then it went downhill and in stretches we could glide down into the valley on our luggage, until the sled suddenly slid over to my side and I lay relatively gently in the snow, the sled on top of me.",
+      "start": {
+        "line": 15,
+        "col": 50
+      },
+      "end": {
+        "line": 18,
+        "col": 27
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s17",
+      "de": "Wenige Minuten später erzählte Strauss wieder einen seiner berüchtigten Schwänke aus der Jugendzeit und merkte nicht, dass sein Auditorium inzwischen 50m hinter dem Schlitten aus dem Schnee krabbelte.",
+      "en": "A few minutes later Strauss was again telling one of his notorious pranks from his youth and did not notice that his audience was meanwhile crawling out of the snow 50m behind the sled.",
+      "start": {
+        "line": 18,
+        "col": 28
+      },
+      "end": {
+        "line": 20,
+        "col": 77
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s18",
+      "de": "Erst mein Geschrei machte den Kutscher aufmerksam.",
+      "en": "Only my shouting made the driver take notice.",
+      "start": {
+        "line": 21,
+        "col": 0
+      },
+      "end": {
+        "line": 21,
+        "col": 50
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s19",
+      "de": "Sowas kann also auch anderen Leuten als Dr. Grossmann passieren.",
+      "en": "So such things can happen to people other than Dr. Grossmann, too.",
+      "start": {
+        "line": 21,
+        "col": 51
+      },
+      "end": {
+        "line": 22,
+        "col": 39
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s20",
+      "de": "Um 10 Uhr hatten wir die 18km bis Tahir zurückgelegt und waren in Freiheit.",
+      "en": "At 10 o'clock we had covered the 18km to Tahir and were free.",
+      "start": {
+        "line": 22,
+        "col": 40
+      },
+      "end": {
+        "line": 23,
+        "col": 41
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s21",
+      "de": "Auch die dortigen Gendarmen empfingen uns sehr nett und telefonierten die Nachricht von unserer Rettung zurück.",
+      "en": "The gendarmes there also received us very nicely and telephoned the news of our rescue back.",
+      "start": {
+        "line": 23,
+        "col": 42
+      },
+      "end": {
+        "line": 24,
+        "col": 77
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s22",
+      "de": "Als wir dann im Wirtshaus sassen, lief auch hier wieder das ganze Dorf auf die Nachricht von unserer Anwesenheit hin zusammen.",
+      "en": "When we then sat in the inn, here too the whole village came running together at the news of our presence.",
+      "start": {
+        "line": 25,
+        "col": 0
+      },
+      "end": {
+        "line": 26,
+        "col": 51
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s23",
+      "de": "Mit aufgesperrten Mündern und reingesteckten Fingern drangen sie auf uns ein und auch Magen- und sonstige Leiden wollten sie auf das Wort \"Doktor\" hin kuriert haben.",
+      "en": "With mouths gaping and fingers stuck in them they pressed in on us, and they also wanted stomach and other ailments cured on the strength of the word \"Doctor\".",
+      "start": {
+        "line": 26,
+        "col": 52
+      },
+      "end": {
+        "line": 28,
+        "col": 65
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s24",
+      "de": "Strauss zog dann umständlich sein Taschenmesser, klappte es auf und deutete den Leuten an, sich auszuziehen.",
+      "en": "Strauss then ceremoniously pulled out his pocketknife, flipped it open, and indicated to the people that they should undress.",
+      "start": {
+        "line": 28,
+        "col": 66
+      },
+      "end": {
+        "line": 30,
+        "col": 21
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s25",
+      "de": "Dann zogen sie es vor, sich in der Menge zu verdrücken.",
+      "en": "Then they preferred to slip away into the crowd.",
+      "start": {
+        "line": 30,
+        "col": 22
+      },
+      "end": {
+        "line": 30,
+        "col": 78
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s26",
+      "de": "Hätten wir Instrumente bei uns, wir könnten reich und glücklich hier werden.",
+      "en": "Had we had instruments with us, we could have become rich and happy here.",
+      "start": {
+        "line": 31,
+        "col": 0
+      },
+      "end": {
+        "line": 31,
+        "col": 76
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s27",
+      "de": "Um 11 Uhr ging es weiter, zunächst durch schwieriges Gelände zu Fuss.",
+      "en": "At 11 o'clock we went on, at first on foot through difficult terrain.",
+      "start": {
+        "line": 32,
+        "col": 0
+      },
+      "end": {
+        "line": 32,
+        "col": 69
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s28",
+      "de": "Der Mangel an gesundem Schlaf seit Wochen und die ungewohnten Anstrengungen machten sich verdammt bemerkbar.",
+      "en": "The lack of healthy sleep for weeks and the unaccustomed exertions made themselves damnably noticeable.",
+      "start": {
+        "line": 32,
+        "col": 70
+      },
+      "end": {
+        "line": 34,
+        "col": 28
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s29",
+      "de": "Auf einer Weghöhe kamen wir an ein Strassenhaus und wurden von den Arbeitern hineingebeten.",
+      "en": "At a high point on the road we came to a road-workers' house and were asked inside by the workers.",
+      "start": {
+        "line": 34,
+        "col": 29
+      },
+      "end": {
+        "line": 35,
+        "col": 43
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s30",
+      "de": "Man brachte uns Tee, Fladenbrot und Honig, woran wir uns delektierten.",
+      "en": "They brought us tea, flatbread, and honey, on which we feasted.",
+      "start": {
+        "line": 35,
+        "col": 44
+      },
+      "end": {
+        "line": 36,
+        "col": 38
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s31",
+      "de": "Dann mussten wir uns in ein Gästebuch an erster Stelle eintragen und wurden noch auf den Weg geleitet.",
+      "en": "Then we had to enter our names in a guestbook, in first place, and were even seen off on our way.",
+      "start": {
+        "line": 36,
+        "col": 39
+      },
+      "end": {
+        "line": 37,
+        "col": 64
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s32",
+      "de": "Beim Abschied schenkte ihnen Strauss ein Universalwerkzeug, das er in der Tasche trug.",
+      "en": "At the farewell Strauss gave them a multi-tool that he carried in his pocket.",
+      "start": {
+        "line": 37,
+        "col": 65
+      },
+      "end": {
+        "line": 39,
+        "col": 5
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s33",
+      "de": "Diese urwüchsige Gastfreundschaft treffen wir hier ständig.",
+      "en": "We constantly meet this rustic hospitality here.",
+      "start": {
+        "line": 39,
+        "col": 6
+      },
+      "end": {
+        "line": 39,
+        "col": 65
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s34",
+      "de": "Man sollte sich in anderen Ländern, wo bei jeder möglichen und unmöglichen Gelegenheit die Hände aufgehalten werden, ein Beispiel nehmen.",
+      "en": "In other countries, where hands are held out at every possible and impossible opportunity, people should take an example from it.",
+      "start": {
+        "line": 39,
+        "col": 66
+      },
+      "end": {
+        "line": 41,
+        "col": 50
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s35",
+      "de": "-- Dann ging es auf dem Schlitten bergab, ca 20km bis zu diesem Nest am Ausgang des Gebirges.",
+      "en": "-- Then it went downhill on the sled, about 20km to this nest at the exit of the mountains.",
+      "start": {
+        "line": 41,
+        "col": 51
+      },
+      "end": {
+        "line": 42,
+        "col": 69
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s36",
+      "de": "Eben ist auch der junge Türke mit seiner Familie auf den beiden Schlitten eingetroffen und morgen hoffen wir gemeinsam nach Erzurum weiterzufahren, evtl. im Omnibus, falls einer hierher verschlagen wird.",
+      "en": "The young Turk with his family has just arrived on the two sleds too, and tomorrow we hope to travel on together to Erzurum, possibly by bus, if one happens to turn up here.",
+      "start": {
+        "line": 42,
+        "col": 70
+      },
+      "end": {
+        "line": 45,
+        "col": 49
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s37",
+      "de": "Hasankale, 7.1.40.",
+      "en": "Hasankale, 7 January 1940.",
+      "start": {
+        "line": 45,
+        "col": 53
+      },
+      "end": {
+        "line": 45,
+        "col": 71
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s38",
+      "de": "Natürlich kam kein Omnibus und so fuhren wir um 6 Uhr mit dem Schlitten weiter.",
+      "en": "Of course no bus came, and so at 6 o'clock we drove on with the sled.",
+      "start": {
+        "line": 47,
+        "col": 4
+      },
+      "end": {
+        "line": 48,
+        "col": 7
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s39",
+      "de": "Es war eine Karawane von 4 Schlitten, die über die weiten Schneefelder zwischen den Hochgebirgen hinzog.",
+      "en": "It was a caravan of 4 sleds that moved across the wide snowfields between the high mountain ranges.",
+      "start": {
+        "line": 48,
+        "col": 8
+      },
+      "end": {
+        "line": 49,
+        "col": 37
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s40",
+      "de": "Der Postschlitten mit 4 Passagieren die beiden Schlitten unseres neuen Bekannten und unserer mit den schlechtesten Pferden.",
+      "en": "The mail sled with 4 passengers, the two sleds of our new acquaintance, and ours with the worst horses.",
+      "start": {
+        "line": 49,
+        "col": 38
+      },
+      "end": {
+        "line": 51,
+        "col": 13
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s41",
+      "de": "Wir zottelten deshalb auch bald in grösserem Abstand hinterher.",
+      "en": "So we soon trailed along behind at an ever greater distance.",
+      "start": {
+        "line": 51,
+        "col": 14
+      },
+      "end": {
+        "line": 51,
+        "col": 77
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s42",
+      "de": "Der Himmel hing voll zerfetzter dunkler Wolken; das Wetter war kalt und stürmisch und wir fühlten uns denkbar ungemütlich.",
+      "en": "The sky hung full of ragged dark clouds; the weather was cold and stormy, and we felt as miserable as could be.",
+      "start": {
+        "line": 52,
+        "col": 0
+      },
+      "end": {
+        "line": 53,
+        "col": 50
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s43",
+      "de": "Nach 16 km erreichten wir die Schmalspurbahn bei Horassan, die Kleinasie von Erzurum bis zur russischen Grenze durchzieht.",
+      "en": "After 16 km we reached the narrow-gauge railway at Horassan, which crosses Asia Minor from Erzurum to the Russian border.",
+      "start": {
+        "line": 53,
+        "col": 51
+      },
+      "end": {
+        "line": 55,
+        "col": 24
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s44",
+      "de": "Der nächste Zug nach Erzurum sollte in 5 Tagen gehen.",
+      "en": "The next train to Erzurum was to leave in 5 days.",
+      "start": {
+        "line": 55,
+        "col": 25
+      },
+      "end": {
+        "line": 55,
+        "col": 78
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s45",
+      "de": "Das schien uns zu lange und deshalb fuhren wir weiter.",
+      "en": "That seemed too long to us and so we drove on.",
+      "start": {
+        "line": 56,
+        "col": 0
+      },
+      "end": {
+        "line": 56,
+        "col": 54
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s46",
+      "de": "Es war eine grosse Strapaze, denn ein heftiger Wind kam uns entgegen und durchdrang Decken und Kleidung.",
+      "en": "It was a great ordeal, for a violent headwind came at us and penetrated blankets and clothing.",
+      "start": {
+        "line": 56,
+        "col": 55
+      },
+      "end": {
+        "line": 58,
+        "col": 9
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s47",
+      "de": "Trotzdem unser Kutscher ständig auf die armen Pferde einschlug war das Tempo kläglich..",
+      "en": "Although our driver constantly beat the poor horses, the pace was pathetic.",
+      "start": {
+        "line": 58,
+        "col": 10
+      },
+      "end": {
+        "line": 59,
+        "col": 20
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p10-s48",
+      "de": "Nach weiteren 30km machten wir am frühen Nachmittag",
+      "en": "After another 30km, in the early afternoon, we made",
+      "start": {
+        "line": 59,
+        "col": 21
+      },
+      "end": {
+        "line": 59,
+        "col": 72
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": true
+    }
+  ],
+  "notes": [
+    "Line 0 begins with the page marker '10) ', which hangs in the left margin: the body text of line 0 starts at col 4 but is aligned with col 0 of the other lines.",
+    "The first sentence continues from page 9 ('Gestern kamen noch 2 hohe Offiziere mit einem von den 11 Schlitten und / stiegen bei unseren Gendarmen ab'); the last continues on page 11 ('machten wir am frühen Nachmittag / in einem kleinem Dorf Pause').",
+    "The dateline 'Hasankale, 7.1.40.' is typed at the end of line 45, slightly below the baseline. The empty string in 'lines' is a blank typed line.",
+    "Typed as seen: 'Kleinasie' (for Kleinasien), 'kläglich..' (double period), 'zu  verdrücken' (double space). In 'grösserem' (line 51) the first s looks like a 'd'; the 'P' of 'Passagieren' (line 49) is faint; the final 'g' of 'Nachmittag' (line 59) is partly lost at the edge.",
+    "Fix: 'to wake the drivers, who soon after drove up with the sleds' -> 'to wake the driver, who soon afterwards drove up with the sled' (singular in the German).",
+    "Fix: 'The sky was clear and warm sun rose' -> 'There were clouds in the sky, but the sun rose clear and warm' (Es waren Wolken am Himmel, aber die Sonne ging klar und warm auf).",
+    "Fix: 'had now a full experience for us' -> 'were now a thrilling experience for us'; 'related again one of his famous pranks' -> 'notorious' (berüchtigten).",
+    "Fix: 'With open-mouthed children and poked-in fingers' -> 'With mouths gaping and fingers stuck in them' (Mit aufgesperrten Mündern und reingesteckten Fingern).",
+    "Fix: 'pointed to the people to un-undress. Then they pulled back, in the crowd to compress' -> 'indicated to the people that they should undress. Then they preferred to slip away into the crowd.'",
+    "Fix: 'Such ursine hospitality' -> 'this rustic hospitality' (urwüchsige).",
+    "Fix: 'the two sleds of our new acquaintances' -> 'of our new acquaintance' (unseres neuen Bekannten); 'if one gets blown here' -> 'if one happens to turn up here'."
+  ]
+}
