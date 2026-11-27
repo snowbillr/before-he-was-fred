@@ -1,6 +1,6 @@
 ### Page 1
 
-**29. December 1939**
+**25. December 1939**
 
 **Taslicay (Asia Minor)**
 

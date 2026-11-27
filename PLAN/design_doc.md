@@ -1,234 +1,105 @@
 # Design Document: Before He Was Fred
 ## From Tehran to Times Square: The 1939–1940 Journey of Fritz Riesenfeld
 
-**Project Goal:** An editorial documentary web experience hosted on GitHub Pages that allows family members to experience an overland journey from Tehran to New York City in 1939–1940.
+**Project Goal:** An editorial documentary web experience on GitHub Pages that lets family members follow Fritz Riesenfeld's overland and sea journey from Tehran to New York City (Dec 19, 1939 – early Feb 1940), told through his own letter.
 
-**Design Philosophy:** Desktop-first editorial documentary. Paginated chapter-by-chapter progression, clean typography, dynamic vector map navigation, and curated archival media.
+**Design Philosophy:** Desktop-first editorial documentary with a usable single-column layout on phones. Six chapters, each a scrolling sequence of **stops and the travel legs between them**, with clean typography, a vector globe that advances step by step, and curated free-to-use archival media.
+
+---
+
+## Content Model: Chapters → Steps (Stops & Legs)
+
+The journey has six chapters. Each chapter is an ordered list of **steps**, and each step is either:
+
+* **Stop**: a place where they stayed or paused (Tabriz, Türkali, Istanbul…).
+* **Leg**: the travel between two stops (the bus that stopped every 2 km to refill the radiator, the night stuck in the snow, the Orient Express under police escort, the bus to Foggia…).
+
+Legs are first-class content, not filler. Much of the letter's drama happens between towns, and legs get the same narrative + media treatment as stops. Every leg records the **mode of transport** (hired car, bus, Chevrolet/Ford truck, horse sled, on foot, train, ferry, steamer, liner), which drives a small transport icon on the route line.
+
+| # | Chapter | Route | Dates | File |
+|---|---------|-------|-------|------|
+| 1 | Departure from Tehran | Tehran → Qazvin → Zanjan → Taserkand → Mianeh → Tabriz | Dec 19–20, 1939 | [`chapters/01-departure-from-tehran.md`](chapters/01-departure-from-tehran.md) |
+| 2 | The Persian Frontier | Tabriz → Khoy → Maku → Bazargan → Gürbulak → Doğubayazıt → Kızıldize | Dec 21–23, 1939 | [`chapters/02-the-persian-frontier.md`](chapters/02-the-persian-frontier.md) |
+| 3 | The Tahir Pass Blizzard | Kızıldize → Taşlıçay → Karaköse → Eleşkirt → Türkali → Tahir Pass → Delal | Dec 23, 1939 – Jan 6, 1940 | [`chapters/03-the-tahir-pass-blizzard.md`](chapters/03-the-tahir-pass-blizzard.md) |
+| 4 | Through Earthquake Ruins | Delal → Hasankale → Erzurum → Erzincan → Çetinkaya → Sivas → Ankara → Istanbul | Jan 7–16, 1940 | [`chapters/04-through-earthquake-ruins.md`](chapters/04-through-earthquake-ruins.md) |
+| 5 | Across the Aegean | Istanbul → Pythion → Salonika → Piraeus → Corinth Canal → Brindisi → Foggia → Naples | Jan 16–24, 1940 | [`chapters/05-across-the-aegean.md`](chapters/05-across-the-aegean.md) |
+| 6 | The Atlantic Crossing | Naples → Gibraltar → Atlantic → New York City | Jan 24 – ~early Feb 1940 | [`chapters/06-the-atlantic-crossing.md`](chapters/06-the-atlantic-crossing.md) |
+
+The chapter files hold the narrative, citations and feature ideas for every step. `route.md` holds the coordinates and timeline. `additional_info.md` holds background research. `media/chapter-NN.md` lists candidate free-to-use images per step.
 
 ---
 
 ## Technical Stack & Architecture
 
-* **Target Device:** Desktop-only display. (Designed specifically for widescreen layouts to support side-by-side editorial text and rich archival media widgets).
-
-* **Hosting:** Static HTML/CSS/JS hosted on GitHub Pages (zero backend dependencies).
-
-* **Styling & Layout:** Tailwind CSS for responsive split-screen grid layouts. Custom CSS variables for warm parchment editorial styling.
-
-* **Mapping Engine:** D3.js with TopoJSON (Orthographic globe projection).
-
-* **State Management:** URL hash-based routing (`/#chapter-1`, `/#chapter-2`, etc.) to support bookmarking, direct links, and browser back/forward navigation.
-    * **Data Layer:** Static JSON schema (/data/letters.json) mapping chapter section IDs to German transcriptions, English translations, and archival page indices.
+* **App:** React + TypeScript + Vite (already scaffolded), built to static files and deployed to GitHub Pages via a GitHub Actions workflow. `vite.config.ts` needs `base: '/before-he-was-fred/'`.
+* **Styling:** Tailwind CSS v4 with the parchment theme tokens already defined (`parchment-base`, `ink-primary`, `route-red`, `source-highlight`, …).
+* **Mapping:** D3 (`d3-geo`) + `topojson-client` + `world-atlas` (110m or 50m), orthographic projection. Route geometry comes from `route.md` coordinates (converted to `src/data/route.json`).
+* **Routing:** Hash routing so deep links work on Pages without a 404 fallback: `#/chapter/3` and `#/chapter/3/turkali` (step-level deep links).
+* **Layout:** Desktop split view (narrative left, media/source panel right). Below `md`, stack to a single column with the globe as a compact strip and the source viewer as a full-screen sheet.
+* **Data (static, bundled at build time):**
+  * `src/data/chapters.json`: chapters → steps (id, type `stop|leg`, title, coordinates or from/to, dates, transport mode, narrative blocks with citation IDs, media IDs).
+  * `src/data/letter/page-NN.json`: generated from `PLAN/letter/pages/page-NN.json` (see below).
+  * `src/data/media.json`: generated from `PLAN/media/*.md` (URL, source page, creator, date, license, caption, attribution string).
+* **Scans:** `public/letter/page_N.jpeg` (copied from `PLAN/images/pages/`). If higher-resolution originals become available, swap them in and scale the highlight coordinates.
 
 ---
 
 ## Global UX & Site Framework
 
-### 1. Header & Dynamic Globe Progress Bar
-
-* **Top Bar Layout:** A fixed header bar containing the site title, a zoomed-in vector globe/map slice, and chapter navigation controls.
-
-* **Discrete Navigation:** The map does **not** drive the scrolling; instead, advancing to a new chapter pans the globe to the active coordinates and draws the red dashed route line incrementally from the previous location to the current destination.
-
-* **Header Controls:** Includes a discreet "Chapter Index" dropdown, along with "Previous" and "Next" arrow buttons to jump across sections.
-
-
+### 1. Header & Globe Progress
+* A fixed header with the site title, a zoomed vector globe slice, a chapter index dropdown, and Previous/Next.
+* **Step-driven map:** As the reader scrolls a chapter (IntersectionObserver), each step that enters view pans the globe. For a **leg**, the red dashed route line draws from the previous stop to the next, with the transport icon moving along it. Steps without precise coordinates (hamlets marked "approximate") get an "approximate location" note.
+* Previous/Next move between chapters. The chapter index also lists steps for direct jumps.
 
 ### 2. Editorial Page Structure
+* **Left column (story):** Serif narrative per step, with a small step header (place or "A → B", date, transport icon) and inline citation badges.
+* **Right column (panel):** Two tabs, **[ Archival & Context ]** | **[ Original Letter ]**. The Archival tab shows the media and context cards for the step currently in view.
+* **Footer:** Each chapter ends with **"Continue Journey to [Next Chapter] →"**.
 
-* **Page Layout:** Side-by-side desktop split layout.
+### 3. Primary Source & Citation Viewer
 
-* **Left Column (Primary Story):** Clear, legible serif typography presenting the translated letter excerpt, contextual historical annotations, and inline blockquotes.
+**Citation badges.** Narrative text cites the letter at the sentence level. In the plan docs a citation is written `[Letter p. N — "anchor phrase"]`, where the anchor is a phrase from the English of that sentence. At build time each citation resolves to a sentence ID (`p08-s14`) in the letter data. On screen it renders as a small badge, `[p. 8]`.
 
-* **Right Column (Archival & Media Panel):** High-resolution historic photos, map overlays, cultural context cards, and interactive widgets tied specifically to that chapter's location.
-    * **Source Alignment:** Direct link to German/English transcription snippet for [Chapter Event].
+**Clicking a badge** opens the **Original Letter** tab (or a sheet on mobile) and shows:
+1. The **scan of the letter page**, zoomed and scrolled to the cited sentence, with the sentence's lines highlighted (`source-highlight` #fef3c7, multiply blend).
+2. Beside it, the **German transcription** of that sentence and the **English translation**, both highlighted. Neighboring sentences are shown dimmed for context.
+3. Prev/Next sentence controls and "View full page" (scan + full German + full English, with any sentence clickable to highlight it on the scan).
 
-* **Footer Controls:** Every chapter ends with a prominent, styled call-to-action button: **"Continue Journey to [Next Location] $\rightarrow$"**.
+**Highlight geometry.** The letter is typewritten (monospaced), so each sentence is stored as a start/end position (line, column) in the page's transcribed lines. Highlight rectangles are computed per line from a per-page **calibration**: the text block's left/top margin, line pitch and character pitch, in image pixels. These are measured once per scan and stored in the page JSON. Where a typed line is skewed on the photo, an optional per-line `bbox` overrides the computed rectangle.
 
+**Letter data schema** (`PLAN/letter/pages/page-NN.json`):
+```json
+{
+  "page": 8,
+  "image": "PLAN/images/pages/page_8.jpeg",
+  "calibration": { "left": 62, "top": 71, "linePitch": 21.4, "charPitch": 9.1 },
+  "lines": ["8) Inzwischen hatten wir unseren Chauffeur ...", "..."],
+  "lineBoxes": { "12": [60, 327, 688, 346] },
+  "sentences": [
+    { "id": "p08-s01", "de": "…", "en": "…",
+      "start": { "line": 0, "col": 3 }, "end": { "line": 2, "col": 41 },
+      "continued_from_previous_page": false, "continues_on_next_page": false }
+  ],
+  "notes": ["Translation fix: …", "Uncertain reading: …"]
+}
+```
+`PLAN/letter/de/page-NN.txt` holds the same German as plain text with the scan's line breaks, for reading and proofreading.
 
-### 3. Primary Source & Translation Engine
+**Missing pages.** Letter pages 18–19 are lost. The reader shows a "pages 18–19 missing" placeholder between pages 17 and 20, and the narrative never cites them.
 
-* **JSON-Backed Archival Data (`/data/letters.json`):** 
-  * Stores section-by-section primary source data including raw German transcriptions, English translations, and physical page/letter references (e.g., `Letter 1, Page 4`).
-
-* **Inline Source Badges:**
-  * Interactive source badges (`[Letter 1, p. 4]`) embedded directly in the left-column narrative text.
-
-* **Dual-Tab Media/Source Panel:**
-  * The right-column container features a toggle bar: **[ Cultural & Archival Media ]** | **[ Original Letter Source ]**.
-
-* **Synchronized Deep-Linking & Highlighting:**
-  * Clicking an inline source badge automatically switches the right panel to the **Original Letter Source** tab, scrolls to the matching snippet, and applies a temporary soft parchment highlight (`#fef3c7`) behind both the German transcription and English translation simultaneously.
-
-
----
-
-## Detailed Section Specifications
-
-### Chapter 1: Departure from Tehran
-
-* **Coordinates & Route:** Tehran $\rightarrow$ Qazvin $\rightarrow$ Zanjan $\rightarrow$ Taserkand $\rightarrow$ Mianeh $\rightarrow$ Tabriz (Dec 23–24, 1939)
-
-
-* **Left Column (Narrative):**
-* Late-night departure in a hired car with travel companions and heavy luggage.
-
-
-* Snowfall beginning near Qazvin; short rest at the Grand Hotel.
-
-
-* Eating *Sangak* flatbread wrapped around cheese (*"hand-towels"*); spotting the luggage bus stalled 100 km before Tabriz.
-
-
-
-
-* **Right Column (Media & Features):**
-* **Cultural Feature Card:** *Sangak & Lavash Flatbread ("Hand-Towels")* — Explanation of traditional Iranian stone-baked flatbreads wrapped in cloth (*sofreh*) to preserve freshness, and rolling *Luqmeh* (bites of cheese and fat) on long road journeys.
-
-
-* **Archival Photography:** 1930s photographs of Tabriz streetscapes and the Grand Hotel.
-
-
-
-
+### 4. Media Credits
+Every image shows a short credit line (creator, source, license) and links to its source page. The site footer has an "Image credits" page generated from `media.json`. Only public-domain or openly licensed (CC0, CC BY, CC BY-SA) media are used. CC BY-SA images keep their license and attribution.
 
 ---
 
-### Chapter 2: The Anatolian Frontier
-
-* **Coordinates & Route:** Tabriz $\rightarrow$ Khoy $\rightarrow$ Maku $\rightarrow$ Bazargan $\rightarrow$ Gürbulak (Dec 25–27, 1939)
-
-
-* **Left Column (Narrative):**
-* Purchasing heavy handmade mountain wool socks in the Khoy bazaar.
-
-
-* Riding an overburdened bus that requires boiling water refilled every 2 km.
-
-
-* Resting in a roadside opium den; clearing customs with the toothless border director via photo albums and dental advice.
-
-
-
-
-* **Right Column (Media & Features):**
-* **Artifact Feature:** *Mountain Village Socks (Jorab)* — Detail card highlighting the thick, hand-knitted raw wool socks bought for 3 Toman to survive high-altitude winter travel.
-
-
-* **Archival Map Overlay:** Historical 1930s map scan showing the Mount Ararat / Bazargan border pass.
-
-
-
-
-
----
-
-### Chapter 3: The Tahir Pass Blizzard
-
-* **Coordinates & Route:** Doğubayazıt $\rightarrow$ Kızıldizce $\rightarrow$ Taşlıçay $\rightarrow$ Ağrı $\rightarrow$ Eleşkirt $\rightarrow$ Tahir Pass (Türkali) (Dec 27, 1939 – Jan 6, 1940)
-
-
-* **Left Column (Narrative):**
-* Broken Ford truck axle; switching to horse-drawn sleds in $-35^\circ\text{C}$ cold.
-
-
-* Stranded in a fierce blizzard atop Tahir Pass; horses slipping down ravines; gunshots fired into the storm for help.
-
-
-* Sheltering in a mud-brick gendarmerie hut in Türkali; drinking melted snow; playing "66" for days.
-
-
-
-
-* **Right Column (Media & Features):**
-* **Atmospheric Canvas Shader:** Subtle frost/snow canvas edge shader around the right panel during this high-altitude winter chapter.
-
-
-* **Embedded Card Game (66 / Sechsundsechzig):** Playable 2-player/AI mini-game using a 24-card deck, matching the Central European trick-and-draw game played by the travelers while stranded.
-
-
-
-
-
----
-
-### Chapter 4: Through Earthquake Ruins
-
-* **Coordinates & Route:** Delal $\rightarrow$ Erzurum $\rightarrow$ Erzincan $\rightarrow$ Sivas $\rightarrow$ Ankara $\rightarrow$ Istanbul (Jan 6–16, 1940)
-
-
-* **Left Column (Narrative):**
-* Arrival in Erzurum via sled; selling dental impression trays (*Abdrucklöffel*) to locals for 4.50 Lira to buy food.
-
-
-* Passing through Erzincan weeks after the catastrophic Dec 1939 earthquake ($13,000+$ dead).
-
-
-* Train journey across Anatolia with waypoint markers for Çetinkaya and Sivas; emergency foot abscess surgery in an Istanbul university clinic.
-
-
-
-
-* **Right Column (Media & Features):**
-* **Historical Context Card:** *The 13th Erzincan Earthquake* — Historical briefing on the magnitude 7.8 disaster paired with archival photographs of tent field hospitals in $-28^\circ\text{C}$ weather.
-
-
-* **Translation Callout:** Clarification note on *Abdrucklöffel* (nickel-plated impression trays) cheekily sold to locals as cookie molds.
-
-
-
-
-
----
-
-### Chapter 5: Crossing the Balkans
-
-* **Coordinates & Route:** Istanbul $\rightarrow$ Pythion $\rightarrow$ Thessaloniki $\rightarrow$ Athens/Piraeus $\rightarrow$ Corinth Canal $\rightarrow$ Brindisi $\rightarrow$ Naples (Jan 17–24, 1940)
-
-
-* **Left Column (Narrative):**
-* Police harassment and deportation order in Istanbul; boarding the Orient Express.
-
-
-* Delays across Greece; missing connecting ships; frantic sprint onto the steamer *SS Egitto* in Piraeus.
-
-
-* Towed through the narrow Corinth Canal; missed train in Brindisi leading to an overnight bus through Foggia to Naples.
-
-
-
-
-* **Right Column (Media & Features):**
-* **Corinth Canal Feature:** Wide-angle vintage photograph viewer depicting the 3 km narrow passage.
-
-
-* **Route Timetable:** Minimalist visual schedule tracking planned vs. actual transport connections across Greece and Italy.
-
-
-
-
-
----
-
-### Chapter 6: The Atlantic Crossing & NYC Arrival
-
-* **Coordinates & Route:** Naples $\rightarrow$ Gibraltar $\rightarrow$ Atlantic Ocean $\rightarrow$ New York City (Jan 24 – Feb 21, 1940)
-
-
-* **Left Column (Narrative):**
-* Boarding the ocean liner *SS Conte di Savoia*; playing Skat with Hungarian passengers.
-
-
-* 6-hour British contraband inspection off Gibraltar; severe Atlantic seasickness.
-
-
-* Arrival in NYC in late February 1940; observing the Manhattan skyline rising out of the ocean haze.
-
-
-
-
-* **Right Column (Media & Features):**
-* **Archival Maritime Gallery:** Photographs of the 48,000-ton *SS Conte di Savoia* and passenger deck life.
-
-
-* **Interactive Visual Effect:** Subtle CSS fade-in revealing the historic 1940 Manhattan skyline silhouette as the user finishes the narrative.
+## Scope
+
+**v1**
+* Six chapters with all steps, the globe with step-driven route drawing, citation viewer with scan highlights, full-letter reader, media credits, mobile single-column layout.
+* Light CSS frost vignette for Chapter 3 and a CSS haze reveal for the Manhattan skyline.
+* "66" (Sechsundsechzig) as a rules/explainer card.
+
+**Deferred to v2**
+* A playable 66 card game with an AI opponent.
+* A WebGL frost shader.
+* Optional ambient audio.
