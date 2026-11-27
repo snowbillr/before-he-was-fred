@@ -51,7 +51,7 @@ After a cold, overpriced room at the "Palast Hotel", a charming German-speaking 
 **Date:** Jan 11–12, 1940
 
 ### Narrative
-The train stuck in snowdrifts again and again and had to be shoveled free [Letter p. 13 — "until the train was shoveled free"]. They spent a night without food or water at a small station. At dawn Fritz found a red drink that tasted of cinnamon and sausages that seemed made of felt in a village hut [Letter p. 13 — "tasted like syrup"]. On Jan 12 at 13:15, "since 30 hours in the III class compartment", they stood at the landslide, about 150 km from Erzurum, where 30 workers were blasting away rock from a 50 m buried stretch [Letter p. 12 — "since 30 hours in the III class compartment"].
+The train stuck in snowdrifts again and again and had to be shoveled free [Letter p. 13 — "until the train was shoveled free"]. They spent a night without food or water at a small station. At dawn Fritz found a red drink that tasted of cinnamon and sausages that seemed made of felt in a village hut [Letter p. 13 — "tasted of cinnamon"]. On Jan 12 at 13:15, "since 30 hours in the III class compartment", they stood at the landslide, about 150 km from Erzurum, where 30 workers were blasting away rock from a 50 m buried stretch [Letter p. 12 — "since 30 hours in the III class compartment"].
 
 ---
 
@@ -85,7 +85,7 @@ They played poker and 66 with officers until sunrise [Letter p. 14 — "poker an
 **Coordinates:** 39.7477° N, 37.0179° E | **Date:** Jan 13–14, 1940 (9 PM to 2 PM next day)
 
 ### Narrative
-At −28°C the station police invited them to stay in their warm office. There they met a 14-year-old boy from Erzincan who had lost his parents and three brothers [Letter p. 14 — "14-year-old boy from Erzincan"]. The tracks were full of freight trains turned into field hospitals for the injured [Letter p. 14 — "freight trains roughly set up as field hospitals"].
+At −28°C the station police invited them to stay in their warm office. There they met a 14-year-old boy from Erzincan who had lost his parents and three brothers [Letter p. 14 — "14-year-old boy from Erzincan"]. The tracks were full of freight trains turned into field hospitals for the injured [Letter p. 14 — "field hospitals"].
 
 ---
 
@@ -93,7 +93,7 @@ At −28°C the station police invited them to stay in their warm office. There 
 **Date:** Jan 14–16, 1940
 
 ### Narrative
-In Ankara, "the new capital of Turkey", they ate their first warm meal in four days at white-covered tables in the station restaurant, with a bottle of Ankara beer [Letter p. 15 — "excellent Ankara beer"]. After two hours in Eskişehir, Fritz read *Wandlungen der Liebe* through the night because his foot hurt [Letter p. 15 — "2 hours stay in Eskişehir"]. At dawn he opened the window to "mild draft" and the foam-crowned Sea of Marmara instead of snowfields [Letter p. 15 — "the Marmara Sea"]. They reached Haydarpaşa at 7 AM.
+In Ankara, "the new capital of Turkey", they ate their first warm meal in four days at white-covered tables in the station restaurant, with a bottle of Ankara beer [Letter p. 15 — "excellent Ankara beer"]. After two hours in Eskişehir, Fritz read *Wandlungen der Liebe* through the night because his foot hurt [Letter p. 15 — "a 2-hour stop in Eskişehir"]. At dawn he opened the window to "mild draft" and the foam-crowned Sea of Marmara instead of snowfields [Letter p. 15 — "the Sea of Marmara"]. They reached Haydarpaşa at 7 AM.
 
 ### Features & Media
 * **Visual Transition:** The palette shifts from frost-white to Marmara blue.

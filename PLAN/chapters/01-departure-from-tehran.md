@@ -53,7 +53,7 @@ They drove on through the snowfall and reached Zanjan around midnight [Letter p.
 **Coordinates:** 36.6736° N, 48.4963° E | **Date:** Dec 19–20, 1939 (midnight to 8:30 AM)
 
 ### Narrative
-The town's only hotel had most rooms locked and the keys lost. After the girl and the young man had rooms, a door was forced for Fritz and Strauss, revealing one bed. It was bitterly cold, so they shared it [Letter p. 1 — "we lay down together"]. The young man then burst in to complain that his window had no panes. In the morning Fritz worked out that shutters, not glass, were the local custom [Letter p. 2 — "came in again and swore"].
+The town's only hotel had most rooms locked and the keys lost. After the girl and the young man had rooms, a door was forced for Fritz and Strauss, revealing one bed. It was bitterly cold, so they shared it [Letter p. 1 — "and we lay down"]. The young man then burst in to complain that his window had no panes. In the morning Fritz worked out that shutters, not glass, were the local custom [Letter p. 2 — "came in again and swore"].
 
 ### Features & Media
 * **Journal Highlight:** The "missing windowpanes" episode, a light comic beat before the hardships ahead.
@@ -62,7 +62,7 @@ The town's only hotel had most rooms locked and the keys lost. After the girl an
 
 ## Leg: Zanjan → Taserkand (morning)
 ### Narrative
-They left at 8:30–9:00. The hilly landscape was unexpectedly free of snow. The Armenian girl was carsick the whole way, and then it began to snow again. Fritz "had reason once again to thank my fate that I sat in the back" [Letter p. 2 — "thank my fate that I sat in the back"].
+They left at 8:30–9:00. The hilly landscape was unexpectedly free of snow. The Armenian girl was carsick the whole way, and then it began to snow again. Fritz "had reason once again to thank my fate that I sat in the back" [Letter p. 2 — "fate that I sat in the back"].
 
 ### Features & Media
 * **Elevation Profile:** A simple terrain profile of the climb from Zanjan into the Qaflankuh mountains.
@@ -73,7 +73,7 @@ They left at 8:30–9:00. The hilly landscape was unexpectedly free of snow. The
 **Coordinates:** ~37.3000° N, 47.7000° E (approximate) | **Date:** Dec 20, 1939, 10:00 AM
 
 ### Narrative
-A tea break in a village, with delicious hot milk [Letter p. 2 — "tea break in a village named Taserkand"].
+A tea break in a village, with delicious hot milk [Letter p. 2 — "tea break in a little village named Taserkand"].
 
 ---
 
@@ -96,7 +96,7 @@ A good, cheap lunch of roast chicken with fried potatoes [Letter p. 2 — "roast
 
 ## Leg: Mianeh → Tabriz (afternoon)
 ### Narrative
-Fritz and Strauss suddenly stepped into the road at the same moment. In front of a lone teahouse, exactly 100 km before Tabriz, stood the bus carrying their luggage, which had already been on the road for four days [Letter p. 2 — "exactly 100 km before Tabriz"]. The road then climbed in endless serpentines over a cloud-wrapped mountain, where the chauffeur pointed out the place where two Turkish airplanes had crashed after the Crown Prince's wedding [Letter p. 2 — "2 Turkish airplanes flew against the mountain"].
+Fritz and Strauss suddenly stepped into the road at the same moment. In front of a lone teahouse, exactly 100 km before Tabriz, stood the bus carrying their luggage, which had already been on the road for four days [Letter p. 2 — "exactly 100 km before Tabriz"]. The road then climbed in endless serpentines over a cloud-wrapped mountain, where the chauffeur pointed out the place where two Turkish airplanes had crashed after the Crown Prince's wedding [Letter p. 2 — "2 Turkish airplanes flew into the mountain"].
 
 ### Features & Media
 * **Historical Spotter:** The Turkish aircraft lost after Crown Prince Mohammad Reza's March 1939 wedding to Princess Fawzia (verify details; the letter mentions the wreckage again at Bazargan, p. 4).

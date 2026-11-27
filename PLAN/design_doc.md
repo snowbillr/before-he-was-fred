@@ -12,7 +12,7 @@
 The journey has six chapters. Each chapter is an ordered list of **steps**, and each step is either:
 
 * **Stop**: a place where they stayed or paused (Tabriz, Türkali, Istanbul…).
-* **Leg**: the travel between two stops (the bus that stopped every 2 km to refill the radiator, the night stuck in the snow, the Orient Express under police escort, the bus to Foggia…).
+* **Leg**: the travel between two stops (the bus that stopped every 2 km to refill the radiator, the night stuck in the snow, the Orient Express under police escort, the late train to Foggia…).
 
 Legs are first-class content, not filler. Much of the letter's drama happens between towns, and legs get the same narrative + media treatment as stops. Every leg records the **mode of transport** (hired car, bus, Chevrolet/Ford truck, horse sled, on foot, train, ferry, steamer, liner), which drives a small transport icon on the route line.
 

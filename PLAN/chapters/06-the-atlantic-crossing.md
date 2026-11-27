@@ -14,7 +14,7 @@ After two months of overland hardship the last leg is almost anticlimactic: a po
 **Date:** Jan 24–26, 1940
 
 ### Narrative
-"Exactly at noon, it sailed away with us and our belongings." [Letter p. 20 — "Exactly at noon"]. Their "terribly poor outer cabin" boomed as the water slammed against it. Most passengers were emigrants from Germany [Letter p. 20 — "emigrants coming out of Germany"]. They shared a dining table with some Hungarians and "soon put together our long-awaited game of Skat" [Letter p. 20 — "long-awaited game of Skat"].
+"Exactly at noon, it sailed away with us and our belongings." [Letter p. 20 — "At noon sharp"]. Their "terribly poor outer cabin" boomed as the water slammed against it. Most passengers were emigrants from Germany [Letter p. 20 — "emigrants coming from Germany"]. They shared a dining table with some Hungarians and "soon put together our long-awaited game of Skat" [Letter p. 20 — "the long-awaited Skat game"].
 
 ### Features & Media
 * **Ship Card:** SS *Conte di Savoia* (Italian Line, 1932): Blue Riband contender, gyroscopic stabilizers, and its 1940 neutral-flag crossings (see `PLAN/media/chapter-06.md`).
@@ -26,7 +26,7 @@ After two months of overland hardship the last leg is almost anticlimactic: a po
 **Coordinates:** 36.1408° N, 5.3536° W | **Date:** Jan 26, 1940
 
 ### Narrative
-Gibraltar lay "so peacefully and harmless-looking", with southern Spain on one side and "the blue mountains of Africa" on the other. The ship anchored for six hours while British officials came aboard [Letter p. 20 — "anchored there for 6 hours"].
+Gibraltar lay "so peacefully and harmless-looking", with southern Spain on one side and "the blue mountains of Africa" on the other. The ship anchored for six hours while British officials came aboard [Letter p. 20 — "there for 6 hours"].
 
 ### Features & Media
 * **Historical Card:** The British blockade's contraband control at Gibraltar in the Phoney War. Neutral ships were stopped and searched.

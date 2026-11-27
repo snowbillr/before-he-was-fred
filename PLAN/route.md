@@ -182,7 +182,7 @@ Details: Maritime transit; towed by a tugboat through the narrow Corinth Canal i
 
 Arrival: Jan 23, 1940 (11:00 AM).
 
-Details: Port of entry into Italy. Fritz missed the 1:00 PM train to Naples because of baggage delays (Strauss caught it). He took a 3:00 PM bus to Foggia and a train around midnight.
+Details: Port of entry into Italy. Fritz missed the 1:00 PM train to Naples because of baggage delays (Strauss caught it). He took a 3:00 PM train to Foggia and another train after midnight.
 
 ## Naples (Napoli), Italy 40.8518° N, 14.2681° E
 

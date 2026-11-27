@@ -12,7 +12,7 @@ In Tabriz a chance meeting with a Lithuanian-Jewish pharmacist secures a truck t
 **Coordinates:** 38.0962° N, 46.2738° E | **Date:** Dec 21, 1939
 
 ### Narrative
-The luggage arrived and Fritz finally changed out of shoes that had pinched him badly [Letter p. 2 — "changed my shoes in the garage"]. Talks with Hamid-Aga went nowhere until a sympathetic older pharmacist opposite translated via French. When Strauss mentioned they were Jewish emigrants, the man revealed he was a Lithuanian Jew, Isaac Rabinowitsch, and helped them "in a touching way" [Letter p. 2 — "proved to be a Lithuanian Jew"]. In the bazaar they booked seats on a 1.5-ton Chevrolet truck, with room for 3 passengers, to Trabzon for 130 Toman. They would go by bus as far as Bazargan while the firm's manager rode in the truck [Letter p. 2 — "1.5-ton Chevrolet with room for 3 persons"].
+The luggage arrived and Fritz finally changed out of shoes that had pinched him badly [Letter p. 2 — "changed my shoes"]. Talks with Hamid-Aga went nowhere until a sympathetic older pharmacist opposite translated via French. When Strauss mentioned they were Jewish emigrants, the man revealed he was a Lithuanian Jew, Isaac Rabinowitsch, and helped them "in a touching way" [Letter p. 2 — "a Lithuanian Jew"]. In the bazaar they booked seats on a 1.5-ton Chevrolet truck, with room for 3 passengers, to Trabzon for 130 Toman. They would go by bus as far as Bazargan while the firm's manager rode in the truck [Letter p. 2 — "1.5-ton Chevrolet with room for 3 persons"].
 
 ### Features & Media
 * **Character Card:** Isaac Rabinowitsch, pharmacist of Tabriz.
@@ -47,7 +47,7 @@ Arriving at 1 AM, they hauled their luggage through the streets and pounded on t
 **Date:** Dec 22, 1939, 3:00 PM → 11:00 PM
 
 ### Narrative
-An "ancient bus" piled high with junk carried just seven passengers. Uphill it was "slower than a pedestrian" and stopped every 2 km to pour water into the boiling radiator [Letter p. 3 — "every 2 km it was stopped"]. At dusk they stopped in a village and drank tea in "a picturesque opium den" [Letter p. 3 — "picturesque opium den"]. Ten kilometers before Maku their Chevrolet was waiting. The two drivers dragged them into a dive where they ate "hand-towels" rolled up "like a giant cigarette" around cheese, fat, or a flour-sugar-mutton-fat porridge [Letter p. 3 — "rolled it up like a giant cigarette"]. Fritz found the moonlit mountain drive "overall delightful", even though the roads were mostly "below the level of a German dirt road" [Letter p. 3 — "below the level of a German dirt road"].
+An "ancient bus" piled high with junk carried just seven passengers. Uphill it was "slower than a pedestrian" and stopped every 2 km to pour water into the boiling radiator [Letter p. 3 — "every 2 km it was stopped"]. At dusk they stopped in a village and drank tea in "a picturesque opium den" [Letter p. 3 — "picturesque opium den"]. Ten kilometers before Maku their Chevrolet was waiting. The two drivers dragged them into a dive where they ate "hand-towels" rolled up "like a giant cigarette" around cheese, fat, or a flour-sugar-mutton-fat porridge [Letter p. 3 — "rolled it up like a giant cigarette"]. Fritz found the moonlit mountain drive "overall delightful", even though the roads were mostly "below the level of a German dirt road" [Letter p. 3 — "below the level of a German dirt"].
 
 ### Features & Media
 * **Animated Route Segment:** The stuttering ascent (the bus stops every 2 km) and the moonlit night drive.
@@ -78,7 +78,7 @@ For the first time they rode in the Chevrolet. It had only three seats, so the c
 **Coordinates:** 39.3891° N, 44.3855° E | **Date:** Dec 23, 1939
 
 ### Narrative
-The customs director, who suffered from "2 bad teeth", received them in good French. While his assistant searched the luggage, the director consulted the two dentists about his teeth, and they gave home-remedy advice [Letter p. 4 — "the director consulted us about his teeth"]. Strauss's photo album smoothed the inspection, and the director sold Fritz an Iraqi banknote (denomination unclear in the scan) for 10 Toman [Letter p. 4 — "which I acquired for 10 Toman"]. Mount Ararat stayed hidden in "black, impenetrable fog", so they could not look for Noah's Ark [Letter p. 4 — "black, impenetrable fog"]. They saw the wrecked Turkish airplanes awaiting pickup, sent a telegram to Fritz's parents, and ate a last real Iranian chicken lunch in Abdil's two-room mud hut [Letter p. 4 — "sent the telegram to you"].
+The customs director, who suffered from "2 bad teeth", received them in good French. While his assistant searched the luggage, the director consulted the two dentists about his teeth, and they gave home-remedy advice [Letter p. 4 — "the director consulted us about his teeth"]. Strauss's photo album smoothed the inspection, and the director sold Fritz an Iraqi banknote (denomination unclear in the scan) for 10 Toman [Letter p. 4 — "which I acquired for 10 Toman"]. Mount Ararat stayed hidden in "black, impenetrable fog", so they could not look for Noah's Ark [Letter p. 4 — "black, impenetrable"]. They saw the wrecked Turkish airplanes awaiting pickup, sent a telegram to Fritz's parents, and ate a last real Iranian chicken lunch in Abdil's two-room mud hut [Letter p. 4 — "the telegram to you"].
 
 ### Features & Media
 * **Visual Reveal:** A fog layer over a photograph of Mount Ararat. A mouseover clears the fog.
@@ -90,7 +90,7 @@ The customs director, who suffered from "2 bad teeth", received them in good Fre
 **Coordinates:** 39.3950° N, 44.3800° E | **Date:** Dec 23, 1939
 
 ### Narrative
-Nobody spoke Persian or any language they knew, so Ismael the chauffeur interpreted. Customs confiscated two new tires from the driver and searched the car "down to the smallest detail", while the two travelers wrote rude words in the fresh snow [Letter p. 4 — "They took 2 new tires off the driver"].
+Nobody spoke Persian or any language they knew, so Ismael the chauffeur interpreted. Customs confiscated two new tires from the driver and searched the car "down to the smallest detail", while the two travelers wrote rude words in the fresh snow [Letter p. 4 — "They took 2 brand-new tires from the chauffeur"].
 
 ---
 
@@ -98,7 +98,7 @@ Nobody spoke Persian or any language they knew, so Ismael the chauffeur interpre
 **Date:** Dec 23, 1939, after dark
 
 ### Narrative
-In Bayazit (today Doğubayazıt), about 20 km from the border, they skipped the menu, walked into the kitchen and pointed at the twenty pots on the hearth [Letter p. 4 — "pointed at the pots"]. Snow began to fall and thickened as they drove 25 km more to the snowed-in village of Kızıldize. It had only a miserable inn with a side room of ten cots [Letter p. 4 — "10 cots were accommodated"].
+In Bayazit (today Doğubayazıt), about 20 km from the border, they skipped the menu, walked into the kitchen and pointed at the twenty pots on the hearth [Letter p. 4 — "we pointed at what we wanted"]. Snow began to fall and thickened as they drove 25 km more to the snowed-in village of Kızıldize. It had only a miserable inn with a side room of ten cots [Letter p. 4 — "10 plank beds"].
 
 ### Features & Media
 * **Context Card:** Bayazit, later renamed Doğubayazıt when the town moved down from the İshak Paşa Palace.
