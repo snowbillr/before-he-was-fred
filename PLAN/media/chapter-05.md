@@ -47,7 +47,7 @@ The *Città di Bari* was not a city. She was a 3,220–3,339 GRT Italian passeng
 
 ---
 
-## 2. Transit leg — Orient Express, Istanbul (Sirkeci) → Pythion (night of Jan 18–19)
+## 2. Transit leg — Orient Express, Istanbul (Sirkeci) → Pythion (night of Jan 19–20)
 
 *Letter p. 17: "We had our own compartment on the Orient Express along with a policeman… In the morning, the policeman left us, and at the next station we were in Pythion, Greece."*
 
@@ -68,14 +68,14 @@ The Chemins de fer Orientaux reached Pythion (Ottoman *Kuleliburgaz*) in 1873 on
 
 ---
 
-## 3. Pythion stop (Jan 19–20, 1940)
+## 3. Pythion stop (Jan 20, 1940)
 
 - Customs, lead-sealing of "the large trunks and the stove", night in the station waiting room (Letter p. 17).
 - **Media:** only the modern station photo above. **No free period photo of Pythion exists on Commons/Europeana**, as far as I could find.
 
 ---
 
-## 4. Transit leg — diesel railcar through Thrace, Pythion → Alexandroupolis (Jan 20, early morning)
+## 4. Transit leg — diesel railcar through Thrace, Pythion → Alexandroupolis (Jan 21, early morning)
 
 *Letter p. 17: "…took a diesel railcar further through all of Thrace along the flooded plain of a wide river, where there were many cranes and other fowl. We rode through Philistraton, Syndetikon, Shaneion, and whatever else they were called…"*
 
@@ -102,7 +102,7 @@ The station names Fritz half-remembered do not match any stations I could verify
 
 ---
 
-## 5. Alexandroupolis stop & leg to Salonika through Macedonia (Jan 20, 1940)
+## 5. Alexandroupolis stop & leg to Salonika through Macedonia (Jan 21, 1940)
 
 *Letter p. 17: transferred at Alexandroupolis, "two window seats in a padded train compartment"; Macedonian hills "covered in green with many small trees… snow-capped peaks"; "as little tobacco to be seen now as there was of the eternally radiant sun".*
 
@@ -118,7 +118,7 @@ The roughly 440 km line from Alexandroupolis west to Thessaloniki, by way of Xan
 
 ---
 
-## 6. Salonika (Thessaloniki) stop & night train to Athens (Jan 20–21, 1940)
+## 6. Salonika (Thessaloniki) stop & night train to Athens (Jan 21–22, 1940)
 
 *Letter p. 17: "At 10 o'clock at night we arrived in Salonika, where our compartment became full, so we had to spend a very cramped night… Shortly past Thebes, we descended into the valley towards Athens, with the port of Piraeus and the truly blue Mediterranean Sea way in the background."*
 
@@ -279,7 +279,7 @@ Brindisi sits at the heel of Italy where the Roman Via Appia ended (its terminal
 - **Source page:** https://commons.wikimedia.org/wiki/File:Foggia_-_stazione_ferroviaria_-_tettoia.jpg
 - **Creator / date:** Anonymous (old postcard), between 1905 and 1945
 - **License:** Public domain
-- **Suggested caption:** The train shed at Foggia, the Apulian rail junction where Fritz waited from early evening until about midnight for the train across the Apennines to Naples.
+- **Suggested caption:** The train shed at Foggia, the Apulian rail junction where Fritz arrived hours late and caught a train after midnight across the Apennines to Naples.
 - **Belongs to:** Brindisi → Foggia train leg / Foggia stop
 
 #### "Direttissima per le Puglie: Napoli–Barletta" (1920)
@@ -303,7 +303,7 @@ This chapter is a chain of missed connections that fits the *Route Timetable* wi
 | Catch *Città di Bari* at Piraeus 2 days later | Orient Express late, Athens connection at Pythion missed, 24 h wait |
 | — | *Egitto* from Piraeus Jan 22, noon (boarded "at the last second") |
 | Brindisi 12:00 → 1 pm train to Naples | Ship early, but customs too slow; trunk clerk at breakfast; Fritz left behind |
-| 3 pm train → Foggia → 6 pm train | Reached Foggia only around 1; next train after midnight |
+| 3 pm train → Foggia → 6 pm train | Reached Foggia late (time partly cut off on the scan: "gegen 1[?]"); next train after midnight |
 | — | Naples 6:30 am, Jan 24; *Conte di Savoia* sails at noon |
 *Source: Letter p. 16–17, 20.* Strauss's "southern rail route" from Brindisi to Naples probably ran via Taranto, Metaponto, Potenza and Battipaglia, but the letter does not say.
 
@@ -355,5 +355,5 @@ Fritz had looked forward the whole journey to phoning his family in Germany from
 4. **Letter p. 20 says the Corinth Canal is "approximately 3 km long".** It is 6.4 km. Keep the letter's words but add an editor's note.
 5. **Letter p. 20: "a Cordell marvel of engineering"** is almost certainly a transcription/translation error (perhaps German *kolossal* or a misread word). Check against the German original.
 6. **Date, Piraeus → Brindisi (resolved).** The letter calls the Jan 23 Brindisi arrival "the next day", so the *Egitto* left Piraeus on Jan 22; `route.md` and Chapter 5 use Jan 22.
-7. **design_doc.md Ch. 5 dates "Jan 17–24"**: the Istanbul arrival was Jan 16 (route.md), and the train left Istanbul on the night of ~Jan 18. Align with the new chapter dates (Jan 16–24).
+7. **design_doc.md Ch. 5 dates "Jan 17–24"**: the Istanbul arrival was Jan 16 (route.md), and the train left Istanbul on the night of Jan 19 (Chapter 5). Align with the new chapter dates (Jan 16–24).
 8. **Letter p. 17 says the *Città di Bari* "would dock in Piraeus two days later"**, which is consistent with her Istanbul–Piraeus route. No issue, just confirming.
