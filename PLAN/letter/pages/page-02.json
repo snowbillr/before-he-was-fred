@@ -1,0 +1,636 @@
+{
+  "page": 2,
+  "image": "PLAN/images/pages/page_2.jpeg",
+  "lines": [
+    "2) nochmal reinkam und schimpfte, weil das Fenster in seinem Zimmer keine",
+    "Scheiben hatte. Wir murmelten bloss einige Worte tiefsten Bedauerns; aber",
+    "schliesslich konnten wir nicht gut die beiden noch zu uns ins Bett nehmen.",
+    "Erst am nächsten Morgen merkte ich glücklicherweise, nachdem wir beide recht",
+    "gut geschlafen hatten, an dem verdächtigen Flattern der sogenannten Gardi-",
+    "nen, dass Fensterscheiben in dieser Gegend Persiens wohl noch unbekannt",
+    "waren. -- Um 1/2 9 ging es weiter und nun wurde die Gegend hügelig. Aus",
+    "weissbeschneiten Landschaften kamen wir ganz plötzlich in völlig schneelose",
+    "und umgekehrt. Das Mädchen hatte anscheinend im Gegensatz zu uns ausgiebig",
+    "gefrühstückt und nun fing es an unentwegt zu kotzen. Ich hatte wieder einmal",
+    "Grund, dem Geschick dafür zu danken, dass ich hinten sass. Um 10 Uhr machten",
+    "wir in einem Örtchen namens Taserkand Teepause, d.h. wir beide tranken köst-",
+    "liche warme Milch. Mittag gab es in [Mayimäh?], nachdem wir ein hohes, stark",
+    "verschneites Gebirge überwunden hatten, im Gegensatz zu vielen anderen Autos,",
+    "die im Schnee stecken geblieben waren. Wir assen gut und billig Brathuhn",
+    "mit Bratkartoffeln und fuhren dann weiter, bis Strauss und ich auf einmal",
+    "gleichzeitig in die Höhe fuhren. Denn dort stand vor einem alleinstehenden",
+    "Teehaus, genau 100 km vor Tabriz, der Omnibus mit unserem Gepäck, der nun",
+    "schon 4 Tage unterwegs war. Nachdem Strauss mich an jeder schwierigen Stelle",
+    "der Strasse aufgefordert hatte, mal nachzusehen, ob ich noch einige von mei-",
+    "nen Briefmarken zusammenlesen könnte, war das schliesslich eine gewisse Be-",
+    "ruhigung für mich. Später ging es in unendlichen Serpentinen über einen",
+    "hohen, in Wolken eingehüllten Berg, wo uns der Chauffeur die Stelle zeigte,",
+    "wo nach der Kronprinzenhochzeit 2 türkische Flugzeuge gegen den Berg geflo-",
+    "gen sind und abstürzten, und um 1/2 7 waren wir in Tabriz.",
+    "     Hamid-Aga, der Garagenbesitzer, an den uns Herr Fischer empfohlen hatte,",
+    "erklärte uns beim Tee, dass am Donnerstag ein Camion nach Trapezund abfahren",
+    "wollte. Er wollte versuchen, uns dort unterzubringen. Wir bezogen dann im",
+    "Grand Hotel Quartier und bekamen das angeblich letzte Zimmer, das unseren",
+    "Ansprüchen vollauf genügte, reinigten uns und beschlossen, ins Kino zu gehen.",
+    "Dort schliefen wir dann auch recht gut und setzten das später im Hotel fort.",
+    "Am nächsten Morgen war das Gepäck da und ich wechselte in der Garage erst",
+    "einmal meine Schuhe, die mir sehr zugesetzt hatten. Dann wieder Rücksprache",
+    "mit Hamid-Aga. Die Verständigung war miserabel und so brachte er uns in eine",
+    "Apotheke gegenüber, wo ein sympathischer älterer Herr über französisch dol-",
+    "metschte. Strauss erwähnte dabei, dass wir jüdische Emigranten sind, worauf",
+    "er sich als litauischer Jude vorstellte und uns in rührender Weise behilflich",
+    "war. Er lief mit uns zu seinem Freund, einem Transportfachmann und schickte",
+    "uns dann mit seinem Provisor in den Bazar, wo wir mit dem Manager einer Fir-",
+    "ma die Reise bis Trapezunt für 130 Toman perfekt machten.",
+    "     Es handelte sich um einen 1,5 Tonnen Chevrolet mit Platz für 3 Personen.",
+    "Unser Gepäck wurde gleich verladen; wir sollten bis Bazirgand per Omnibus",
+    "fahren, da der Manager bis dorthin im Wagen mitfuhr. Wir assen dann ganz",
+    "ausgezeichnet im Hotel eine Portion Rebhuhn, von der wir beide trotz grossem",
+    "Appetit satt wurden. Dann gingen wir in den Bazar und fanden auf Anhieb",
+    "Herrn Fischer's Bekannten, ein mit übergeschlagenen Beine n hockendes,",
+    "schwarz umrahmtes Mondgesicht, fragten nach seinem englisch sprechendem Sohn,",
+    "der uns sofort geholt wurde und erstanden [bx?] für tl. Dann verabschiedeten",
+    "wir uns von Isaac Rabinowitsch, dem Apotheker, und gingen zur Bus-Garage.",
+    "Um 3 Uhr sollte der Bus fahren; aber es war inzwischen 1/4 5 geworden und",
+    "dann mussten wir immer noch eine Stunde warten. Man hatte uns für einige",
+    "Kran die besten Plätze reserviert. Der Bus wurde gestopft voll. Sogar im",
+    "Gang hockten sie dichtgedrängt. Wir fuhren in die Nacht hinein, zunächst",
+    "entlang dem Schienenstrang nach Djulfa, den wir viele Maleßkreuzten. Unser",
+    "Ziel für diesen Tag war Khoi. In einem kleinen Dorf auf halbem Weg wurde",
+    "Abendbrotpause gemacht. Wir tranken Tee in rauhen Mengen und sahen dabei den",
+    "Männern beim Beten zu. Davon bekamen wir Hunger und bestellten uns Brot und",
+    "Käse, denn unser Proviant war inzwischen alle geworden. Wir bekamen dort",
+    "einige\"Handtücher\" bester Qualität und Schafskäse, woran wir uns wirklich"
+  ],
+  "sentences": [
+    {
+      "id": "p02-s01",
+      "de": "nochmal reinkam und schimpfte, weil das Fenster in seinem Zimmer keine Scheiben hatte.",
+      "en": "...came in again and swore because the window in his room had no panes.",
+      "start": {
+        "line": 0,
+        "col": 3
+      },
+      "end": {
+        "line": 1,
+        "col": 15
+      },
+      "continued_from_previous_page": true,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s02",
+      "de": "Wir murmelten bloss einige Worte tiefsten Bedauerns; aber schliesslich konnten wir nicht gut die beiden noch zu uns ins Bett nehmen.",
+      "en": "We merely muttered a few words of deepest regret; but after all we could hardly take the two of them into our bed as well.",
+      "start": {
+        "line": 1,
+        "col": 16
+      },
+      "end": {
+        "line": 2,
+        "col": 74
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s03",
+      "de": "Erst am nächsten Morgen merkte ich glücklicherweise, nachdem wir beide recht gut geschlafen hatten, an dem verdächtigen Flattern der sogenannten Gardinen, dass Fensterscheiben in dieser Gegend Persiens wohl noch unbekannt waren.",
+      "en": "Only the next morning, after we had both slept quite well, did I fortunately notice from the suspicious fluttering of the so-called curtains that windowpanes were probably still unknown in this region of Persia.",
+      "start": {
+        "line": 3,
+        "col": 0
+      },
+      "end": {
+        "line": 6,
+        "col": 6
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s04",
+      "de": "-- Um 1/2 9 ging es weiter und nun wurde die Gegend hügelig.",
+      "en": "-- At 8:30 we went on, and now the landscape became hilly.",
+      "start": {
+        "line": 6,
+        "col": 7
+      },
+      "end": {
+        "line": 6,
+        "col": 67
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s05",
+      "de": "Aus weissbeschneiten Landschaften kamen wir ganz plötzlich in völlig schneelose und umgekehrt.",
+      "en": "From snow-white landscapes we came quite suddenly into completely snowless ones, and vice versa.",
+      "start": {
+        "line": 6,
+        "col": 68
+      },
+      "end": {
+        "line": 8,
+        "col": 14
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s06",
+      "de": "Das Mädchen hatte anscheinend im Gegensatz zu uns ausgiebig gefrühstückt und nun fing es an unentwegt zu kotzen.",
+      "en": "The girl had apparently, unlike us, eaten a hearty breakfast, and now began to vomit incessantly.",
+      "start": {
+        "line": 8,
+        "col": 15
+      },
+      "end": {
+        "line": 9,
+        "col": 52
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s07",
+      "de": "Ich hatte wieder einmal Grund, dem Geschick dafür zu danken, dass ich hinten sass.",
+      "en": "Once again I had reason to thank fate that I sat in the back.",
+      "start": {
+        "line": 9,
+        "col": 53
+      },
+      "end": {
+        "line": 10,
+        "col": 58
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s08",
+      "de": "Um 10 Uhr machten wir in einem Örtchen namens Taserkand Teepause, d.h. wir beide tranken köstliche warme Milch.",
+      "en": "At 10 o'clock we made a tea break in a little village named Taserkand, i.e. we both drank delicious warm milk.",
+      "start": {
+        "line": 10,
+        "col": 59
+      },
+      "end": {
+        "line": 12,
+        "col": 18
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s09",
+      "de": "Mittag gab es in [Mayimäh?], nachdem wir ein hohes, stark verschneites Gebirge überwunden hatten, im Gegensatz zu vielen anderen Autos, die im Schnee stecken geblieben waren.",
+      "en": "Lunch was in Mianeh (typed \"Mayimäh\"?), after we had crossed a high, heavily snowed mountain range, unlike many other cars that had gotten stuck in the snow.",
+      "start": {
+        "line": 12,
+        "col": 19
+      },
+      "end": {
+        "line": 14,
+        "col": 38
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s10",
+      "de": "Wir assen gut und billig Brathuhn mit Bratkartoffeln und fuhren dann weiter, bis Strauss und ich auf einmal gleichzeitig in die Höhe fuhren.",
+      "en": "We ate good, cheap roast chicken with fried potatoes and then drove on, until Strauss and I suddenly both jumped up at the same time.",
+      "start": {
+        "line": 14,
+        "col": 39
+      },
+      "end": {
+        "line": 16,
+        "col": 32
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s11",
+      "de": "Denn dort stand vor einem alleinstehenden Teehaus, genau 100 km vor Tabriz, der Omnibus mit unserem Gepäck, der nun schon 4 Tage unterwegs war.",
+      "en": "For there, in front of a standalone teahouse, exactly 100 km before Tabriz, stood the bus with our luggage, which had already been on the road for 4 days.",
+      "start": {
+        "line": 16,
+        "col": 33
+      },
+      "end": {
+        "line": 18,
+        "col": 27
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s12",
+      "de": "Nachdem Strauss mich an jeder schwierigen Stelle der Strasse aufgefordert hatte, mal nachzusehen, ob ich noch einige von meinen Briefmarken zusammenlesen könnte, war das schliesslich eine gewisse Beruhigung für mich.",
+      "en": "After Strauss had urged me at every difficult spot on the road to check whether I could still gather up a few of my postage stamps, this was finally a certain reassurance for me.",
+      "start": {
+        "line": 18,
+        "col": 28
+      },
+      "end": {
+        "line": 21,
+        "col": 18
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s13",
+      "de": "Später ging es in unendlichen Serpentinen über einen hohen, in Wolken eingehüllten Berg, wo uns der Chauffeur die Stelle zeigte, wo nach der Kronprinzenhochzeit 2 türkische Flugzeuge gegen den Berg geflogen sind und abstürzten, und um 1/2 7 waren wir in Tabriz.",
+      "en": "Later it went in endless serpentines over a high mountain wrapped in clouds, where the chauffeur showed us the spot where, after the Crown Prince's wedding, 2 Turkish airplanes flew into the mountain and crashed, and at 6:30 we were in Tabriz.",
+      "start": {
+        "line": 21,
+        "col": 19
+      },
+      "end": {
+        "line": 24,
+        "col": 58
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s14",
+      "de": "Hamid-Aga, der Garagenbesitzer, an den uns Herr Fischer empfohlen hatte, erklärte uns beim Tee, dass am Donnerstag ein Camion nach Trapezund abfahren wollte.",
+      "en": "Hamid-Aga, the garage owner to whom Mr. Fischer had recommended us, explained to us over tea that on Thursday a truck was to leave for Trebizond [Trabzon].",
+      "start": {
+        "line": 25,
+        "col": 5
+      },
+      "end": {
+        "line": 27,
+        "col": 7
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s15",
+      "de": "Er wollte versuchen, uns dort unterzubringen.",
+      "en": "He would try to get us a place on it.",
+      "start": {
+        "line": 27,
+        "col": 8
+      },
+      "end": {
+        "line": 27,
+        "col": 53
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s16",
+      "de": "Wir bezogen dann im Grand Hotel Quartier und bekamen das angeblich letzte Zimmer, das unseren Ansprüchen vollauf genügte, reinigten uns und beschlossen, ins Kino zu gehen.",
+      "en": "We then took quarters in the Grand Hotel and got the allegedly last room, which fully satisfied our expectations, cleaned ourselves up, and decided to go to the cinema.",
+      "start": {
+        "line": 27,
+        "col": 54
+      },
+      "end": {
+        "line": 29,
+        "col": 77
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s17",
+      "de": "Dort schliefen wir dann auch recht gut und setzten das später im Hotel fort.",
+      "en": "There we then slept quite well, and continued doing so later in the hotel.",
+      "start": {
+        "line": 30,
+        "col": 0
+      },
+      "end": {
+        "line": 30,
+        "col": 76
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s18",
+      "de": "Am nächsten Morgen war das Gepäck da und ich wechselte in der Garage erst einmal meine Schuhe, die mir sehr zugesetzt hatten.",
+      "en": "The next morning the luggage was there, and in the garage I first changed my shoes, which had been giving me a hard time.",
+      "start": {
+        "line": 31,
+        "col": 0
+      },
+      "end": {
+        "line": 32,
+        "col": 51
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s19",
+      "de": "Dann wieder Rücksprache mit Hamid-Aga.",
+      "en": "Then another discussion with Hamid-Aga.",
+      "start": {
+        "line": 32,
+        "col": 52
+      },
+      "end": {
+        "line": 33,
+        "col": 14
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s20",
+      "de": "Die Verständigung war miserabel und so brachte er uns in eine Apotheke gegenüber, wo ein sympathischer älterer Herr über französisch dolmetschte.",
+      "en": "Communication was miserable, so he brought us to a pharmacy opposite, where a sympathetic older gentleman interpreted via French.",
+      "start": {
+        "line": 33,
+        "col": 15
+      },
+      "end": {
+        "line": 35,
+        "col": 9
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s21",
+      "de": "Strauss erwähnte dabei, dass wir jüdische Emigranten sind, worauf er sich als litauischer Jude vorstellte und uns in rührender Weise behilflich war.",
+      "en": "Strauss mentioned in doing so that we were Jewish emigrants, whereupon he introduced himself as a Lithuanian Jew and helped us in a touching way.",
+      "start": {
+        "line": 35,
+        "col": 10
+      },
+      "end": {
+        "line": 37,
+        "col": 4
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s22",
+      "de": "Er lief mit uns zu seinem Freund, einem Transportfachmann und schickte uns dann mit seinem Provisor in den Bazar, wo wir mit dem Manager einer Firma die Reise bis Trapezunt für 130 Toman perfekt machten.",
+      "en": "He walked with us to his friend, a transport expert, and then sent us with his assistant into the bazaar, where we settled the trip to Trebizond for 130 Toman with the manager of a firm.",
+      "start": {
+        "line": 37,
+        "col": 5
+      },
+      "end": {
+        "line": 39,
+        "col": 57
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s23",
+      "de": "Es handelte sich um einen 1,5 Tonnen Chevrolet mit Platz für 3 Personen.",
+      "en": "It was a 1.5-ton Chevrolet with room for 3 persons.",
+      "start": {
+        "line": 40,
+        "col": 5
+      },
+      "end": {
+        "line": 40,
+        "col": 77
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s24",
+      "de": "Unser Gepäck wurde gleich verladen; wir sollten bis Bazirgand per Omnibus fahren, da der Manager bis dorthin im Wagen mitfuhr.",
+      "en": "Our luggage was loaded right away; we were to go as far as Bazirgan by bus, since the manager was riding in the truck until there.",
+      "start": {
+        "line": 41,
+        "col": 0
+      },
+      "end": {
+        "line": 42,
+        "col": 52
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s25",
+      "de": "Wir assen dann ganz ausgezeichnet im Hotel eine Portion Rebhuhn, von der wir beide trotz grossem Appetit satt wurden.",
+      "en": "We then ate an excellent portion of partridge in the hotel, which filled both of us up despite our huge appetite.",
+      "start": {
+        "line": 42,
+        "col": 53
+      },
+      "end": {
+        "line": 44,
+        "col": 20
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s26",
+      "de": "Dann gingen wir in den Bazar und fanden auf Anhieb Herrn Fischer's Bekannten, ein mit übergeschlagenen Beine n hockendes, schwarz umrahmtes Mondgesicht, fragten nach seinem englisch sprechendem Sohn, der uns sofort geholt wurde und erstanden [bx?] für tl.",
+      "en": "Then we went into the bazaar and immediately found Mr. Fischer's acquaintance, a black-framed moon face squatting cross-legged, asked for his English-speaking son, who was fetched for us at once, and acquired \"bx\" for \"tl.\" (abbreviations unclear; probably a currency exchange).",
+      "start": {
+        "line": 44,
+        "col": 21
+      },
+      "end": {
+        "line": 47,
+        "col": 55
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s27",
+      "de": "Dann verabschiedeten wir uns von Isaac Rabinowitsch, dem Apotheker, und gingen zur Bus-Garage.",
+      "en": "Then we said goodbye to Isaac Rabinowitsch, the pharmacist, and went to the bus garage.",
+      "start": {
+        "line": 47,
+        "col": 56
+      },
+      "end": {
+        "line": 48,
+        "col": 73
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s28",
+      "de": "Um 3 Uhr sollte der Bus fahren; aber es war inzwischen 1/4 5 geworden und dann mussten wir immer noch eine Stunde warten.",
+      "en": "The bus was supposed to leave at 3 o'clock; but by then it had become 4:15, and we still had to wait another hour.",
+      "start": {
+        "line": 49,
+        "col": 0
+      },
+      "end": {
+        "line": 50,
+        "col": 47
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s29",
+      "de": "Man hatte uns für einige Kran die besten Plätze reserviert.",
+      "en": "For a few Kran the best seats had been reserved for us.",
+      "start": {
+        "line": 50,
+        "col": 48
+      },
+      "end": {
+        "line": 51,
+        "col": 34
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s30",
+      "de": "Der Bus wurde gestopft voll.",
+      "en": "The bus was stuffed full.",
+      "start": {
+        "line": 51,
+        "col": 35
+      },
+      "end": {
+        "line": 51,
+        "col": 63
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s31",
+      "de": "Sogar im Gang hockten sie dichtgedrängt.",
+      "en": "People were even squatting packed tightly in the aisle.",
+      "start": {
+        "line": 51,
+        "col": 64
+      },
+      "end": {
+        "line": 52,
+        "col": 31
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s32",
+      "de": "Wir fuhren in die Nacht hinein, zunächst entlang dem Schienenstrang nach Djulfa, den wir viele Maleßkreuzten.",
+      "en": "We drove into the night, at first along the railway line to Julfa, which we crossed many times.",
+      "start": {
+        "line": 52,
+        "col": 32
+      },
+      "end": {
+        "line": 53,
+        "col": 68
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s33",
+      "de": "Unser Ziel für diesen Tag war Khoi.",
+      "en": "Our goal for this day was Khoi.",
+      "start": {
+        "line": 53,
+        "col": 69
+      },
+      "end": {
+        "line": 54,
+        "col": 29
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s34",
+      "de": "In einem kleinen Dorf auf halbem Weg wurde Abendbrotpause gemacht.",
+      "en": "In a small village halfway there, a supper stop was made.",
+      "start": {
+        "line": 54,
+        "col": 30
+      },
+      "end": {
+        "line": 55,
+        "col": 23
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s35",
+      "de": "Wir tranken Tee in rauhen Mengen und sahen dabei den Männern beim Beten zu.",
+      "en": "We drank tea in vast quantities and watched the men praying.",
+      "start": {
+        "line": 55,
+        "col": 24
+      },
+      "end": {
+        "line": 56,
+        "col": 22
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s36",
+      "de": "Davon bekamen wir Hunger und bestellten uns Brot und Käse, denn unser Proviant war inzwischen alle geworden.",
+      "en": "That made us hungry and we ordered bread and cheese, since our provisions had meanwhile run out.",
+      "start": {
+        "line": 56,
+        "col": 23
+      },
+      "end": {
+        "line": 57,
+        "col": 55
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p02-s37",
+      "de": "Wir bekamen dort einige\"Handtücher\" bester Qualität und Schafskäse, woran wir uns wirklich",
+      "en": "There we received a few \"hand towels\" [sheets of flatbread] of the best quality and sheep's cheese, which we really...",
+      "start": {
+        "line": 57,
+        "col": 56
+      },
+      "end": {
+        "line": 58,
+        "col": 73
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": true
+    }
+  ],
+  "notes": [
+    "\"Um 1/2 7 waren wir in Tabriz\" = 6:30; the earlier translation said 5:30.",
+    "Re-translated the hilly/snowless passage: \"nun wurde die Gegend hügelig. Aus weissbeschneiten Landschaften kamen wir ganz plötzlich in völlig schneelose und umgekehrt\" (earlier translation had the landscape becoming snowless and \"we saw...\").",
+    "\"Das Mädchen hatte anscheinend im Gegensatz zu uns ausgiebig gefrühstückt\" = the girl, unlike us, had eaten a hearty breakfast (and then vomited); the earlier translation garbled this and added \"it began to snow again\", which is not in the German.",
+    "\"d.h. wir beide tranken köstliche warme Milch\" = i.e. we both drank warm milk (earlier: \"after we both drank delicious hot milk\").",
+    "\"bis Strauss und ich auf einmal gleichzeitig in die Höhe fuhren\" = until Strauss and I both jumped up at once (earlier: \"stepped into the middle of the road\").",
+    "\"einen Freund, einem Transportfachmann\" and \"Provisor\" (pharmacist's assistant) were skipped in the earlier translation (it was truncated here); translated.",
+    "\"eine Portion Rebhuhn\" = partridge (earlier: roast chicken).",
+    "\"erstanden [bx?] für tl.\": reading uncertain - probably typed abbreviations for an exchange of currencies; the earlier translation's \"negotiated the bus for 1 Toman\" is not supported by the German.",
+    "\"für einige Kran\" = for a few Kran (earlier: Toman); \"in einem kleinen Dorf\" = small village (earlier: courtyard); \"in rauhen Mengen\" = in vast quantities (earlier: \"rough crowds\"); \"alle geworden\" = run out (earlier: gone bad); \"bester Qualität\" = best quality (earlier: firmer quality).",
+    "\"Handtücher\" (hand towels) is the author's joke for the thin sheets of Persian flatbread (lavash).",
+    "\"Mayimäh\" is an uncertain reading of the place name; the town is Mianeh.",
+    "Typed oddities kept as typed: \"Beine n\" (stray space), \"Maleßkreuzten\" (probably \"Male kreuzten\" with a stray key), \"einige\"Handtücher\"\" (missing space)."
+  ]
+}

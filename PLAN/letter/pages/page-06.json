@@ -1,0 +1,710 @@
+{
+  "page": 6,
+  "image": "PLAN/images/pages/page_6.jpeg",
+  "lines": [
+    "6) dann errötend seinen Spuren. Einige km ging es dann, bis auch der Chevrolet",
+    "endgültig stecken blieb. Das Benzin war zu Ende, und der Vorrat [aufgebraucht?],",
+    "denn bei den enormen Anstrengungen war das vielfache der normalen Menge ver-",
+    "braucht worden.",
+    "     Ich war eingedöst und beim Anhalten aufgeschreckt. Hoffnungslos stellte",
+    "ich fest, dass unser Wagen nun rückwärts fuhr, während der andere liegen",
+    "blieb. Nach ca. 200 m hielten wir und da sah ich ein einsames Haus, etwa 30m",
+    "entfernt vom Wge liegen. Der Chauffeur ging darauf zu, und wurde von einer",
+    "Horde wütend bellender Hunde empfangen. Sein Klopfen hatte Erfolg. Nach einer",
+    "Weile öffnete ein Mann, rief die Hunde und wir gingen ins Haus. Es gab nur",
+    "ein Zimmer mit 2 Betten, 2 Tischen, einigen Stühlen und einem kleinem Eisen-",
+    "ofen. Aus dem anderen Bett erhob sich nun auch ein Mann und machte Feuer, wäh-",
+    "rend der andere sich anzog. Der Chauffeur redete einige Worte mit dem Mann,",
+    "woraufhin man uns das bessere Bett anwies. Wir beide zogen Mantel und Jacket",
+    "aus, legten uns hin und waren sofort eingeschlafen.",
+    "                                                       Türkali, 3. Januar 1940.",
+    "     Es fällt mir schwer, mich zum Schreiben zu überwinden. Wie unendlich de-",
+    "primierend lässt sich dieses Jahrzehnt für uns an. Wir sitzen hier in einem",
+    "finsteren Loch, ein paar aufeinandergelegten Steinen, die mit Lehm verklebt",
+    "sind; das einzige Inventar sind ein kleiner Eisenofen, eine Petroleumlampe",
+    "und 2 Flechtmatten. Das Halbdunkel wird erzeugt durch ein Fenster in der",
+    "Decke, 20cm im Quadrat, das vom Schnee verweht ist. Und das ganze befindet",
+    "sich im Hochgebirge in einem unvorstellbar entlegenem Dorf. Wir hatten einen",
+    "verzweifelten Anlauf genommen, das Gebirge zu überwinden und sind elend kurz",
+    "vor dem Pass im meterhohen Schnee bei einem grauenvollen Schneesturm stecken-",
+    "geblieben. Nach stundenlangen Anstrengungen haben wir Schlitten und Gepäck",
+    "oben gelassen und uns und die Pferde zurück in dieses Kaff gerettet. Doch ich",
+    "will der Reihe nach erzählen, wie es dazu kam!",
+    "     Das Erwachen in jenem einsamen Haus fand am 25.12.vorigen Jahres statt.",
+    "Es war ein herrlicher sonniger Wintertag und als wir vor das Haus traten in",
+    "die warme Sonne, vor uns die lichtüberflutete Schneelandschaft, da waren wir",
+    "mit unserem Schicksal ausgesöhnt. Dann sahen wir auch in einiger Entfernung",
+    "im Tal ein freundliches Dorf. Wir stapften ohne Mäntel in der warmen Sonne",
+    "durch den hohen Schnee; bald aber fror mir die Nase zu. Deshalb ging ich in",
+    "das erste Haus, um mich aufzuwärmen. Wir wurden sehr freundlich aufgenommen",
+    "und erkannten an den Listen, die herumlagen, dass wir beim Dorfvorstand waren.",
+    "Eine Verständigung war unmöglich. Trotzdem unterhielten wir uns eine Weile",
+    "ausgezeichnet mit den Händen, währenddem wir mit Tee bewirtet wurden. Dann",
+    "gingen wir weiter an einer kleinen Anlage mit dem Kriegerdenkmal und der",
+    "Schule vorbei in ein Wirtshaus. Dort sassen bereits unsere Chauffeure und wir",
+    "erfuhren nun, dass das Dorf Taslicay hiess, dass in der Nacht 35 Grad Kälte",
+    "gewesen sind und wir nun warten müssten, bis Benzin aus dem 35km entfernten",
+    "Karagossa käme. Das ganze Dorf lief zusammen, um uns zu bestaunen, darunter",
+    "auch einer, der etwas persisch sprach. Er unternahm es in der Folge, die Ver-",
+    "ständigung zu vermitteln. Wir gingen noch einmal zurück, um unsere Mäntel,",
+    "den Briefblock und die Spielkarten zu holen und blieben dann bis in die Nacht",
+    "in dem Lokal. Zunächst lernten wir die türkischen Zahlen; dann legte ich",
+    "eine Liste der wichtigsten Worte an, die wir ständig brauchten und schliess-",
+    "lich begann ich diesen Bericht. Du, lieber Papa, wirst wohl vergeblich mit",
+    "dem Finger auf der Landkarte suchen. Wenn Du von Baghdad mit dem Eufrat auf-",
+    "wärts gehst und, wenn er sich teilt, dem südlichen Quellstrom folgst, dann",
+    "kommst du schliesslich nach Karagossa (Karagöse) und ganz am Anfang, dort wo",
+    "der Eufrat so breit wie die Klia ist, liegt Taslicay.",
+    "     Die meiste Zeit des Tages verbrachten wir beim Kartenspiel. Zwischendurch",
+    "fielen wir mit dem Mittagessen rein, das wir stehenliessen, da ungeniessbar.",
+    "Wie gut war da der iranische Reis gegen dieses Surrogat, das sie Reis nannten.",
+    "Guter Reis ist in der Türkei sehr teuer und nun verstanden wir , warum unser",
+    "Chauffeur an der Grenze zufrieden schmunzelnd für 25 Pfund Reis 5 Lire Zoll",
+    "gezahlt hatte."
+  ],
+  "sentences": [
+    {
+      "id": "p06-s01",
+      "de": "dann errötend seinen Spuren.",
+      "en": "...then, blushing, in its tracks.",
+      "start": {
+        "line": 0,
+        "col": 3
+      },
+      "end": {
+        "line": 0,
+        "col": 31
+      },
+      "continued_from_previous_page": true,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s02",
+      "de": "Einige km ging es dann, bis auch der Chevrolet endgültig stecken blieb.",
+      "en": "For a few km it went on, until the Chevrolet too got stuck for good.",
+      "start": {
+        "line": 0,
+        "col": 32
+      },
+      "end": {
+        "line": 1,
+        "col": 24
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s03",
+      "de": "Das Benzin war zu Ende, und der Vorrat [aufgebraucht?], denn bei den enormen Anstrengungen war das vielfache der normalen Menge verbraucht worden.",
+      "en": "The gasoline was finished, and the reserve [used up?], for with the enormous exertions many times the normal amount had been consumed.",
+      "start": {
+        "line": 1,
+        "col": 25
+      },
+      "end": {
+        "line": 3,
+        "col": 15
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s04",
+      "de": "Ich war eingedöst und beim Anhalten aufgeschreckt.",
+      "en": "I had dozed off and was startled awake when we stopped.",
+      "start": {
+        "line": 4,
+        "col": 5
+      },
+      "end": {
+        "line": 4,
+        "col": 55
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s05",
+      "de": "Hoffnungslos stellte ich fest, dass unser Wagen nun rückwärts fuhr, während der andere liegen blieb.",
+      "en": "Hopelessly I realized that our car was now driving backward, while the other stayed where it was.",
+      "start": {
+        "line": 4,
+        "col": 56
+      },
+      "end": {
+        "line": 6,
+        "col": 6
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s06",
+      "de": "Nach ca. 200 m hielten wir und da sah ich ein einsames Haus, etwa 30m entfernt vom Wge liegen.",
+      "en": "After about 200 m we stopped, and there I saw a lonely house lying about 30 m from the road.",
+      "start": {
+        "line": 6,
+        "col": 7
+      },
+      "end": {
+        "line": 7,
+        "col": 24
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s07",
+      "de": "Der Chauffeur ging darauf zu, und wurde von einer Horde wütend bellender Hunde empfangen.",
+      "en": "The chauffeur went toward it and was greeted by a pack of furiously barking dogs.",
+      "start": {
+        "line": 7,
+        "col": 25
+      },
+      "end": {
+        "line": 8,
+        "col": 39
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s08",
+      "de": "Sein Klopfen hatte Erfolg.",
+      "en": "His knocking was successful.",
+      "start": {
+        "line": 8,
+        "col": 40
+      },
+      "end": {
+        "line": 8,
+        "col": 66
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s09",
+      "de": "Nach einer Weile öffnete ein Mann, rief die Hunde und wir gingen ins Haus.",
+      "en": "After a while a man opened, called the dogs, and we went into the house.",
+      "start": {
+        "line": 8,
+        "col": 67
+      },
+      "end": {
+        "line": 9,
+        "col": 63
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s10",
+      "de": "Es gab nur ein Zimmer mit 2 Betten, 2 Tischen, einigen Stühlen und einem kleinem Eisenofen.",
+      "en": "There was only one room with 2 beds, 2 tables, a few chairs, and a small iron stove.",
+      "start": {
+        "line": 9,
+        "col": 64
+      },
+      "end": {
+        "line": 11,
+        "col": 5
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s11",
+      "de": "Aus dem anderen Bett erhob sich nun auch ein Mann und machte Feuer, während der andere sich anzog.",
+      "en": "From the other bed a man now rose as well and made a fire, while the other got dressed.",
+      "start": {
+        "line": 11,
+        "col": 6
+      },
+      "end": {
+        "line": 12,
+        "col": 27
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s12",
+      "de": "Der Chauffeur redete einige Worte mit dem Mann, woraufhin man uns das bessere Bett anwies.",
+      "en": "The chauffeur exchanged a few words with the man, whereupon we were assigned the better bed.",
+      "start": {
+        "line": 12,
+        "col": 28
+      },
+      "end": {
+        "line": 13,
+        "col": 42
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s13",
+      "de": "Wir beide zogen Mantel und Jacket aus, legten uns hin und waren sofort eingeschlafen.",
+      "en": "We both took off coat and jacket, lay down, and were asleep at once.",
+      "start": {
+        "line": 13,
+        "col": 43
+      },
+      "end": {
+        "line": 14,
+        "col": 51
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s14",
+      "de": "Türkali, 3. Januar 1940.",
+      "en": "Türkali, 3. January 1940.",
+      "start": {
+        "line": 15,
+        "col": 55
+      },
+      "end": {
+        "line": 15,
+        "col": 79
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s15",
+      "de": "Es fällt mir schwer, mich zum Schreiben zu überwinden.",
+      "en": "It is hard for me to bring myself to write.",
+      "start": {
+        "line": 16,
+        "col": 5
+      },
+      "end": {
+        "line": 16,
+        "col": 59
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s16",
+      "de": "Wie unendlich deprimierend lässt sich dieses Jahrzehnt für uns an.",
+      "en": "How endlessly depressing this decade is starting out for us.",
+      "start": {
+        "line": 16,
+        "col": 60
+      },
+      "end": {
+        "line": 17,
+        "col": 50
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s17",
+      "de": "Wir sitzen hier in einem finsteren Loch, ein paar aufeinandergelegten Steinen, die mit Lehm verklebt sind; das einzige Inventar sind ein kleiner Eisenofen, eine Petroleumlampe und 2 Flechtmatten.",
+      "en": "We are sitting here in a dark hole, a few stones piled on top of one another and stuck together with mud; the only furnishings are a small iron stove, a kerosene lamp, and 2 woven mats.",
+      "start": {
+        "line": 17,
+        "col": 51
+      },
+      "end": {
+        "line": 20,
+        "col": 19
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s18",
+      "de": "Das Halbdunkel wird erzeugt durch ein Fenster in der Decke, 20cm im Quadrat, das vom Schnee verweht ist.",
+      "en": "The half-light comes from a window in the ceiling, 20 cm square, which is drifted over with snow.",
+      "start": {
+        "line": 20,
+        "col": 20
+      },
+      "end": {
+        "line": 21,
+        "col": 51
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s19",
+      "de": "Und das ganze befindet sich im Hochgebirge in einem unvorstellbar entlegenem Dorf.",
+      "en": "And the whole thing is in the high mountains in an unimaginably remote village.",
+      "start": {
+        "line": 21,
+        "col": 52
+      },
+      "end": {
+        "line": 22,
+        "col": 59
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s20",
+      "de": "Wir hatten einen verzweifelten Anlauf genommen, das Gebirge zu überwinden und sind elend kurz vor dem Pass im meterhohen Schnee bei einem grauenvollen Schneesturm steckengeblieben.",
+      "en": "We had made a desperate attempt to cross the mountains and got stuck, miserably close to the pass, in meter-deep snow during a horrific snowstorm.",
+      "start": {
+        "line": 22,
+        "col": 60
+      },
+      "end": {
+        "line": 25,
+        "col": 10
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s21",
+      "de": "Nach stundenlangen Anstrengungen haben wir Schlitten und Gepäck oben gelassen und uns und die Pferde zurück in dieses Kaff gerettet.",
+      "en": "After hours of exertion we left the sleds and luggage up there and rescued ourselves and the horses back to this dump.",
+      "start": {
+        "line": 25,
+        "col": 11
+      },
+      "end": {
+        "line": 26,
+        "col": 68
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s22",
+      "de": "Doch ich will der Reihe nach erzählen, wie es dazu kam!",
+      "en": "But I want to tell in order how it came to this!",
+      "start": {
+        "line": 26,
+        "col": 69
+      },
+      "end": {
+        "line": 27,
+        "col": 46
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s23",
+      "de": "Das Erwachen in jenem einsamen Haus fand am 25.12.vorigen Jahres statt.",
+      "en": "The awakening in that lonely house took place on 25.12. of last year.",
+      "start": {
+        "line": 28,
+        "col": 5
+      },
+      "end": {
+        "line": 28,
+        "col": 76
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s24",
+      "de": "Es war ein herrlicher sonniger Wintertag und als wir vor das Haus traten in die warme Sonne, vor uns die lichtüberflutete Schneelandschaft, da waren wir mit unserem Schicksal ausgesöhnt.",
+      "en": "It was a glorious sunny winter day, and when we stepped out in front of the house into the warm sun, the light-flooded snowy landscape before us, we were reconciled with our fate.",
+      "start": {
+        "line": 29,
+        "col": 0
+      },
+      "end": {
+        "line": 31,
+        "col": 33
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s25",
+      "de": "Dann sahen wir auch in einiger Entfernung im Tal ein freundliches Dorf.",
+      "en": "Then we also saw, some distance away in the valley, a friendly village.",
+      "start": {
+        "line": 31,
+        "col": 34
+      },
+      "end": {
+        "line": 32,
+        "col": 29
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s26",
+      "de": "Wir stapften ohne Mäntel in der warmen Sonne durch den hohen Schnee; bald aber fror mir die Nase zu.",
+      "en": "We stomped without coats in the warm sun through the deep snow; but soon my nose froze shut.",
+      "start": {
+        "line": 32,
+        "col": 30
+      },
+      "end": {
+        "line": 33,
+        "col": 55
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s27",
+      "de": "Deshalb ging ich in das erste Haus, um mich aufzuwärmen.",
+      "en": "So I went into the first house to warm up.",
+      "start": {
+        "line": 33,
+        "col": 56
+      },
+      "end": {
+        "line": 34,
+        "col": 36
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s28",
+      "de": "Wir wurden sehr freundlich aufgenommen und erkannten an den Listen, die herumlagen, dass wir beim Dorfvorstand waren.",
+      "en": "We were received very kindly and recognized from the lists lying around that we were at the village headman's.",
+      "start": {
+        "line": 34,
+        "col": 37
+      },
+      "end": {
+        "line": 35,
+        "col": 78
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s29",
+      "de": "Eine Verständigung war unmöglich.",
+      "en": "Communication was impossible.",
+      "start": {
+        "line": 36,
+        "col": 0
+      },
+      "end": {
+        "line": 36,
+        "col": 33
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s30",
+      "de": "Trotzdem unterhielten wir uns eine Weile ausgezeichnet mit den Händen, währenddem wir mit Tee bewirtet wurden.",
+      "en": "Nevertheless we conversed excellently with our hands for a while, during which we were served tea.",
+      "start": {
+        "line": 36,
+        "col": 34
+      },
+      "end": {
+        "line": 37,
+        "col": 69
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s31",
+      "de": "Dann gingen wir weiter an einer kleinen Anlage mit dem Kriegerdenkmal und der Schule vorbei in ein Wirtshaus.",
+      "en": "Then we walked on, past a small park with the war memorial and the school, into an inn.",
+      "start": {
+        "line": 37,
+        "col": 70
+      },
+      "end": {
+        "line": 39,
+        "col": 31
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s32",
+      "de": "Dort sassen bereits unsere Chauffeure und wir erfuhren nun, dass das Dorf Taslicay hiess, dass in der Nacht 35 Grad Kälte gewesen sind und wir nun warten müssten, bis Benzin aus dem 35km entfernten Karagossa käme.",
+      "en": "Our chauffeurs were already sitting there, and we now learned that the village was called Taslicay, that it had been 35 degrees below zero in the night, and that we would now have to wait until gasoline came from Karagossa, 35 km away.",
+      "start": {
+        "line": 39,
+        "col": 32
+      },
+      "end": {
+        "line": 42,
+        "col": 15
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s33",
+      "de": "Das ganze Dorf lief zusammen, um uns zu bestaunen, darunter auch einer, der etwas persisch sprach.",
+      "en": "The whole village came running to gape at us, among them one who spoke some Persian.",
+      "start": {
+        "line": 42,
+        "col": 16
+      },
+      "end": {
+        "line": 43,
+        "col": 38
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s34",
+      "de": "Er unternahm es in der Folge, die Verständigung zu vermitteln.",
+      "en": "He then took it upon himself to interpret for us.",
+      "start": {
+        "line": 43,
+        "col": 39
+      },
+      "end": {
+        "line": 44,
+        "col": 25
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s35",
+      "de": "Wir gingen noch einmal zurück, um unsere Mäntel, den Briefblock und die Spielkarten zu holen und blieben dann bis in die Nacht in dem Lokal.",
+      "en": "We went back once more to fetch our coats, the writing pad, and the playing cards, and then stayed in the inn until night.",
+      "start": {
+        "line": 44,
+        "col": 26
+      },
+      "end": {
+        "line": 46,
+        "col": 13
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s36",
+      "de": "Zunächst lernten wir die türkischen Zahlen; dann legte ich eine Liste der wichtigsten Worte an, die wir ständig brauchten und schliesslich begann ich diesen Bericht.",
+      "en": "First we learned the Turkish numbers; then I made a list of the most important words that we needed constantly, and finally I began this report.",
+      "start": {
+        "line": 46,
+        "col": 14
+      },
+      "end": {
+        "line": 48,
+        "col": 31
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s37",
+      "de": "Du, lieber Papa, wirst wohl vergeblich mit dem Finger auf der Landkarte suchen.",
+      "en": "You, dear Papa, will probably search in vain with your finger on the map.",
+      "start": {
+        "line": 48,
+        "col": 32
+      },
+      "end": {
+        "line": 49,
+        "col": 36
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s38",
+      "de": "Wenn Du von Baghdad mit dem Eufrat aufwärts gehst und, wenn er sich teilt, dem südlichen Quellstrom folgst, dann kommst du schliesslich nach Karagossa (Karagöse) und ganz am Anfang, dort wo der Eufrat so breit wie die Klia ist, liegt Taslicay.",
+      "en": "If you go up the Euphrates from Baghdad and, where it divides, follow the southern headstream, you finally come to Karagossa (Karaköse), and right at its beginning, where the Euphrates is as wide as the Klia, lies Taslicay.",
+      "start": {
+        "line": 49,
+        "col": 37
+      },
+      "end": {
+        "line": 52,
+        "col": 53
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s39",
+      "de": "Die meiste Zeit des Tages verbrachten wir beim Kartenspiel.",
+      "en": "Most of the day we spent playing cards.",
+      "start": {
+        "line": 53,
+        "col": 5
+      },
+      "end": {
+        "line": 53,
+        "col": 64
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s40",
+      "de": "Zwischendurch fielen wir mit dem Mittagessen rein, das wir stehenliessen, da ungeniessbar.",
+      "en": "In between we were taken in by the lunch, which we left untouched because it was inedible.",
+      "start": {
+        "line": 53,
+        "col": 65
+      },
+      "end": {
+        "line": 54,
+        "col": 76
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s41",
+      "de": "Wie gut war da der iranische Reis gegen dieses Surrogat, das sie Reis nannten.",
+      "en": "How good the Iranian rice was compared with this surrogate that they called rice.",
+      "start": {
+        "line": 55,
+        "col": 0
+      },
+      "end": {
+        "line": 55,
+        "col": 78
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "id": "p06-s42",
+      "de": "Guter Reis ist in der Türkei sehr teuer und nun verstanden wir , warum unser Chauffeur an der Grenze zufrieden schmunzelnd für 25 Pfund Reis 5 Lire Zoll gezahlt hatte.",
+      "en": "Good rice is very expensive in Turkey, and now we understood why our chauffeur, smirking contentedly, had paid 5 lire of duty at the border for 25 pounds of rice.",
+      "start": {
+        "line": 56,
+        "col": 0
+      },
+      "end": {
+        "line": 58,
+        "col": 14
+      },
+      "continued_from_previous_page": false,
+      "continues_on_next_page": false
+    }
+  ],
+  "notes": [
+    "Dateline: \"Türkali, 3. Januar 1940.\" (3 and 5 look alike on this typewriter; 3 is the most likely reading).",
+    "\"[aufgebraucht?]\": the word is smudged (looks like \"aufgebrauhht\").",
+    "\"entfernt vom Wge\" is a typo for \"Wege\" (road); kept as typed.",
+    "\"in einem unvorstellbar entlegenem Dorf\" = in an unimaginably remote village (earlier: \"unimaginable mountain village\").",
+    "\"am 25.12.vorigen Jahres\" = on 25 December of last year (the morning after the night drive; the report was begun that evening, matching the page 1 dateline 25. Dezember 1939).",
+    "\"Kriegerdenkmal\" = war memorial; \"Anlage\" = small park/grounds.",
+    "\"35 Grad Kälte\" and \"35km\": 3/5 are ambiguous on this typewriter; both read as 35.",
+    "\"Karagöse\" is typed for Karaköse (today Ağrı); \"Klia\" is presumably a river familiar to the parents.",
+    "\"Zwischendurch fielen wir mit dem Mittagessen rein, das wir stehenliessen, da ungeniessbar\" = in between we were let down by the lunch, which we left untouched as inedible (earlier: \"joined in with the lunch that they left for us\").",
+    "\"warum unser Chauffeur an der Grenze zufrieden schmunzelnd für 25 Pfund Reis 5 Lire Zoll gezahlt hatte\" = why our chauffeur had contentedly paid 5 lire duty for 25 pounds of rice (earlier translation garbled and ended with \"...\", although the sentence is complete on this page).",
+    "\"verstanden wir , warum\" has a stray space before the comma as typed."
+  ]
+}
