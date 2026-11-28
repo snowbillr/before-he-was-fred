@@ -9,7 +9,7 @@ All licenses below were read from each file's Wikimedia Commons page (machine-re
 
 ---
 
-## 1. Istanbul — police, deportation order, missed *Città di Bari* (Jan 16–18, 1940)
+## 1. Istanbul — police, deportation order, missed *Città di Bari* (Jan 16–19, 1940)
 
 *Letter p. 15–17: Turkish bath, police court in Galata, 14-day sentence remitted on probation, fingerprint mix-up with a bald "Fritz son of Wilhelm", exit visa plus a deportation order "to leave the country that very same day", the Città di Bari sails without them, 4 hours held by the railway police, a private Orient Express compartment shared with a policeman under a poster reading "Istanbul welcomes you".*
 
