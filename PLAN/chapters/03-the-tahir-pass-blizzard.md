@@ -37,7 +37,7 @@ The replacement was a Ford with no side windows, "only sketchily covered with a 
 **Coordinates:** 39.6328° N, 43.3556° E | **Date:** Dec 25–27, 1939
 
 ### Narrative
-They woke to a brilliant sunny winter day. In the village elder's house they talked with their hands over tea. In the inn they learned that the night had brought "35 degrees of cold" and that they had to wait for gasoline from Karaköse, 35 km away [Letter p. 6 — "35 degrees below zero"](../letter/pages/page-06.json#p06-s32). Fritz learned the Turkish numbers, drew up a word list, and began this very letter. He told his father to trace the Euphrates north from Baghdad on the map to find the place [Letter p. 6 — "search in vain with your finger on the map"](../letter/pages/page-06.json#p06-s37). Looking back, Fritz realized the delay may have saved their lives: without it they would have arrived "right into the middle of the earthquake" [Letter p. 7 — "right into the middle of the earthquake"].
+They woke to a brilliant sunny winter day. In the village elder's house they talked with their hands over tea. In the inn they learned that the night had brought "35 degrees of cold" and that they had to wait for gasoline from Karaköse, 35 km away [Letter p. 6 — "35 degrees below zero"](../letter/pages/page-06.json#p06-s32). Fritz learned the Turkish numbers, drew up a word list, and began this very letter. He told his father to trace the Euphrates north from Baghdad on the map to find the place [Letter p. 6 — "search in vain with your finger on the map"](../letter/pages/page-06.json#p06-s37). Looking back, Fritz realized the delay may have saved their lives: without it they would have arrived "right into the middle of the earthquake" [Letter p. 7 — "right in the middle of the earthquake"](../letter/pages/page-07.json#p07-s04).
 
 ### Features & Media
 * **Primary Source Highlight:** The opening dateline of the letter, "Taslicay (Asia Minor), 25 December 1939" [Letter p. 1 — "Taslicay"](../letter/pages/page-01.json#p01-s02).
@@ -50,7 +50,7 @@ They woke to a brilliant sunny winter day. In the village elder's house they tal
 **Date:** Dec 27, 1939
 
 ### Narrative
-The gasoline came, but in the haze the Ford drove into the Chevrolet's ruts and broke an axle straining to get free [Letter p. 7 — "an axle broke"]. They rented a sled in the village. Fritz's feet froze in his mountain boots, and Strauss had his invaluable ski cap but two left gloves [Letter p. 7 — "2 left gloves"]. A few kilometers on, they found the Chevrolet overturned off the road with Strauss's suitcases scattered in the snow [Letter p. 7 — "overturned"]. They reached Karaköse at dark.
+The gasoline came, but in the haze the Ford drove into the Chevrolet's ruts and broke an axle straining to get free [Letter p. 7 — "a rear axle broke"](../letter/pages/page-07.json#p07-s11). They rented a sled in the village. Fritz's feet froze in his mountain boots, and Strauss had his invaluable ski cap but two left gloves [Letter p. 7 — "2 left gloves"](../letter/pages/page-07.json#p07-s16). A few kilometers on, they found the Chevrolet overturned off the road with Strauss's suitcases scattered in the snow [Letter p. 7 — "overturned"](../letter/pages/page-07.json#p07-s22). They reached Karaköse at dark.
 
 ---
 
@@ -58,7 +58,7 @@ The gasoline came, but in the haze the Ford drove into the Chevrolet's ruts and 
 **Coordinates:** 39.7194° N, 43.0503° E | **Date:** Dec 27–31, 1939
 
 ### Narrative
-The road was "closed for cars for an indefinite time". Days passed with inquiries at the bus office, cards and backgammon, and writing. The Persian-speaking hotel keepers were their only interpreters [Letter p. 7 — "closed for cars for an indefinite time"]. The only way out was a 185 km sled ride to Erzurum. They made the chauffeur pay half of it, 9 Lira, because they had already paid through to Trabzon [Letter p. 8 — "9 Lira"].
+The road was "closed for cars for an indefinite time". Days passed with inquiries at the bus office, cards and backgammon, and writing. The Persian-speaking hotel keepers were their only interpreters [Letter p. 7 — "closed to cars for an indefinite time"](../letter/pages/page-07.json#p07-s43). The only way out was a 185 km sled ride to Erzurum. They made the chauffeur pay half of it, 9 Lira, because they had already paid through to Trabzon [Letter p. 8 — "9 Lira"](../letter/pages/page-08.json#p08-s03).
 
 ### Features & Media
 * **Context Card:** Karaköse was later renamed Ağrı (year to verify) after the province and Mount Ararat (*Ağrı Dağı*).
@@ -69,7 +69,7 @@ The road was "closed for cars for an indefinite time". Days passed with inquirie
 **Date:** Dec 31, 1939
 
 ### Narrative
-The horses "did not look particularly trustworthy". The driver stopped for a chat with everyone they met and then ran behind, so the passengers walked much of the way [Letter p. 8 — "did not look particularly trustworthy"].
+The horses "did not look particularly trustworthy". The driver stopped for a chat with everyone they met and then ran behind, so the passengers walked much of the way [Letter p. 8 — "did not look particularly trustworthy"](../letter/pages/page-08.json#p08-s04).
 
 ---
 
@@ -77,7 +77,7 @@ The horses "did not look particularly trustworthy". The driver stopped for a cha
 **Coordinates:** 39.7944° N, 42.6739° E | **Date:** Dec 31, 1939 – Jan 1, 1940 (New Year's Eve)
 
 ### Narrative
-After 35 km they ate roast mutton legs, "the only edible thing", and spent New Year's Eve drinking tea. Fritz thought of family in Shanghai and toasted Aunt Lottchen with tea [Letter p. 8 — "thought of earlier New Year's Eves"]. At 5 AM a faint "Prosit Neujahr, Fritz" woke him. Strauss had barely slept because water dripped onto his bed all night [Letter p. 8 — "Prosit Neujahr"].
+After 35 km they ate roast mutton legs, "the only edible thing", and spent New Year's Eve drinking tea. Fritz thought of family in Shanghai and toasted Aunt Lottchen with tea [Letter p. 8 — "thought of earlier New Year's Eves"](../letter/pages/page-08.json#p08-s15). At 5 AM a faint "Prosit Neujahr, Fritz" woke him. Strauss had barely slept because water dripped onto his bed all night [Letter p. 8 — "Prosit Neujahr"](../letter/pages/page-08.json#p08-s19).
 
 ### Features & Media
 * **Journal Highlight:** New Year's Eve 1939, written up as a quiet vignette.
@@ -88,7 +88,7 @@ After 35 km they ate roast mutton legs, "the only edible thing", and spent New Y
 **Date:** Jan 1, 1940
 
 ### Narrative
-Three sleds set out in drizzling rain, joined by a young Turk with his wife and four children. At Türkali's gendarmerie the driver telephoned Tahir, 18 km ahead, and was told the road was free [Letter p. 8 — "telephoned to Tahir"]. Within a few hundred meters the track vanished. The men walked ahead into a storm of ice crystals. Near the ridge the wind knocked Fritz flat, and visibility fell below 5 m [Letter p. 8 — "The dreadful storm had blown me over"]. Strauss disappeared for over an hour. He came back having sunk "up to his neck", lost a rubber shoe, and crawled back on his belly [Letter p. 8 — "sunk up to his neck"]. A horse fell and rolled 30 m down the slope. The father of the family fired a revolver twice into the air, and "the bang died in the storm" [Letter p. 9 — "shot twice into the air"]. After more than two hours they turned back and left two luggage sleds on the mountain [Letter p. 9 — "over 2 hours in this hell"].
+Three sleds set out in drizzling rain, joined by a young Turk with his wife and four children. At Türkali's gendarmerie the driver telephoned Tahir, 18 km ahead, and was told the road was free [Letter p. 8 — "telephoned to Tahir"](../letter/pages/page-08.json#p08-s28). Within a few hundred meters the track vanished. The men walked ahead into a storm of ice crystals. Near the ridge the wind knocked Fritz flat, and visibility fell below 5 m [Letter p. 8 — "The dreadful storm had blown me over"](../letter/pages/page-08.json#p08-s38). Strauss disappeared for over an hour. He came back having sunk "up to his neck", lost a rubber shoe, and crawled back on his belly [Letter p. 8 — "sunk in up to his neck"](../letter/pages/page-08.json#p08-s51). A horse fell and rolled 30 m down the slope. The father of the family fired a revolver twice into the air, and "the bang died in the storm" [Letter p. 9 — "fired twice into the air"](../letter/pages/page-09.json#p09-s02). After more than two hours they turned back and left two luggage sleds on the mountain [Letter p. 9 — "in this hell for over 2 hours"](../letter/pages/page-09.json#p09-s05).
 
 ### Features & Media
 * **Audio/Visual:** An optional blizzard ambience during this leg (muted by default).
@@ -100,7 +100,7 @@ Three sleds set out in drizzling rain, joined by a young Turk with his wife and 
 **Coordinates:** ~39.8300° N, 42.4500° E (approximate) | **Date:** Jan 1–6, 1940
 
 ### Narrative
-The gendarmes scraped off their ice crusts and gave them coffee, tea and bread [Letter p. 9 — "let our ice crusts be scraped off"]. Then came three nights in "a dark hole" of stones and mud, lit only by a 20 cm skylight drifted over with snow [Letter p. 6 — "here in a dark hole"](../letter/pages/page-06.json#p06-s17). There were no cigarettes and no tea, they drank melted snow from a shared tin mug, and they were "almost eaten up by vermin" [Letter p. 9 — "almost eaten up by vermin"]. A fellow traveler served the singed head of a slaughtered kid goat. A gramophone astonished villagers who had never seen one [Letter p. 9 — "gramophone"]. On Jan 4 the luggage sleds were recovered, and the gendarmes took them in [Letter p. 9 — "brought the sleds with the luggage back"]. On Jan 5 at 3 PM the first sled came over from the other side, "as a shipwrecked person on a deserted island must feel" [Letter p. 9 — "shipwrecked person"].
+The gendarmes scraped off their ice crusts and gave them coffee, tea and bread [Letter p. 9 — "had our ice crusts scraped off"](../letter/pages/page-09.json#p09-s11). Then came three nights in "a dark hole" of stones and mud, lit only by a 20 cm skylight drifted over with snow [Letter p. 6 — "here in a dark hole"](../letter/pages/page-06.json#p06-s17). There were no cigarettes and no tea, they drank melted snow from a shared tin mug, and they were "almost eaten up by vermin" [Letter p. 9 — "almost eaten up by vermin"](../letter/pages/page-09.json#p09-s23). In the crowded room a calf was slaughtered, and hours later its lightly roasted head was served. Their acquaintance set up a gramophone at the feast; none of the villagers had ever seen one [Letter p. 9 — "set up a gramophone at the feast"](../letter/pages/page-09.json#p09-s30). On Jan 4 the luggage sleds were recovered, and the gendarmes took them in [Letter p. 9 — "brought the sleds with the luggage back"](../letter/pages/page-09.json#p09-s34). On Jan 5 at 3 PM the first sled came over from the other side, feeling "how shipwrecked people on a deserted island feel" [Letter p. 9 — "shipwrecked people on a deserted island"](../letter/pages/page-09.json#p09-s49).
 
 ### Features & Media
 * **Primary Source Highlight:** The opening of the Türkali entry, "How immensely depressing this decade starts for us" [Letter p. 6 — "How endlessly depressing this decade is starting"](../letter/pages/page-06.json#p06-s16).
@@ -111,7 +111,7 @@ The gendarmes scraped off their ice crusts and gave them coffee, tea and bread [
 **Date:** Jan 6, 1940, 6:00 AM → 8:30 PM
 
 ### Narrative
-Fritz was awake from 1 AM listening for wind. At 4:30 he watched the stars fade and went to wake the drivers [Letter p. 10 — "saw the stars fade"]. The luggage rode while they walked behind in clear, warm sunshine. They passed the scene of their disaster, crossed the pass height after two hours, and walked two more hours along the ridge [Letter p. 10 — "passed after 2 hours the pass height"]. Going downhill they glided on the luggage. Fritz was tipped into the snow under the sled and left behind 50 m while Strauss told a story [Letter p. 10 — "the sled on top of me"]. In Tahir by 10 AM, villagers crowded the "Doctor" with ailments, and Strauss produced only a pocketknife [Letter p. 10 — "pulled out then awkwardly his pocketknife"]. Road workers served tea, flatbread and honey and asked them to sign a guestbook. Strauss gave them his multi-tool [Letter p. 10 — "tea, flatbread, and honey"]. Then came 20 km by sled downhill to Delal.
+Fritz was awake from 1 AM listening for wind. At 4:30 he watched the stars fade and went to wake the drivers [Letter p. 10 — "watched the stars fade"](../letter/pages/page-10.json#p10-s07). The luggage rode while they walked behind in clear, warm sunshine. They passed the scene of their disaster, crossed the pass height after two hours, and walked two more hours along the ridge [Letter p. 10 — "after 2 hours reached the pass of the Tahir mountains"](../letter/pages/page-10.json#p10-s14). Going downhill they glided on the luggage. Fritz was tipped into the snow under the sled and left behind 50 m while Strauss told a story [Letter p. 10 — "the sled on top of me"](../letter/pages/page-10.json#p10-s16). In Tahir by 10 AM, villagers crowded the "Doctor" with ailments, and Strauss produced only a pocketknife [Letter p. 10 — "ceremoniously pulled out his pocketknife"](../letter/pages/page-10.json#p10-s24). Road workers served tea, flatbread and honey and asked them to sign a guestbook. Strauss gave them his multi-tool [Letter p. 10 — "tea, flatbread, and honey"](../letter/pages/page-10.json#p10-s30). Then came 20 km by sled downhill to Delal.
 
 ### Features & Media
 * **Animated Route Segment:** The sled crossing at walking pace, with the timestamps from the letter.
@@ -122,7 +122,7 @@ Fritz was awake from 1 AM listening for wind. At 4:30 he watched the stars fade 
 **Coordinates:** ~39.8500° N, 42.2500° E (approximate) | **Date:** Jan 6, 1940, 8:30 PM
 
 ### Narrative
-"We are saved! Allah and his colleagues from the other religions be thanked!" Delal had only four houses, but one was an inn, and "the road to Erzurum is free" [Letter p. 9 — "We are saved!"].
+"We are saved! Allah and his colleagues from the other religions be thanked!" Delal had only four houses, but one was an inn, and "the road to Erzurum is free" [Letter p. 9 — "We are saved!"](../letter/pages/page-09.json#p09-s51).
 
 ### Features & Media
 * **Visual Transition:** The frost overlay melts away.

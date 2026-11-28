@@ -12,7 +12,7 @@ Out of the mountains, the travelers run straight into the aftermath of the 27 De
 **Date:** Jan 7, 1940, 6:00 AM → 6:00 PM
 
 ### Narrative
-No bus came, so a caravan of four sleds set out over wide snow plains under "shredded dark clouds". The travelers had the worst horses and fell behind [Letter p. 10 — "caravan of 4 sleds"]. At Horasan they reached the railway to Erzurum, but the next train was not for five days, so they drove on into a wind that "penetrated through blankets and clothing" [Letter p. 10 — "The next train to Erzurum was to go in 5 days"]. At a teahouse break their vermin "woke up extremely cheerful". The last 16 km "stretched like 60 km" [Letter p. 11 — "stretched like 60 km"].
+No bus came, so a caravan of four sleds set out over wide snow plains under "shredded dark clouds". The travelers had the worst horses and fell behind [Letter p. 10 — "caravan of 4 sleds"](../letter/pages/page-10.json#p10-s39). At Horasan they reached the railway to Erzurum, but the next train was not for five days, so they drove on into a wind that "penetrated through blankets and clothing" [Letter p. 10 — "The next train to Erzurum was to leave in 5 days"](../letter/pages/page-10.json#p10-s44). At a teahouse break their vermin "woke up extremely cheerful". The last 16 km "stretched like 60 km" [Letter p. 11 — "they stretched like 60km"](../letter/pages/page-11.json#p11-s06).
 
 ### Features & Media
 * **Railway Spotter:** The Sarıkamış–Erzurum line, originally a Russian-built narrow-gauge military railway (verify gauge history in media research).
@@ -23,7 +23,7 @@ No bus came, so a caravan of four sleds set out over wide snow plains under "shr
 **Coordinates:** 39.9806° N, 41.6708° E | **Date:** Jan 7, 1940 (overnight)
 
 ### Narrative
-"For the first time since Tabriz" they slept undressed, in a warm room with clean beds, after "our first warm meal in this decade" [Letter p. 11 — "for the first time since Tabriz undressed"]. They also learned that the railway west of Erzurum was buried by landslides from the earthquake [Letter p. 11 — "buried by landslides due to the recent earthquake"].
+"For the first time since Tabriz" they slept undressed, in a warm room with clean beds, after "our first warm meal in this decade" [Letter p. 11 — "undressed in clean beds in a warm room"](../letter/pages/page-11.json#p11-s10). They also learned that the railway west of Erzurum was buried by landslides from the earthquake [Letter p. 11 — "buried by landslides"](../letter/pages/page-11.json#p11-s13).
 
 ---
 
@@ -31,7 +31,7 @@ No bus came, so a caravan of four sleds set out over wide snow plains under "shr
 **Date:** Jan 8, 1940
 
 ### Narrative
-The police kept their passports until a long palaver ended. Fritz rode in a sled with five men, one of whom kept shouting "*Avez-vous arrivé?*" at him [Letter p. 11 — "Avez-vous arrivé?"]. The 35 km road over a mountain range "went at times between 3 m high snow walls" [Letter p. 11 — "3 m high snow walls"].
+The police kept their passports until a long palaver ended. Fritz rode in a sled with five men, one of whom kept shouting "*Avez-vous arrivé?*" at him [Letter p. 11 — "Avez-vous arrivé?"](../letter/pages/page-11.json#p11-s22). The 35 km road over a mountain range "went at times between 3 m high snow walls" [Letter p. 11 — "walls of snow 3m high"](../letter/pages/page-11.json#p11-s25).
 
 ---
 
@@ -39,7 +39,7 @@ The police kept their passports until a long palaver ended. Fritz rode in a sled
 **Coordinates:** 39.9043° N, 41.2679° E | **Date:** Jan 8–11, 1940
 
 ### Narrative
-After a cold, overpriced room at the "Palast Hotel", a charming German-speaking police officer phoned the station: a train for Istanbul would leave that evening [Letter p. 11 — "Palast Hotel"]. It was cancelled for heavy snow, and people spoke of 12 days. Fritz telegraphed his parents, who would have heard of the earthquake, and failed to sell his mountain boots for more than 5 Lira [Letter p. 12 — "the train did not go today due to heavy snowfalls"]. A police inspector who knew about their Japanese visas questioned them for an hour in their hotel room [Letter p. 12 — "what we had done in Japan"]. When hotel guests pressed them for dental help, Strauss showed a few impression trays (*Abdrucklöffel*) to prove they had no instruments. A guest bought four for 4.50 Lira, perhaps "as cookie molds" for his wife [Letter p. 12 — "4.50 Lira"]. An abscess formed on Fritz's right heel, and Strauss lanced it with a pocketknife sterilized over a match [Letter p. 13 — "sterilized his pocket knife over a match flame"](../letter/pages/page-13.json#p13-s03).
+After a cold, overpriced room at the "Palast Hotel", a charming German-speaking police officer phoned the station: a train for Istanbul would leave that evening [Letter p. 11 — "Palast Hotel"](../letter/pages/page-11.json#p11-s27). It was cancelled for heavy snow, and people spoke of 12 days. Fritz telegraphed his parents, who would have heard of the earthquake, and failed to sell his mountain boots for more than 5 Lira [Letter p. 12 — "the train was not going today because of heavy snowfalls"](../letter/pages/page-12.json#p12-s08). A police inspector who knew about their Japanese visas questioned them for an hour in their hotel room [Letter p. 12 — "what we had done in Japan"](../letter/pages/page-12.json#p12-s06). When hotel guests pressed them for dental help, Strauss showed a few impression trays (*Abdrucklöffel*) to prove they had no instruments. A guest bought four for 4.50 Lira, perhaps "as cookie molds" for his wife [Letter p. 12 — "4.50 Lira"](../letter/pages/page-12.json#p12-s36). An abscess formed on Fritz's right heel, and Strauss lanced it with a pocketknife sterilized over a match [Letter p. 13 — "sterilized his pocket knife over a match flame"](../letter/pages/page-13.json#p13-s03).
 
 ### Features & Media
 * **Object Card:** A 1930s dental impression tray, with an explanation of what it is and why a stranger might buy one.
@@ -51,7 +51,7 @@ After a cold, overpriced room at the "Palast Hotel", a charming German-speaking 
 **Date:** Jan 11–12, 1940
 
 ### Narrative
-The train stuck in snowdrifts again and again and had to be shoveled free [Letter p. 13 — "until the train was shoveled free"](../letter/pages/page-13.json#p13-s29). They spent a night without food or water at a small station. At dawn Fritz found a red drink that tasted of cinnamon and sausages that seemed made of felt in a village hut [Letter p. 13 — "tasted of cinnamon"](../letter/pages/page-13.json#p13-s36). On Jan 12 at 13:15, "since 30 hours in the III class compartment", they stood at the landslide, about 150 km from Erzurum, where 30 workers were blasting away rock from a 50 m buried stretch [Letter p. 12 — "since 30 hours in the III class compartment"].
+The train stuck in snowdrifts again and again and had to be shoveled free [Letter p. 13 — "until the train was shoveled free"](../letter/pages/page-13.json#p13-s29). They spent a night without food or water at a small station. At dawn Fritz found a red drink that tasted of cinnamon and sausages that seemed made of felt in a village hut [Letter p. 13 — "tasted of cinnamon"](../letter/pages/page-13.json#p13-s36). On Jan 12 at 13:15, after 30 hours in the train, they stood at the landslide, about 150 km from Erzurum, where 30 workers were blasting away rock from a 50 m buried stretch [Letter p. 12 — "sitting in the train for 30 hours"](../letter/pages/page-12.json#p12-s19).
 
 ---
 

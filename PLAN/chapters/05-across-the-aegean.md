@@ -14,7 +14,7 @@ The calm of the Marmara gives way to a bureaucratic ordeal. Istanbul police char
 **Date:** Jan 16, 1940, 7:00 AM
 
 ### Narrative
-The ferry was barely 20 m from the station. "Over there in the rain lay Europe." They took leave of the continent that had hosted them for almost three years and landed in Galata after 20 minutes (the typescript's "Pera" is corrected by hand) [Letter p. 15 — "Over there, in the rain, lay Europe"](../letter/pages/page-15.json#p15-s20).
+The ferry was barely 20 m from the station. "Over there, in the rain, lay Europe." They took leave of the continent that had hosted them for almost three years and landed in Galata after 20 minutes (the typescript's "Pera" is corrected by hand) [Letter p. 15 — "Over there, in the rain, lay Europe"](../letter/pages/page-15.json#p15-s20).
 
 ### Features & Media
 * **Archival Photography:** Bosphorus ferries and Galata Bridge, 1930s (see `PLAN/media/chapter-05.md`).

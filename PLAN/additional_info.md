@@ -29,7 +29,7 @@ The German on Letter p. 13 is *Faktotum*: a factotum or hotel/office handyman, n
 4. The Card Game "66"
 Sechsundsechzig (Sixty-six) is a famous, traditional 6-card trick-and-draw card game popular across Central Europe and Germany (often played with a 24-card deck). The goal is to be the first player to score 66 card points through tricks and declarations. It was a very common casual two-player game for travelers to pass the time. See https://bicyclecards.com/how-to-play/sixty-six/
 
-In the letter, Fritz and Strauss play 66 while snowbound at Kızıldize (p. 5), play cards for days at Taşlıçay and Karaköse (pp. 6–7), and play 66 and poker with Turkish officers on the train past Erzincan (p. 14). The letter does *not* mention 66 at Türkali; there they had a gramophone, a kid goat's head, and vermin. Later, on the *Conte di Savoia*, they play **Skat** with Hungarian passengers (p. 20).
+In the letter, Fritz and Strauss play 66 while snowbound at Kızıldize (p. 5), play cards for days at Taşlıçay and Karaköse (pp. 6–7), and play 66 and poker with Turkish officers on the train past Erzincan (p. 14). The letter does *not* mention 66 at Türkali; there they had a gramophone, a calf's head, and vermin. Later, on the *Conte di Savoia*, they play **Skat** with Hungarian passengers (p. 20).
 
 5. The Book: *Wandlungen der Liebe*
 Fritz reads this on the night train from Eskişehir to Istanbul (Letter p. 15). The German typescript reads *Wandlungen der Liebe* ("Transformations of Love"); the old "Sandlungen" was a misreading. Which book this is has not been verified, so don't name an author on the site until it is.

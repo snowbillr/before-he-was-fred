@@ -108,7 +108,7 @@ Arrival: Jan 7, 1940 (6:00 PM, after 11½ hours of travel). First warm room and 
 
 Arrival: Jan 8, 1940 (Morning).
 
-Details: Arrived via horse sled. Stayed until Jan 11 due to railway delays caused by severe weather and earthquake damage. Boarded the train on Jan 11 at 9:00 AM.
+Details: Arrived via horse sled. Stayed until Jan 11 due to railway delays caused by severe weather and earthquake damage. Boarded the train on Jan 11 (the 12.1.40, 13:15 entry says they had been on it for 30 hours).
 
 *Leg: third-class train, repeatedly stuck in snow; a night without food or water; 30 hours to the landslide about 150 km out (Jan 12, 13:15); transfer on foot 200 m to a second train; 50 km in 4 hours to Erzincan.*
 
