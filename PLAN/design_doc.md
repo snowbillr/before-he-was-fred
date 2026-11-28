@@ -58,7 +58,7 @@ The chapter files hold the narrative, citations and feature ideas for every step
 
 ### 3. Primary Source & Citation Viewer
 
-**Citation badges.** Narrative text cites the letter at the sentence level. In the plan docs a citation is written `[Letter p. N — "anchor phrase"](#p08-s14)`: the anchor is a phrase from the English of that sentence, and the fragment is the sentence ID in the letter data. Citations to pages whose JSON does not exist yet carry no fragment until the transcription lands. On screen it renders as a small badge, `[p. 8]`.
+**Citation badges.** Narrative text cites the letter at the sentence level. In the plan docs a citation is written `[Letter p. N — "anchor phrase"](../letter/pages/page-08.json#p08-s14)`: the anchor is a phrase from the English of that sentence, the link opens that page's letter data on GitHub, and the fragment is the sentence ID the site uses to open the citation viewer. Citations to pages whose JSON does not exist yet carry no fragment until the transcription lands. On screen it renders as a small badge, `[p. 8]`.
 
 **Clicking a badge** opens the **Original Letter** tab (or a sheet on mobile) and shows:
 1. The **scan of the letter page**, zoomed and scrolled to the cited sentence, with the sentence's lines highlighted (`source-highlight` #fef3c7, multiply blend).
