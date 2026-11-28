@@ -1,6 +1,6 @@
 # Chapter 2 — The Persian Frontier: media & context research
 
-**Route:** Tabriz → Khoy → Maku → Bazargan (Bazirgan) → Gürbulak (Dec 20/21–27, 1939)
+**Route:** Tabriz → Khoy → Maku → Bazargan (Bazirgan) → Gürbulak (Dec 21–23, 1939)
 **Letter pages:** p. 2 (second half) – p. 4 (`### Page 2`–`### Page 4` in `PLAN/translation.md`)
 
 The source and license notes from `chapter-01.md` apply here too: Schwarzenbach and Sevruguin images are public domain via the Swiss National Library and Museum Rietberg, and I could not reach the Library of Congress. Licenses were checked against the Commons file metadata.
@@ -45,7 +45,7 @@ Letter p. 2–3: the bus is "stuffed full. People were even sitting packed tight
 
 | # | Title | Direct image URL | Source page | Creator / date | License | Suggested caption |
 |---|---|---|---|---|---|---|
-| 2.1 | **Road near Julfa** (contact card with two views) | https://upload.wikimedia.org/wikipedia/commons/4/43/CH-NB_-_Persien%2C_Djulfa-_Landschaft_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-036.jpg | https://commons.wikimedia.org/wiki/File:CH-NB_-_Persien,_Djulfa-_Landschaft_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-036.jpg | A. Schwarzenbach, 1935 | Public domain | The straight dirt highway north of Tabriz, toward Julfa: the road Fritz's bus took, crossing and recrossing the Julfa railway. |
+| 2.1 | **Road near Julfa** (contact card with two views) | https://upload.wikimedia.org/wikipedia/commons/4/43/CH-NB_-_Persien%2C_Djulfa-_Landschaft_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-036.jpg | https://commons.wikimedia.org/wiki/File:CH-NB_-_Persien,_Djulfa-_Landschaft_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-036.jpg | A. Schwarzenbach, 1935 | Public domain | The straight dirt highway north of Tabriz, toward Julfa. Use as a representative view of the road north of Tabriz, not as the exact stretch: the letter only says the bus first ran beside the Julfa railway. |
 | 2.2 | Caravanserai near Julfa (contact card) | https://upload.wikimedia.org/wikipedia/commons/7/7d/CH-NB_-_Persien%2C_Djulfa-_Geb%C3%A4ude_u._Landschaft_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-038.jpg | https://commons.wikimedia.org/wiki/File:CH-NB_-_Persien,_Djulfa-_Geb%C3%A4ude_u._Landschaft_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-038.jpg | A. Schwarzenbach, 1935 | Public domain | An old caravanserai beside the Tabriz–Julfa road. |
 | 2.3 | Caravanserai (location uncertain) | https://upload.wikimedia.org/wikipedia/commons/8/8c/CH-NB_-_Persien%2C_Djulfa-_Geb%C3%A4ude_%28Lokalisierung_unsicher%29_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-046.jpg | https://commons.wikimedia.org/wiki/File:CH-NB_-_Persien,_Djulfa-_Geb%C3%A4ude_(Lokalisierung_unsicher)_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-046.jpg | A. Schwarzenbach, 1935 | Public domain | Roadside courtyards like this were the evening stops for buses and caravans. |
 | 2.4 | Caravanserai with rider | https://upload.wikimedia.org/wikipedia/commons/9/99/CH-NB_-_Persien%2C_Djulfa-_Geb%C3%A4ude_%28Lokalisierung_unsicher%29_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-065.jpg | https://commons.wikimedia.org/wiki/File:CH-NB_-_Persien,_Djulfa-_Geb%C3%A4ude_(Lokalisierung_unsicher)_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-06-065.jpg | A. Schwarzenbach, 1935 | Public domain | — |

@@ -67,6 +67,8 @@ The chapter files hold the narrative, citations and feature ideas for every step
 
 **Highlight geometry.** The letter is typewritten (monospaced), so each sentence is stored as a start/end position (line, column) in the page's transcribed lines. Highlight rectangles are computed per line from a per-page **calibration**: the text block's left/top margin, line pitch and character pitch, in image pixels. These are measured once per scan and stored in the page JSON. Where a typed line is skewed on the photo, an optional per-line `bbox` overrides the computed rectangle.
 
+**Editorial markers.** Uncertain readings in `lines` are marked in brackets (`Reiseberic[ht?]`, `[D?]`, `[?]`, `[...]`). They are not typed characters, so the renderer must not count them as columns: `[xyz?]` takes the width of `xyz`, while `[?]` and `[...]` take no width. Columns after a marker on the same line are adjusted accordingly.
+
 **Calibration status.** The page JSONs do not have `calibration` or `lineBoxes` yet. Tesseract finds only about half of the typed lines on the 750×1000 scans, and the photos have some perspective skew, so automatic values were unreliable. Measure each page by hand in a small calibration tool (click the first and last character of two lines; store per-page left/top, line pitch, char pitch, and a skew angle), or redo it automatically if higher-resolution photos become available. Sentence text, IDs and line/column ranges do not depend on the image and stay valid if scans are replaced.
 
 **Letter data schema** (`PLAN/letter/pages/page-NN.json`):

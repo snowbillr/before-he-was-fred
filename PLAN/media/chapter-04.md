@@ -138,13 +138,13 @@ Letter p. 14: the train stops four hours; the town is rubble; injured are kept i
 - **Vakit, Dec. 28, 1939 — "Erzincan has become a ruin"**
   - Image: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Vakit_1939_birincikanun_28.pdf/page1-1920px-Vakit_1939_birincikanun_28.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   - Source: https://commons.wikimedia.org/wiki/File:Vakit_1939_birincikanun_28.pdf
-  - Creator / date: Vakit Gazetesi / 1939-01-28
+  - Creator / date: Vakit Gazetesi / 1939-12-28 (Commons metadata says 1939-01-28; the file name "birincikanun" means December)
   - License: Public domain (per Commons file page)
   - Caption: "Istanbul's *Vakit*, Dec. 28, 1939, the day after the quake: 'We have lost hundreds of our citizens… Erzincan has become a ruin.' The toll would climb to nearly 33,000."
 - **Vakit, Dec. 29, 1939 — follow-up coverage**
   - Image: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Vakit_1939_birincikanun_29.pdf/page1-1920px-Vakit_1939_birincikanun_29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   - Source: https://commons.wikimedia.org/wiki/File:Vakit_1939_birincikanun_29.pdf
-  - Creator / date: Vakit Gazetesi / 1939-01-29
+  - Creator / date: Vakit Gazetesi / 1939-12-29
   - License: Public domain (per Commons file page)
   - Caption: "*Vakit*, Dec. 29, 1939 (Commons mislabels it January)." *(Front page not visually checked — confirm it shows quake coverage before use.)*
 

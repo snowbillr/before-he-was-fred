@@ -187,7 +187,7 @@ As soon as war began in September 1939, Britain revived its First World War bloc
 
 *Letter p. 20: "The next day out on the Atlantic, I started feeling uneasy. I spent most of the time in the cabin, right on the verge of seasickness. On the day before our arrival, I was back on my feet and tried to make up for lost time by eating my way up and down the menus."*
 
-- Use the "la nave che non rolla" poster (Section 2) for the seasickness beat.
+- Use the "la nave che non rolla" poster (Section 2) for the seasickness beat only if the rights to Lenhart's 1932 artwork are cleared; otherwise use a public-domain photo of the ship.
 - **Menus:** NYPL's *What's on the Menu?* collection and other menu archives may hold Italian Line menus. I could not reach NYPL Digital Collections' rights data from this environment, so **not verified**. Many NYPL menu scans are marked "No known copyright restrictions"; check the specific item's rights statement before use.
 - **Deck life:** no free 1939–40 photos of passengers on board the *Conte di Savoia* were found. italianliners.com has them, but they are not free (see top of this file).
 

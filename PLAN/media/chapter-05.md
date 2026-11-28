@@ -1,6 +1,6 @@
 # Chapter 5 — Across the Aegean: Media & Context Research
 
-**Route:** Istanbul → (Orient Express) → Pythion → (diesel railcar) → Alexandroupolis → Salonika → Thebes → Piraeus → (MV *Egitto*) → Corinth Canal → Brindisi → (bus) → Foggia → (train) → Naples
+**Route:** Istanbul → (Orient Express) → Pythion → (diesel railcar) → Alexandroupolis → Salonika → Thebes → Piraeus → (MV *Egitto*) → Corinth Canal → Brindisi → (train) → Foggia → (train) → Naples
 **Dates:** Jan 16–24, 1940 · **Letter:** p. 15 (end), 16, 17, 20 in `PLAN/translation.md`
 
 All licenses below were read from each file's Wikimedia Commons page (machine-readable `LicenseShortName` + author/source fields) on 2026-11-27. "Image" links point to the original upload. For TIFF originals (ETH-Bibliothek slides) they point to the Commons-rendered 1920px JPEG instead. Attribution is required for every CC BY / CC BY-SA item; CC BY-SA items also require the site to note the license next to the image. Public-domain items still deserve a courtesy credit.
@@ -162,7 +162,7 @@ The overnight train ran on the standard-gauge Piraeus–Thessaloniki main line, 
 
 ---
 
-## 7. Piraeus — the sprint onto the *Egitto* (Jan 21, 1940, 11:30–12:00)
+## 7. Piraeus — the sprint onto the *Egitto* (Jan 22, 1940, 11:30–12:00)
 
 *Letter p. 20: "…at 12 o'clock a ship was scheduled to leave for Brindisi. In terrible haste, we loaded our luggage onto an antediluvian cab… I had to pay the porters and the motorboat that brought us to the ship in US dollars. Half dead, we reached the ship at the very last second… a 3,500-ton luxury steamer named the 'Egitto'; however, the food was not up to standard."*
 
@@ -209,7 +209,7 @@ The *Egitto* was one of the four 1928 Trieste-built sisters described in Section
 
 ---
 
-## 8. Transit leg — the Corinth Canal (Jan 21, 1940, late afternoon)
+## 8. Transit leg — the Corinth Canal (Jan 22, 1940, late afternoon)
 
 *Letter p. 20: "In the late afternoon, we reached the Isthmus of Corinth and were towed by a small tugboat through the approximately 3 km long, extremely narrow canal—a Cordell marvel of engineering. Then we reached the open sea."*
 
@@ -269,9 +269,9 @@ Brindisi sits at the heel of Italy where the Roman Via Appia ended (its terminal
 
 ---
 
-## 10. Transit leg — bus to Foggia, then the night train to Naples (Jan 23–24, 1940)
+## 10. Transit leg — train to Foggia, then the night train to Naples (Jan 23–24, 1940)
 
-*Letter p. 20: "I could take a 3 o'clock bus to Foggia, where I'd catch a 6 o'clock connection to Naples… instead of leaving shortly after 5 o'clock, the next train didn't leave until around midnight, and so I ended up landing in Naples at 6:30 in the morning." Strauss meanwhile took "the southern rail route".*
+*Letter p. 20: "I could take a train to Foggia at 3 o'clock, where I would have a connection to Naples at 6… the train then arrived in Foggia not shortly after 5 but only around 1[?]… Fortunately there was still a train after midnight, and so I landed in Naples at half past 6 in the morning." Strauss meanwhile took "the southern route".*
 
 
 #### Foggia station, platform canopy (old postcard, 1905–1945)
@@ -280,7 +280,7 @@ Brindisi sits at the heel of Italy where the Roman Via Appia ended (its terminal
 - **Creator / date:** Anonymous (old postcard), between 1905 and 1945
 - **License:** Public domain
 - **Suggested caption:** The train shed at Foggia, the Apulian rail junction where Fritz waited from early evening until about midnight for the train across the Apennines to Naples.
-- **Belongs to:** Brindisi → Foggia bus leg / Foggia stop
+- **Belongs to:** Brindisi → Foggia train leg / Foggia stop
 
 #### "Direttissima per le Puglie: Napoli–Barletta" (1920)
 - **Image:** https://upload.wikimedia.org/wikipedia/commons/6/64/Direttissima_per_le_Puglie_-_Napoli_Barletta.jpg
@@ -301,9 +301,9 @@ This chapter is a chain of missed connections that fits the *Route Timetable* wi
 |---|---|
 | *Città di Bari* from Istanbul, Jan 18, 2 pm | Sailed without them (police delays) |
 | Catch *Città di Bari* at Piraeus 2 days later | Orient Express late, Athens connection at Pythion missed, 24 h wait |
-| — | *Egitto* from Piraeus Jan 21, noon (boarded "at the very last second") |
+| — | *Egitto* from Piraeus Jan 22, noon (boarded "at the last second") |
 | Brindisi 12:00 → 1 pm train to Naples | Ship early, but customs too slow; trunk clerk at breakfast; Fritz left behind |
-| 3 pm bus → Foggia → 6 pm train | Train left around midnight |
+| 3 pm train → Foggia → 6 pm train | Reached Foggia only around 1; next train after midnight |
 | — | Naples 6:30 am, Jan 24; *Conte di Savoia* sails at noon |
 *Source: Letter p. 16–17, 20.* Strauss's "southern rail route" from Brindisi to Naples probably ran via Taranto, Metaponto, Potenza and Battipaglia, but the letter does not say.
 
@@ -354,6 +354,6 @@ Fritz had looked forward the whole journey to phoning his family in Germany from
 3. **design_doc.md Ch. 5 and plan pages call the ship "*SS Egitto*"**. Should be *MV Egitto* or just *Egitto*.
 4. **Letter p. 20 says the Corinth Canal is "approximately 3 km long".** It is 6.4 km. Keep the letter's words but add an editor's note.
 5. **Letter p. 20: "a Cordell marvel of engineering"** is almost certainly a transcription/translation error (perhaps German *kolossal* or a misread word). Check against the German original.
-6. **Date ambiguity, Piraeus → Brindisi.** The letter puts the Piraeus departure at Jan 21 (the 24-hour wait at Pythion on Jan 19–20, then Salonika at 10 pm and Piraeus at 11:30 the next morning), then says "the next day, on January 23" they reached Brindisi. One of these is off by a day: either the sailing was Jan 22 or the crossing took two nights. `route.md` (Piraeus Jan 21, Brindisi Jan 23) follows the letter as written. Flag it in the timetable widget.
+6. **Date, Piraeus → Brindisi (resolved).** The letter calls the Jan 23 Brindisi arrival "the next day", so the *Egitto* left Piraeus on Jan 22; `route.md` and Chapter 5 use Jan 22.
 7. **design_doc.md Ch. 5 dates "Jan 17–24"**: the Istanbul arrival was Jan 16 (route.md), and the train left Istanbul on the night of ~Jan 18. Align with the new chapter dates (Jan 16–24).
 8. **Letter p. 17 says the *Città di Bari* "would dock in Piraeus two days later"**, which is consistent with her Istanbul–Piraeus route. No issue, just confirming.

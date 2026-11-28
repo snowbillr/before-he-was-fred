@@ -42,7 +42,7 @@ They woke to a brilliant sunny winter day. In the village elder's house they tal
 ### Features & Media
 * **Primary Source Highlight:** The opening dateline of the letter, "Taslicay (Asia Minor), 25 December 1939" [Letter p. 1 — "Taslicay"](../letter/pages/page-01.json#p01-s02).
 * **Map Inset:** Fritz's directions, traced along the Euphrates from Baghdad to Taşlıçay.
-* **Context Card — "Meanwhile":** The Erzincan earthquake struck at about 2 AM on Dec 27, the morning they left Taşlıçay, roughly 300 km to the west. The letter does not mention it until Erzurum (see Chapter 4).
+* **Context Card — "Meanwhile":** The Erzincan earthquake struck at about 2 AM on Dec 27, the morning they left Taşlıçay, roughly 300 km to the west. Fritz first mentions it in hindsight while recounting the Taşlıçay delay: without it "we would have landed with astonishing precision right in the middle of the earthquake" [Letter p. 7 — "right in the middle of the earthquake"](../letter/pages/page-07.json#p07-s04).
 
 ---
 
@@ -77,7 +77,7 @@ The horses "did not look particularly trustworthy". The driver stopped for a cha
 **Coordinates:** 39.7944° N, 42.6739° E | **Date:** Dec 31, 1939 – Jan 1, 1940 (New Year's Eve)
 
 ### Narrative
-After 35 km they ate roast mutton legs, "the only edible thing", and spent New Year's Eve drinking tea. Fritz thought of family in Shanghai and toasted Aunt Lottchen with tea [Letter p. 8 — "thought of earlier New Year's Eves"](../letter/pages/page-08.json#p08-s15). At 5 AM a faint "Prosit Neujahr, Fritz" woke him. Strauss had barely slept because water dripped onto his bed all night [Letter p. 8 — "Prosit Neujahr"](../letter/pages/page-08.json#p08-s19).
+After 35 km they ate roast mutton legs, "the only edible thing", and spent New Year's Eve drinking tea. Fritz thought of family in Shanghai and toasted Aunt Lottchen with tea [Letter p. 8 — "drink to Aunt Lottchen's health"](../letter/pages/page-08.json#p08-s16). At 5 AM a faint "Prosit Neujahr, Fritz" woke him [Letter p. 8 — "Prosit Neujahr"](../letter/pages/page-08.json#p08-s19). Strauss had barely slept because water dripped onto his bed all night [Letter p. 8 — "had barely slept"](../letter/pages/page-08.json#p08-s20).
 
 ### Features & Media
 * **Journal Highlight:** New Year's Eve 1939, written up as a quiet vignette.
@@ -88,7 +88,7 @@ After 35 km they ate roast mutton legs, "the only edible thing", and spent New Y
 **Date:** Jan 1, 1940
 
 ### Narrative
-Three sleds set out in drizzling rain, joined by a young Turk with his wife and four children. At Türkali's gendarmerie the driver telephoned Tahir, 18 km ahead, and was told the road was free [Letter p. 8 — "telephoned to Tahir"](../letter/pages/page-08.json#p08-s28). Within a few hundred meters the track vanished. The men walked ahead into a storm of ice crystals. Near the ridge the wind knocked Fritz flat, and visibility fell below 5 m [Letter p. 8 — "The dreadful storm had blown me over"](../letter/pages/page-08.json#p08-s38). Strauss disappeared for over an hour. He came back having sunk "up to his neck", lost a rubber shoe, and crawled back on his belly [Letter p. 8 — "sunk in up to his neck"](../letter/pages/page-08.json#p08-s51). A horse fell and rolled 30 m down the slope. The father of the family fired a revolver twice into the air, and "the bang died in the storm" [Letter p. 9 — "fired twice into the air"](../letter/pages/page-09.json#p09-s02). After more than two hours they turned back and left two luggage sleds on the mountain [Letter p. 9 — "in this hell for over 2 hours"](../letter/pages/page-09.json#p09-s05).
+Three sleds set out in drizzling rain, joined by a young Turk with his wife and four children. At Türkali's gendarmerie the driver telephoned Tahir, 18 km ahead, and was told the road was free [Letter p. 8 — "telephoned to Tahir"](../letter/pages/page-08.json#p08-s28). Within a few hundred meters the track vanished. The men walked ahead into a storm of ice crystals. Near the ridge the wind knocked Fritz flat, and visibility fell below 5 m [Letter p. 8 — "The dreadful storm had blown me over"](../letter/pages/page-08.json#p08-s38). Strauss disappeared for over an hour. He came back having sunk "up to his neck", lost a rubber shoe, and crawled back on his belly [Letter p. 8 — "sunk in up to his neck"](../letter/pages/page-08.json#p08-s51). Leading the horses back past the sleds, one fell and rolled 3 m down the slope [Letter p. 8 — "rolled 3m down the slope"](../letter/pages/page-08.json#p08-s53). The father of the family fired a revolver twice into the air, and "the bang died in the storm" [Letter p. 9 — "fired twice into the air"](../letter/pages/page-09.json#p09-s02). After more than two hours they turned back and left two luggage sleds on the mountain [Letter p. 9 — "in this hell for over 2 hours"](../letter/pages/page-09.json#p09-s05).
 
 ### Features & Media
 * **Audio/Visual:** An optional blizzard ambience during this leg (muted by default).

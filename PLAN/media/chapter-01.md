@@ -47,7 +47,7 @@ Caveat: the archive marks the location of 2.1–2.3 as uncertain ("Lokalisierung
 
 ## 3. Qazvin — Grand Hotel rest stop (7:30 PM, Dec 19)
 
-Letter p. 1: "At 8:30 we stopped in front of the 'Grand Hotel' in Qazvin… Strauss… rushed… to the venerable radio set, without noteworthy success. Meanwhile, I ordered bread and tea… he took 8 Toman from us for the meager snack."
+Letter p. 1: "At 7:30 we stopped in front of the 'Grand Hotel' in Qazvin… Strauss… rushed… to the venerable radio set, without noteworthy success. Meanwhile, I ordered borscht and tea… they took 8 Kran from us for the meager snack."
 
 | # | Title | Direct image URL | Source page | Creator / date | License | Suggested caption |
 |---|---|---|---|---|---|---|

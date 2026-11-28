@@ -108,9 +108,11 @@ Arrival: Jan 7, 1940 (6:00 PM, after 11½ hours of travel). First warm room and 
 
 Arrival: Jan 8, 1940 (Morning).
 
-Details: Arrived via horse sled. Stayed until Jan 11 due to railway delays caused by severe weather and earthquake damage. Boarded the train on Jan 11 (the 12.1.40, 13:15 entry says they had been on it for 30 hours).
+Details: Arrived via horse sled. Stayed until Jan 11 due to railway delays caused by severe weather and earthquake damage. Boarded the train on Jan 11; it pulled out at 9:00 AM (Letter p. 13). The 12.1.40, 13:15 entry says they had been on it for about 30 hours.
 
 *Leg: third-class train, repeatedly stuck in snow; a night without food or water; 30 hours to the landslide about 150 km out (Jan 12, 13:15); transfer on foot 200 m to a second train; 50 km in 4 hours to Erzincan.*
+
+*Landslide waypoint (for the globe): on the Erzurum–Erzincan railway, about 50 km east of Erzincan by rail. The letter gives no place name, so plot it by distance along the line and label it approximate.*
 
 ## Erzincan, Turkey 39.7500° N, 39.5000° E
 
@@ -142,7 +144,9 @@ Arrival: Jan 15, 1940 (Evening; the 11 PM entry was written after leaving).
 
 Details: 2-hour layover to get tea and bread.
 
-## Istanbul (Haydarpaşa & Galata), Turkey 41.0082° N, 28.9784° E
+## Istanbul (Haydarpaşa & Galata), Turkey 40.9969° N, 29.0192° E (Haydarpaşa terminal)
+
+Ferry landing: Karaköy (Galata), 41.0225° N, 28.9744° E. The `Haydarpaşa → Galata` ferry leg runs between these two points.
 
 Arrival: Jan 16, 1940 (7:00 AM).
 
